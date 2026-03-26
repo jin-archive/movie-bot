@@ -160,43 +160,42 @@ def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
         date = extract_date(row.text)
         data["kmrb"].append({"title": title, "link": link, "date": date})
 
-# 5. 아카데미 로카 맞춤형 스크래퍼 (테이블 구조 무시, 링크 중심 탐색)
+# 5. 아카데미 로카 맞춤형 스크래퍼 (구형 인코딩 cp949 강제 적용)
 def scrape_theloca(url):
-    soup = get_soup(url)
-    if not soup: return
-    
-    # 로카 게시판에서 게시글 링크는 무조건 'view.php'를 포함한다는 특징을 이용합니다.
+    try:
+        # 로카는 구형 사이트이므로 get_soup을 쓰지 않고 직접 호출하여 인코딩을 강제 지정합니다.
+        res = requests.get(url, headers=headers, timeout=10, verify=False)
+        res.raise_for_status()
+        res.encoding = 'cp949'  # euc-kr보다 호환성이 좋은 cp949로 한글 깨짐 방지
+        soup = BeautifulSoup(res.text, 'html.parser')
+    except Exception as e:
+        print(f"로카 접속 에러: {e}")
+        return
+
+    # 게시글 읽기 링크(view.php)를 포함하는 모든 a 태그를 찾습니다.
     a_tags = soup.select('a[href*="view.php"]')
-    
-    # 중복 게시글 처리를 위한 세트
     seen_links = set()
     
     for a_tag in a_tags:
         title = a_tag.text.strip()
-        # 제목이 비어있거나, "더보기" 같은 쓸데없는 텍스트면 건너뜀
-        if not title or len(title) < 5: continue
+        if not title: continue
         
-        # PHP 세션 ID(PHPSESSID)가 묻어있을 경우를 대비해 깔끔하게 잘라줍니다.
+        # 세션 ID 제거 및 절대경로 조립
         href = a_tag.get('href', '')
         if '&PHPSESSID' in href:
             href = href.split('&PHPSESSID')[0]
-            
         link = urljoin(url, href)
         
-        # 똑같은 링크(제목)가 중복 수집되는 것을 방지
+        # 중복 방지
         if link in seen_links: continue
         seen_links.add(link)
         
-        # 날짜 추출: 보통 <a> 태그의 부모나 그 부모(tr, td 등) 텍스트 안에 날짜가 숨어있습니다.
-        parent_text = a_tag.parent.parent.text if a_tag.parent.parent else ""
-        date = extract_date(parent_text)
-        
-        # 혹시 부모 태그에서 날짜를 못 찾았다면, 주변 전체 텍스트에서 한 번 더 시도
-        if not date and a_tag.parent.parent.parent:
-             date = extract_date(a_tag.parent.parent.parent.text)
+        # 날짜 추출: a 태그를 감싸고 있는 가장 가까운 tr(표의 행)을 찾아 텍스트 전체에서 날짜를 뽑습니다.
+        tr_tag = a_tag.find_parent('tr')
+        date = extract_date(tr_tag.text) if tr_tag else ""
 
         data["theloca"].append({"title": title, "link": link, "date": date})
-
+        
 # ==========================================
 # 실행부
 # ==========================================
