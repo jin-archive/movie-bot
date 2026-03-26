@@ -4,6 +4,10 @@ import json
 import re
 from datetime import datetime
 from urllib.parse import urljoin
+import urllib3
+
+# [추가] 로카 등 소규모 사이트의 SSL 인증서 경고를 숨기고 접속을 강제하기 위함
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 data = {
     "kofic": [],
@@ -22,7 +26,8 @@ headers = {
 
 def get_soup(url):
     try:
-        response = requests.get(url, headers=headers, timeout=10)
+        # [수정] verify=False를 추가하여 보안 인증서 에러를 무시하고 긁어옵니다.
+        response = requests.get(url, headers=headers, timeout=10, verify=False)
         response.raise_for_status()
         response.encoding = response.apparent_encoding
         return BeautifulSoup(response.text, 'html.parser')
@@ -70,27 +75,26 @@ def scrape_kofic(url, prefix, include_keyword="", exclude_keyword=""):
         date = extract_date(row.text)
         data["kofic"].append({"title": f"[{prefix}] {title}", "link": link, "date": date})      
         
-# 2. 범용 스크래퍼 (한국영상자료원, 전국미디어센터, 영화의전당 통합 처리용)
+# 2. 범용 스크래퍼 (한국영상자료원, 영화의전당, 아카데미 로카 통합 처리용)
 def scrape_general(key, url, include_keyword="", exclude_keyword=""):
     soup = get_soup(url)
     if not soup: return
     
-    for row in soup.select('table tbody tr'):
+    # [수정] <tbody> 태그가 생략된 로카 게시판을 위한 예외 처리 (없으면 table tr로 찾음)
+    rows = soup.select('table tbody tr')
+    if not rows:
+        rows = soup.select('table tr')
+        
+    for row in rows:
         a_tag = row.select_one('a')
         if not a_tag: continue
         
         title = a_tag.text.strip()
         if not title: continue
         
-        # [조건 1] 포함해야 할 단어가 지정되었으나 제목에 없으면 건너뜁니다.
-        if include_keyword and include_keyword not in title:
-            continue
-            
-        # [조건 2] 제외해야 할 단어가 지정되었고 제목에 포함되어 있으면 건너뜁니다.
-        if exclude_keyword and exclude_keyword in title:
-            continue
+        if include_keyword and include_keyword not in title: continue
+        if exclude_keyword and exclude_keyword in title: continue
         
-        # urljoin을 사용하여 상대경로 및 파라미터를 완벽한 절대 주소로 조립합니다.
         link = urljoin(url, a_tag.get('href', ''))
         date = extract_date(row.text)
         
@@ -118,7 +122,7 @@ def scrape_cine21():
                 if not any(item['link'] == link for item in data["cine21"]):
                     data["cine21"].append({"title": title, "link": link, "date": date})
 
-# 4. 영상물등급위원회 맞춤형 스크래퍼 (키워드 필터 기능 추가)
+# 4. 영상물등급위원회 맞춤형 스크래퍼
 def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
     soup = get_soup(url)
     if not soup: return
@@ -130,26 +134,28 @@ def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
         title = a_tag.text.strip()
         if not title: continue
         
-        # [조건 1] 포함해야 할 단어("채용")가 제목에 없으면 건너뜁니다.
-        if include_keyword and include_keyword not in title:
-            continue
-            
-        # [조건 2] 제외해야 할 단어("합격")가 제목에 있으면 건너뜁니다.
-        if exclude_keyword and exclude_keyword in title:
-            continue
+        if include_keyword and include_keyword not in title: continue
+        if exclude_keyword and exclude_keyword in title: continue
         
-        href = a_tag.get('href', '')
-        onclick = a_tag.get('onclick', '')
+        # [수정] <a> 태그뿐만 아니라 <tr> 전체 HTML에서 게시글 고유 번호를 샅샅이 뒤져 찾아냅니다.
+        row_html = str(row)
+        link = "#"
         
-        js_code = href + str(onclick)
-        link = urljoin(url, href)
+        # 4자리 이상의 숫자를 모두 찾습니다.
+        nums = re.findall(r"\d{4,}", row_html)
+        nttSn = None
+        for num in nums:
+            # 메뉴번호(1111), 게시판번호(1009), 연도(2024~2027)를 제외한 첫 번째 큰 숫자가 무조건 게시글 고유번호(nttSn)입니다.
+            if num not in ["1111", "1009", "2024", "2025", "2026", "2027"]:
+                nttSn = num
+                break
         
-        # 자바스크립트 함수에서 글 번호(nttSn)만 추출하여 완벽한 주소 조립
-        if 'javascript' in js_code.lower():
-            nums = re.findall(r"['\"]?(\d{4,})['\"]?", js_code)
-            if nums:
-                nttSn = nums[0]
-                link = url.replace('selectNttList.do', 'selectNttInfo.do') + f"&nttSn={nttSn}"
+        if nttSn:
+            link = url.replace('selectNttList.do', 'selectNttInfo.do') + f"&nttSn={nttSn}"
+        else:
+            href = a_tag.get('href', '')
+            if href and href != "#" and "javascript" not in href:
+                link = urljoin(url, href)
         
         date = extract_date(row.text)
         data["kmrb"].append({"title": title, "link": link, "date": date})
