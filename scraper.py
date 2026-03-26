@@ -69,8 +69,8 @@ def scrape_kofic(url, prefix, include_keyword="", exclude_keyword=""):
         date = extract_date(row.text)
         data["kofic"].append({"title": f"[{prefix}] {title}", "link": link, "date": date})      
         
-# 2. 범용 스크래퍼 (한국영상자료원, 전국미디어센터, 영화의전당)
-def scrape_general(key, url):
+# 2. 범용 스크래퍼 (한국영상자료원, 전국미디어센터, 영화의전당 통합 처리용)
+def scrape_general(key, url, include_keyword="", exclude_keyword=""):
     soup = get_soup(url)
     if not soup: return
     
@@ -81,12 +81,20 @@ def scrape_general(key, url):
         title = a_tag.text.strip()
         if not title: continue
         
-        # urljoin을 사용하면 상대경로('/kofa/...')나 파라미터('?idx=...')를 알아서 완벽한 주소로 조립해줍니다. (404 에러, 홈화면 이동 해결)
+        # [조건 1] 포함해야 할 단어가 지정되었으나 제목에 없으면 건너뜁니다.
+        if include_keyword and include_keyword not in title:
+            continue
+            
+        # [조건 2] 제외해야 할 단어가 지정되었고 제목에 포함되어 있으면 건너뜁니다.
+        if exclude_keyword and exclude_keyword in title:
+            continue
+        
+        # urljoin을 사용하여 상대경로 및 파라미터를 완벽한 절대 주소로 조립합니다.
         link = urljoin(url, a_tag.get('href', ''))
         date = extract_date(row.text)
         
         data[key].append({"title": title, "link": link, "date": date})
-
+        
 # 3. 씨네21 맞춤형 스크래퍼 (테이블이 아닌 리스트 형태일 가능성 대비)
 def scrape_cine21():
     url = "https://cine21.com/community/recruit"
@@ -144,6 +152,7 @@ def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
         
         date = extract_date(row.text)
         data["kmrb"].append({"title": title, "link": link, "date": date})
+        
 # ==========================================
 # 실행부
 # ==========================================
@@ -163,15 +172,18 @@ scrape_cine21()
 data["cine21"] = data["cine21"][:10]
 
 print("3. 전국미디어센터협의회 크롤링 중...")
+# 키워드 없이 호출하여 기존처럼 모든 글을 가져옵니다.
 scrape_general("krmedia", "http://www.krmedia.org/pages/page_100.php")
 data["krmedia"] = data["krmedia"][:10]
 
 print("4. 한국영상자료원 크롤링 중...")
-scrape_general("kofa", "https://www.koreafilm.or.kr/kofa/news/recruit")
+# "채용"이 들어간 글만 수집하고, "합격"이 들어간 글은 제외합니다.
+scrape_general("kofa", "https://www.koreafilm.or.kr/kofa/news/recruit", "채용", "합격")
 data["kofa"] = data["kofa"][:10]
 
 print("5. 영화의전당 크롤링 중...")
-scrape_general("dureraum", "https://www.dureraum.org/bcc/board/list.do?rbsIdx=64")
+# "채용"이 들어간 글만 수집하고, "합격"이 들어간 글은 제외합니다.
+scrape_general("dureraum", "https://www.dureraum.org/bcc/board/list.do?rbsIdx=64", "채용", "합격")
 data["dureraum"] = data["dureraum"][:10]
 
 print("6. 영상물등급위원회 크롤링 중...")
