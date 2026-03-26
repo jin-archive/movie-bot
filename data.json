@@ -1,19 +1,29 @@
 {
     "kofic": [
         {
-            "title": "[구인] 28회 서울국제여성영화제 사무국 스태프(운영팀,프로그램팀 팀원) 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-31"
+            "title": "[공지] 2026년 대체인력(일반사무)-2 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-03-26"
         },
         {
-            "title": "[구인] [채용] 고집스튜디오 와 영화의 새로운 여정을 설계할 배급 담당자를 모십니다",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-10"
+            "title": "[공지] 2026년 대체인력(일반사무)-1 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-03-26"
         },
         {
-            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 48기 in 성수> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-10"
+            "title": "[공지] 2026년 공무직(운전기사) 공개채용 최종합격자 발표",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-03-25"
+        },
+        {
+            "title": "[공지] 2026년 KO-PICK 쇼케이스 in Cannes 참가 프로듀서 선발 결과 안내",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-03-24"
+        },
+        {
+            "title": "[공지] [알림] 위원회 시스템  안정성 강화를 위한 개선 및 점검 작업 안내(3.23.(월) 12:00~13:00)",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-03-20"
         },
         {
             "title": "[구인] [BIFAN] 환상영화학교: 글로벌 과정 멘티 모집 중! (~4.7 17시까지)",
@@ -21,19 +31,9 @@
             "date": "2026-04-07"
         },
         {
-            "title": "[구인] '삶을 위한 영화 에세이 쓰기 수업'(온라인) 참여자를 모집합니다.",
+            "title": "[구인] 서울아트시네마 회계팀 채용 공고 (서류 기간 연장 3.31까지)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-07"
-        },
-        {
-            "title": "[구인] ◆ AI 시대의 최종 승자는 작가! 4월 무료 공개 강의! (4월 6일/7일) ◆",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-07"
-        },
-        {
-            "title": "[구인] 부천국제판타스틱영화제 단기 스태프 채용 5차(초청팀, 기술팀, 마케팅팀, 시민사업팀)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-05"
+            "date": "2026-03-31"
         },
         {
             "title": "[구인] [SFA] 4월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
@@ -41,14 +41,14 @@
             "date": "2026-04-03"
         },
         {
-            "title": "[구인] [로카] <영화 비즈니스 입문 62기 ONLINE> 오픈 확정!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-03"
-        },
-        {
             "title": "[구인] [채용] 2026년도 제22회 제천국제음악영화제 3차 스태프 모집 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-02"
+        },
+        {
+            "title": "[구인] (사)한국영화프로듀서조합 2026 콘텐츠창의인재동반사업 사업팀 팀원 채용",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-03-26"
         }
     ],
     "cine21": [
@@ -259,5 +259,5 @@
             "date": ""
         }
     ],
-    "last_updated": "2026-03-26 09:59:30"
+    "last_updated": "2026-03-26 10:08:55"
 }
