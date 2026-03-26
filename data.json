@@ -1,57 +1,108 @@
 {
     "kofic": [
         {
+            "title": "[구인] 28회 서울국제여성영화제 사무국 스태프(운영팀,프로그램팀 팀원) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-31"
+        },
+        {
             "title": "[구인] [채용] 고집스튜디오 와 영화의 새로운 여정을 설계할 배급 담당자를 모십니다",
-            "link": "https://www.kofic.or.kr/#none",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-10"
         },
         {
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 48기 in 성수> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/#none",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-10"
         },
         {
             "title": "[구인] [BIFAN] 환상영화학교: 글로벌 과정 멘티 모집 중! (~4.7 17시까지)",
-            "link": "https://www.kofic.or.kr/#none",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-07"
         },
         {
             "title": "[구인] '삶을 위한 영화 에세이 쓰기 수업'(온라인) 참여자를 모집합니다.",
-            "link": "https://www.kofic.or.kr/#none",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-07"
+        },
+        {
+            "title": "[구인] ◆ AI 시대의 최종 승자는 작가! 4월 무료 공개 강의! (4월 6일/7일) ◆",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-07"
         },
         {
             "title": "[구인] 부천국제판타스틱영화제 단기 스태프 채용 5차(초청팀, 기술팀, 마케팅팀, 시민사업팀)",
-            "link": "https://www.kofic.or.kr/#none",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-05"
         },
         {
             "title": "[구인] [SFA] 4월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/#none",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-03"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 입문 62기 ONLINE> 오픈 확정!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-03"
         },
         {
             "title": "[구인] [채용] 2026년도 제22회 제천국제음악영화제 3차 스태프 모집 공고",
-            "link": "https://www.kofic.or.kr/#none",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-02"
-        },
-        {
-            "title": "[구인] 서울아트시네마 회계팀 채용 공고 (서류 기간 연장 3.31까지)",
-            "link": "https://www.kofic.or.kr/#none",
-            "date": "2026-03-31"
-        },
-        {
-            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
-            "link": "https://www.kofic.or.kr/#none",
-            "date": "2026-03-27"
-        },
-        {
-            "title": "[공지] 2026년 대체인력(일반사무)-2 공개채용 공고",
-            "link": "https://www.kofic.or.kr/#none",
-            "date": "2026-03-26"
         }
     ],
-    "cine21": [],
+    "cine21": [
+        {
+            "title": "채용\n\n제천국제음악영화제\n2026년 제22회 제천국제음악영화제 3차 스태프 모집 공고\n2026-03-26",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22235",
+            "date": "2026-03-26"
+        },
+        {
+            "title": "채용\n\n콘텐츠하이브\n영화 마케팅사 [콘텐츠하이브] 2026 신입/경력 채용공고\n2026-03-24",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22234",
+            "date": "2026-03-24"
+        },
+        {
+            "title": "채용\n\n절찬상영중\n[절찬상영중] 2026년 상반기 신입 모집\n2026-03-24",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22233",
+            "date": "2026-03-24"
+        },
+        {
+            "title": "채용\n\n더블유서비시즈\n채용 [Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다\n2026-03-24",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22232",
+            "date": "2026-03-24"
+        },
+        {
+            "title": "채용\n\n비스포크랩\n[비스포크랩] OTT 영어 콘텐츠 - 한국어 더빙 프로젝트 매니저 정규직 채용\n2026-03-23",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22226",
+            "date": "2026-03-23"
+        },
+        {
+            "title": "채용\n\n비스포크랩\n[비스포크랩] OTT 영어 콘텐츠 - 한국어 자막 감수자 인하우스 정규직 채용\n2026-03-23",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22225",
+            "date": "2026-03-23"
+        },
+        {
+            "title": "채용\n\n\nCJ사내벤처/글로벌향 온라인 콘텐츠 기획/제작/운영에디터 모집\n2026-03-20",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22223",
+            "date": "2026-03-20"
+        },
+        {
+            "title": "채용\n\n서울국제여성영화제\n28회 서울국제여성영화제 사무국 스태프(운영팀,프로그램팀 팀원) 모집\n2026-03-16",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22212",
+            "date": "2026-03-16"
+        },
+        {
+            "title": "채용\n\n인천영상위원회\n[인천영상위원회] 제14회 디아스포라영화제 자원활동가 '디아이즈' 모집\n2026-03-16",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22210",
+            "date": "2026-03-16"
+        },
+        {
+            "title": "채용\n\n부산국제단편영화제\n[부산국제단편영화제] 제43회 부산국제단편영화제 온라인 서포터즈 5기 모집 (3/9 ~ 3/17)\n2026-03-12",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22207",
+            "date": "2026-03-12"
+        }
+    ],
     "krmedia": [
         {
             "title": "[~2/25] 2026 안성미디어센터 대체 직원 채용 공고",
@@ -107,106 +158,106 @@
     "kofa": [
         {
             "title": "한국영상자료원 2026년 제1차 채용 공고(체험형청년인턴 2명, 기간제계약직 8명)",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-02-25"
         },
         {
             "title": "[채용/최종] 한국영상자료원 NCS기반 제3차 채용형청년인턴 1인, 기간제계약직 1인 블라인드 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-09-03"
         },
         {
             "title": "[채용/서류] 한국영상자료원 NCS기반 제3차 채용형청년인턴 1인, 기간제계약직 1인 블라인드 채용 서류전형 결과 및 필기전형(채용형청년인턴) / 면접전형(기간제계약직) 안내",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-08-08"
         },
         {
             "title": "한국영상자료원 NCS기반 제3차 채용형청년인턴 1인, 기간제계약직 1인 블라인드 채용 공고",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-07-18"
         },
         {
             "title": "[채용/최종] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인 블라인드 채용 최종 합격 및 예비 합격 후보자 발표",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-07-14"
         },
         {
             "title": "[채용/최종] 한국영상자료원 NCS기반 2차 기간제계약직(행정 및 경영지원) 1인 블라인드 채용 최종 합격 및 예비 합격 후보자 발표",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-07-01"
         },
         {
             "title": "[채용/필기] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인 필기전형 결과 및 면접전형 안내",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-06-25"
         },
         {
             "title": "[채용/서류] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인, 기간제계약직 1인 채용 서류전형 결과 및 필기전형/면접전형 안내",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-06-17"
         },
         {
             "title": "한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인, 기간제계약직 1인 공개경쟁 채용 공고",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-05-21"
         },
         {
             "title": "[채용/최종] 한국영상자료원 NCS기반 1차 기간제계약직 6인, 청년인턴 3인 공개경쟁 블라인드 채용 최종 합격후보자 발표",
-            "link": "https://www.koreafilm.or.kr/#none",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-04-03"
         }
     ],
     "dureraum": [
         {
             "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=346",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
             "date": ""
         },
         {
             "title": "(재)영화의전당 2026년 제1차 기간제 신규...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=345",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=345",
             "date": ""
         },
         {
             "title": "2026년도 공연 매표 인력풀(POOL) 모집 공...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=307",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=307",
             "date": ""
         },
         {
             "title": "2026년도 공연안내원 인력풀(POOL) 모집 공...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=103",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=103",
             "date": ""
         },
         {
             "title": "2026년도 제1차 영화의전당 기간제근로자 ...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=344",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=344",
             "date": "2026-02-20"
         },
         {
             "title": "(재)영화의전당 2025년 상반기 통합 직원 ...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=343",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=343",
             "date": ""
         },
         {
             "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=342",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
             "date": ""
         },
         {
             "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=341",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
             "date": ""
         },
         {
             "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=340",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
             "date": ""
         },
         {
             "title": "(재)영화의전당 하반기 신규직원 채용 필기...",
-            "link": "https://www.dureraum.org/view.do?rbsIdx=64&idx=339",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=339",
             "date": ""
         }
     ],
-    "last_updated": "2026-03-26 09:52:18"
+    "last_updated": "2026-03-26 09:59:30"
 }
