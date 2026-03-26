@@ -106,9 +106,16 @@ def scrape_cine21():
 # ==========================================
 
 print("1. 영화진흥위원회 크롤링 중...")
+# 1) 공지사항 수집 (순서 유지)
 scrape_kofic("https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4", "공지")
+data["kofic"] = data["kofic"][:5] # 공지사항 상위 5개만 자르기
+
+# 2) 구인정보 수집 (순서 유지)
 scrape_kofic("https://www.kofic.or.kr/kofic/business/infm/findJobList.do", "구인")
-data["kofic"] = sorted(data["kofic"], key=lambda x: x['date'], reverse=True)[:10]
+# 전체 10개(공지5 + 구인5)로 맞추기 위해, 구인정보가 붙은 상태에서 총 10개만 남깁니다.
+data["kofic"] = data["kofic"][:10]
+
+# 정렬 로직(sorted)을 완전히 제거했습니다! 원본 사이트의 게시글 순서가 그대로 유지됩니다.
 
 print("2. 씨네21 크롤링 중...")
 scrape_cine21()
