@@ -32,8 +32,8 @@ def extract_date(text):
     match = re.search(r'(20\d{2})[-./](\d{2})[-./](\d{2})', text)
     return f"{match.group(1)}-{match.group(2)}-{match.group(3)}" if match else ""
 
-# 1. 영화진흥위원회 맞춤형 스크래퍼
-def scrape_kofic(url, prefix):
+# 1. 영화진흥위원회 맞춤형 스크래퍼 (키워드 필터 기능 추가)
+def scrape_kofic(url, prefix, keyword=""):
     soup = get_soup(url)
     if not soup: return
     
@@ -44,14 +44,17 @@ def scrape_kofic(url, prefix):
         title = a_tag.text.strip()
         if not title: continue
         
+        # [추가된 로직] 키워드가 주어졌고, 제목에 키워드가 없다면 이 글은 건너뜁니다.
+        if keyword and keyword not in title:
+            continue
+        
         href = a_tag.get('href', '')
         onclick = a_tag.get('onclick', '')
         
-        # 영진위는 자바스크립트로 링크를 넘기는 경우가 많아 숫자(게시글 번호)를 강제 추출합니다.
         link = urljoin(url, href)
         js_code = href + onclick
         if 'javascript' in js_code:
-            nums = re.findall(r"['\"]?(\d{4,})['\"]?", js_code) # 4자리 이상 숫자(게시물 ID) 찾기
+            nums = re.findall(r"['\"]?(\d{4,})['\"]?", js_code)
             if nums:
                 if 'selectBoardList' in url:
                     link = f"https://www.kofic.or.kr/kofic/business/board/selectBoardDetail.do?boardNumber=4&boardSeqNumber={nums[0]}"
@@ -60,7 +63,7 @@ def scrape_kofic(url, prefix):
         
         date = extract_date(row.text)
         data["kofic"].append({"title": f"[{prefix}] {title}", "link": link, "date": date})
-
+        
 # 2. 범용 스크래퍼 (한국영상자료원, 전국미디어센터, 영화의전당)
 def scrape_general(key, url):
     soup = get_soup(url)
@@ -106,16 +109,14 @@ def scrape_cine21():
 # ==========================================
 
 print("1. 영화진흥위원회 크롤링 중...")
-# 1) 공지사항 수집 (순서 유지)
-scrape_kofic("https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4", "공지")
-data["kofic"] = data["kofic"][:5] # 공지사항 상위 5개만 자르기
+# 1) 공지사항 수집: "채용" 이라는 단어가 들어간 글만 가져옵니다.
+scrape_kofic("https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4", "공지", "채용")
 
-# 2) 구인정보 수집 (순서 유지)
+# 2) 구인정보 수집: 키워드 제한 없이 모두 가져옵니다. (기존 순서 유지)
 scrape_kofic("https://www.kofic.or.kr/kofic/business/infm/findJobList.do", "구인")
-# 전체 10개(공지5 + 구인5)로 맞추기 위해, 구인정보가 붙은 상태에서 총 10개만 남깁니다.
-data["kofic"] = data["kofic"][:10]
 
-# 정렬 로직(sorted)을 완전히 제거했습니다! 원본 사이트의 게시글 순서가 그대로 유지됩니다.
+# 공지사항(채용글)과 구인정보를 합쳐서 위에서부터 총 10개만 웹페이지에 노출합니다.
+data["kofic"] = data["kofic"][:10]
 
 print("2. 씨네21 크롤링 중...")
 scrape_cine21()
