@@ -160,6 +160,43 @@ def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
         date = extract_date(row.text)
         data["kmrb"].append({"title": title, "link": link, "date": date})
 
+# 5. 아카데미 로카 맞춤형 스크래퍼 (테이블 구조 무시, 링크 중심 탐색)
+def scrape_theloca(url):
+    soup = get_soup(url)
+    if not soup: return
+    
+    # 로카 게시판에서 게시글 링크는 무조건 'view.php'를 포함한다는 특징을 이용합니다.
+    a_tags = soup.select('a[href*="view.php"]')
+    
+    # 중복 게시글 처리를 위한 세트
+    seen_links = set()
+    
+    for a_tag in a_tags:
+        title = a_tag.text.strip()
+        # 제목이 비어있거나, "더보기" 같은 쓸데없는 텍스트면 건너뜀
+        if not title or len(title) < 5: continue
+        
+        # PHP 세션 ID(PHPSESSID)가 묻어있을 경우를 대비해 깔끔하게 잘라줍니다.
+        href = a_tag.get('href', '')
+        if '&PHPSESSID' in href:
+            href = href.split('&PHPSESSID')[0]
+            
+        link = urljoin(url, href)
+        
+        # 똑같은 링크(제목)가 중복 수집되는 것을 방지
+        if link in seen_links: continue
+        seen_links.add(link)
+        
+        # 날짜 추출: 보통 <a> 태그의 부모나 그 부모(tr, td 등) 텍스트 안에 날짜가 숨어있습니다.
+        parent_text = a_tag.parent.parent.text if a_tag.parent.parent else ""
+        date = extract_date(parent_text)
+        
+        # 혹시 부모 태그에서 날짜를 못 찾았다면, 주변 전체 텍스트에서 한 번 더 시도
+        if not date and a_tag.parent.parent.parent:
+             date = extract_date(a_tag.parent.parent.parent.text)
+
+        data["theloca"].append({"title": title, "link": link, "date": date})
+
 # ==========================================
 # 실행부
 # ==========================================
@@ -199,8 +236,9 @@ scrape_kmrb("https://www.kmrb.or.kr/main/na/ntt/selectNttList.do?mi=1111&bbsId=1
 data["kmrb"] = data["kmrb"][:10]
 
 print("7. 아카데미 로카 크롤링 중...")
-# 세션ID(PHPSESSID)를 제거한 깔끔한 원본 URL 사용
-scrape_general("theloca", "https://www.theloca.kr/HyAdmin/list.php?bbs_id=bo05")
+# (수정) 전용 함수인 scrape_theloca 로 변경합니다.
+scrape_theloca("https://www.theloca.kr/HyAdmin/list.php?bbs_id=bo05")
+# 최신글 10개만 유지
 data["theloca"] = data["theloca"][:10]
 
 # 업데이트 시간 기록
