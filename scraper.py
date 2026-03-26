@@ -16,7 +16,6 @@ data = {
     "kofa": [],
     "dureraum": [],
     "kmrb": [],
-    "theloca": [],
     "last_updated": ""
 }
 
@@ -159,53 +158,6 @@ def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
         
         date = extract_date(row.text)
         data["kmrb"].append({"title": title, "link": link, "date": date})
-
-# 5. 아카데미 로카 맞춤형 스크래퍼 (상세 디버깅 로그 추가)
-def scrape_theloca(url):
-    print(f"\n--- [디버깅] 아카데미 로카 크롤링 시작 ---")
-    try:
-        # 봇 차단을 피하기 위해 헤더를 더욱 실제 브라우저처럼 정교하게 위장합니다.
-        custom_headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
-            'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8',
-            'Referer': 'https://www.theloca.kr/'
-        }
-        res = requests.get(url, headers=custom_headers, timeout=10, verify=False)
-        res.encoding = 'cp949'
-        
-        # 1. 서버 응답 코드와 가져온 글자 수를 출력합니다.
-        print(f"-> 서버 응답 코드: {res.status_code} (200이면 정상)")
-        print(f"-> 가져온 HTML 글자 수: {len(res.text)}자 (너무 짧으면 차단당한 것)")
-        
-        soup = BeautifulSoup(res.text, 'html.parser')
-    except Exception as e:
-        print(f"-> 로카 접속 에러 발생: {e}")
-        return
-
-    a_tags = soup.select('a[href*="view.php"]')
-    print(f"-> 발견된 게시글 링크 개수: {len(a_tags)}개")
-    
-    seen_links = set()
-    for a_tag in a_tags:
-        title = a_tag.text.strip()
-        if not title: continue
-        
-        href = a_tag.get('href', '')
-        if '&PHPSESSID' in href:
-            href = href.split('&PHPSESSID')[0]
-        link = urljoin(url, href)
-        
-        if link in seen_links: continue
-        seen_links.add(link)
-        
-        tr_tag = a_tag.find_parent('tr')
-        date = extract_date(tr_tag.text) if tr_tag else ""
-
-        data["theloca"].append({"title": title, "link": link, "date": date})
-        
-    print(f"-> 최종 수집 및 저장된 로카 게시글 수: {len(data['theloca'])}개")
-    print(f"-----------------------------------------\n")
     
 # ==========================================
 # 실행부
@@ -244,12 +196,6 @@ print("6. 영상물등급위원회 크롤링 중...")
 # "채용" 단어가 들어간 글은 수집하고, "합격" 단어가 들어간 글은 제외합니다.
 scrape_kmrb("https://www.kmrb.or.kr/main/na/ntt/selectNttList.do?mi=1111&bbsId=1009", "채용", "합격")
 data["kmrb"] = data["kmrb"][:10]
-
-print("7. 아카데미 로카 크롤링 중...")
-# (수정) 전용 함수인 scrape_theloca 로 변경합니다.
-scrape_theloca("https://www.theloca.kr/HyAdmin/list.php?bbs_id=bo05")
-# 최신글 10개만 유지
-data["theloca"] = data["theloca"][:10]
 
 # 업데이트 시간 기록
 data["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
