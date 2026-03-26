@@ -109,8 +109,8 @@ def scrape_cine21():
                 if not any(item['link'] == link for item in data["cine21"]):
                     data["cine21"].append({"title": title, "link": link, "date": date})
 
-# 4. 영상물등급위원회 맞춤형 스크래퍼
-def scrape_kmrb(url):
+# 4. 영상물등급위원회 맞춤형 스크래퍼 (키워드 필터 기능 추가)
+def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
     soup = get_soup(url)
     if not soup: return
     
@@ -121,6 +121,14 @@ def scrape_kmrb(url):
         title = a_tag.text.strip()
         if not title: continue
         
+        # [조건 1] 포함해야 할 단어("채용")가 제목에 없으면 건너뜁니다.
+        if include_keyword and include_keyword not in title:
+            continue
+            
+        # [조건 2] 제외해야 할 단어("합격")가 제목에 있으면 건너뜁니다.
+        if exclude_keyword and exclude_keyword in title:
+            continue
+        
         href = a_tag.get('href', '')
         onclick = a_tag.get('onclick', '')
         
@@ -129,14 +137,13 @@ def scrape_kmrb(url):
         
         # 자바스크립트 함수에서 글 번호(nttSn)만 추출하여 완벽한 주소 조립
         if 'javascript' in js_code.lower():
-            nums = re.findall(r"['\"]?(\d{4,})['\"]?", js_code) # 97507 같은 숫자 추출
+            nums = re.findall(r"['\"]?(\d{4,})['\"]?", js_code)
             if nums:
                 nttSn = nums[0]
                 link = url.replace('selectNttList.do', 'selectNttInfo.do') + f"&nttSn={nttSn}"
         
         date = extract_date(row.text)
         data["kmrb"].append({"title": title, "link": link, "date": date})
-
 # ==========================================
 # 실행부
 # ==========================================
@@ -168,7 +175,8 @@ scrape_general("dureraum", "https://www.dureraum.org/bcc/board/list.do?rbsIdx=64
 data["dureraum"] = data["dureraum"][:10]
 
 print("6. 영상물등급위원회 크롤링 중...")
-scrape_kmrb("https://www.kmrb.or.kr/main/na/ntt/selectNttList.do?mi=1111&bbsId=1009")
+# "채용" 단어가 들어간 글은 수집하고, "합격" 단어가 들어간 글은 제외합니다.
+scrape_kmrb("https://www.kmrb.or.kr/main/na/ntt/selectNttList.do?mi=1111&bbsId=1009", "채용", "합격")
 data["kmrb"] = data["kmrb"][:10]
 
 # 업데이트 시간 기록
