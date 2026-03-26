@@ -11,21 +11,6 @@
             "date": "2026-03-26"
         },
         {
-            "title": "[공지] 2026년 공무직(운전기사) 공개채용 최종합격자 발표",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-03-25"
-        },
-        {
-            "title": "[공지] 2026년 정규직 공개채용 최종합격자 발표",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-03-16"
-        },
-        {
-            "title": "[공지] 2026년 정규직 공개채용 필기전형 합격자 발표 및 면접전형 안내",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-03-06"
-        },
-        {
             "title": "[구인] [BIFAN] 환상영화학교: 글로벌 과정 멘티 모집 중! (~4.7 17시까지)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-07"
@@ -49,6 +34,21 @@
             "title": "[구인] (사)한국영화프로듀서조합 2026 콘텐츠창의인재동반사업 사업팀 팀원 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-03-26"
+        },
+        {
+            "title": "[구인] [채용] 고집스튜디오 와 영화의 새로운 여정을 설계할 배급 담당자를 모십니다",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-10"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 48기 in 성수> 수강생 모집!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-10"
+        },
+        {
+            "title": "[구인] 부천국제판타스틱영화제 단기 스태프 채용 5차(초청팀, 기술팀, 마케팅팀, 시민사업팀)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-05"
         }
     ],
     "cine21": [
@@ -259,5 +259,5 @@
             "date": ""
         }
     ],
-    "last_updated": "2026-03-26 10:17:15"
+    "last_updated": "2026-03-26 10:23:16"
 }
