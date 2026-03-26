@@ -11,7 +11,8 @@ data = {
     "krmedia": [],
     "kofa": [],
     "dureraum": [],
-    "kmrb": [],      # <--- 이 줄을 추가합니다.
+    "kmrb": [],
+    "theloca": [],
     "last_updated": ""
 }
 
@@ -152,7 +153,7 @@ def scrape_kmrb(url, include_keyword="", exclude_keyword=""):
         
         date = extract_date(row.text)
         data["kmrb"].append({"title": title, "link": link, "date": date})
-        
+
 # ==========================================
 # 실행부
 # ==========================================
@@ -190,6 +191,11 @@ print("6. 영상물등급위원회 크롤링 중...")
 # "채용" 단어가 들어간 글은 수집하고, "합격" 단어가 들어간 글은 제외합니다.
 scrape_kmrb("https://www.kmrb.or.kr/main/na/ntt/selectNttList.do?mi=1111&bbsId=1009", "채용", "합격")
 data["kmrb"] = data["kmrb"][:10]
+
+print("7. 아카데미 로카 크롤링 중...")
+# 세션ID(PHPSESSID)를 제거한 깔끔한 원본 URL 사용
+scrape_general("theloca", "https://www.theloca.kr/HyAdmin/list.php?bbs_id=bo05")
+data["theloca"] = data["theloca"][:10]
 
 # 업데이트 시간 기록
 data["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
