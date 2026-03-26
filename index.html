@@ -37,6 +37,8 @@
         <button class="tab-button" onclick="openTab('kofa')">한국영상자료원</button>
         <button class="tab-button" onclick="openTab('dureraum')">영화의전당</button>
         <button class="tab-button" onclick="openTab('kmrb')">영상물등급위원회</button>
+        <button class="tab-button" onclick="openTab('theloca')">아카데미 로카</button>
+</div>
     </div>
 
     <div id="kofic" class="board-list active"></div>
@@ -45,6 +47,7 @@
     <div id="kofa" class="board-list"></div>
     <div id="dureraum" class="board-list"></div>
     <div id="kmrb" class="board-list"></div>
+    <div id="theloca" class="board-list"></div>
 
     <script>
         // 탭 전환 로직
@@ -65,7 +68,7 @@
 
                 document.getElementById('updateTime').innerText = `마지막 업데이트: ${data.last_updated}`;
 
-                const keys = ['kofic', 'cine21', 'krmedia', 'kofa', 'dureraum', 'kmrb'];
+                const keys = ['kofic', 'cine21', 'krmedia', 'kofa', 'dureraum', 'kmrb', 'theloca'];
                 
                 keys.forEach(key => {
                     const container = document.getElementById(key);
