@@ -32,22 +32,20 @@
 
     <div class="tabs">
         <button class="tab-button active" onclick="openTab('kofic')">영화진흥위원회</button>
+        <button class="tab-button" onclick="openTab('kmrb')">영상물등급위원회</button>
         <button class="tab-button" onclick="openTab('kofa')">한국영상자료원</button>
         <button class="tab-button" onclick="openTab('dureraum')">영화의전당</button>
-        <button class="tab-button" onclick="openTab('kmrb')">영상물등급위원회</button>
-        <button class="tab-button" onclick="openTab('cine21')">씨네21</button>
         <button class="tab-button" onclick="openTab('krmedia')">전국미디어센터협의회</button>
-        <button class="tab-button" onclick="openTab('theloca')">아카데미 로카</button>
+        <button class="tab-button" onclick="openTab('cine21')">씨네21</button>
 </div>
     </div>
 
     <div id="kofic" class="board-list active"></div>
+    <div id="kmrb" class="board-list"></div>
     <div id="kofa" class="board-list"></div>
     <div id="dureraum" class="board-list"></div>
-    <div id="kmrb" class="board-list"></div>
-    <div id="cine21" class="board-list"></div>
     <div id="krmedia" class="board-list"></div>
-    <div id="theloca" class="board-list"></div>
+    <div id="cine21" class="board-list"></div>
 
     <script>
         // 탭 전환 로직
@@ -68,7 +66,7 @@
 
                 document.getElementById('updateTime').innerText = `마지막 업데이트: ${data.last_updated}`;
 
-                const keys = ['kofic', 'kofa', 'dureraum', 'kmrb', 'cine21', 'krmedia', 'theloca'];
+                const keys = ['kofic', 'kmrb', 'kofa', 'dureraum', 'krmedia', 'cine21'];
                 
                 keys.forEach(key => {
                     const container = document.getElementById(key);
