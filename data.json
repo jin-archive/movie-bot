@@ -177,16 +177,6 @@
             "date": "2025-07-18"
         },
         {
-            "title": "[채용/최종] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인 블라인드 채용 최종 합격 및 예비 합격 후보자 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-07-14"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 NCS기반 2차 기간제계약직(행정 및 경영지원) 1인 블라인드 채용 최종 합격 및 예비 합격 후보자 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-07-01"
-        },
-        {
             "title": "[채용/필기] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인 필기전형 결과 및 면접전형 안내",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-06-25"
@@ -200,42 +190,12 @@
             "title": "한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인, 기간제계약직 1인 공개경쟁 채용 공고",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-05-21"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 NCS기반 1차 기간제계약직 6인, 청년인턴 3인 공개경쟁 블라인드 채용 최종 합격후보자 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-04-03"
         }
     ],
     "dureraum": [
         {
             "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2026년 제1차 기간제 신규...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=345",
-            "date": ""
-        },
-        {
-            "title": "2026년도 공연 매표 인력풀(POOL) 모집 공...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=307",
-            "date": ""
-        },
-        {
-            "title": "2026년도 공연안내원 인력풀(POOL) 모집 공...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=103",
-            "date": ""
-        },
-        {
-            "title": "2026년도 제1차 영화의전당 기간제근로자 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=344",
-            "date": "2026-02-20"
-        },
-        {
-            "title": "(재)영화의전당 2025년 상반기 통합 직원 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=343",
             "date": ""
         },
         {
@@ -256,6 +216,31 @@
         {
             "title": "(재)영화의전당 하반기 신규직원 채용 필기...",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=339",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=338",
+            "date": ""
+        },
+        {
+            "title": "2025년도 하반기 영화의전당 통합채용 공고",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=335",
+            "date": "2025-09-19"
+        },
+        {
+            "title": "(재)영화의전당 2025년 제3차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=334",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 경영본부장 임기제 채용 면...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=333",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 상반기 통합 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=328",
             "date": ""
         }
     ],
@@ -286,5 +271,5 @@
             "date": "2026-02-13"
         }
     ],
-    "last_updated": "2026-03-26 10:41:29"
+    "last_updated": "2026-03-26 10:47:48"
 }
