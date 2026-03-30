@@ -11,6 +11,11 @@
             "date": "2026-03-26"
         },
         {
+            "title": "[구인] ◆ AI 시대의 최종 승자는 작가! 4월 무료 공개 강의! (4월 6일/7일) ◆",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-07"
+        },
+        {
             "title": "[구인] [로카] <현장연출팀 취업준비과정 3기> 오픈 확정! 모집 기간 연장 (~4/3)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-03"
@@ -44,14 +49,14 @@
             "title": "[구인] [채용] 고집스튜디오 와 영화의 새로운 여정을 설계할 배급 담당자를 모십니다",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-10"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 48기 in 성수> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-10"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n(사)서울국제어린이영화제화제\n[채용] 2026년 제 2차 기간제근로자 모집 공고(프로그램팀)\n2026-03-27",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22242",
+            "date": "2026-03-27"
+        },
         {
             "title": "채용\n\n제천국제음악영화제\n2026년 제22회 제천국제음악영화제 3차 스태프 모집 공고\n2026-03-26",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22235",
@@ -96,11 +101,6 @@
             "title": "채용\n\n인천영상위원회\n[인천영상위원회] 제14회 디아스포라영화제 자원활동가 '디아이즈' 모집\n2026-03-16",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22210",
             "date": "2026-03-16"
-        },
-        {
-            "title": "채용\n\n부산국제단편영화제\n[부산국제단편영화제] 제43회 부산국제단편영화제 온라인 서포터즈 5기 모집 (3/9 ~ 3/17)\n2026-03-12",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22207",
-            "date": "2026-03-12"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-02-13"
         }
     ],
-    "last_updated": "2026-03-29 09:05:24"
+    "last_updated": "2026-03-30 06:26:18"
 }
