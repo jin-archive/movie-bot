@@ -53,6 +53,16 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n호호호비치\n컬처마케팅사 [호호호비치] 경력직 사원 모집\n2026-03-31",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22249",
+            "date": "2026-03-31"
+        },
+        {
+            "title": "채용\n\n(사)부산국제어린이청소년영화제\n제21회 부산국제어린이청소년영화제 계약직 스태프 모집 공고(4차, 5차)\n2026-03-30",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22246",
+            "date": "2026-03-30"
+        },
+        {
             "title": "채용\n\n(사)서울국제어린이영화제화제\n[채용] 2026년 제 2차 기간제근로자 모집 공고(프로그램팀)\n2026-03-27",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22242",
             "date": "2026-03-27"
@@ -91,16 +101,6 @@
             "title": "채용\n\n\nCJ사내벤처/글로벌향 온라인 콘텐츠 기획/제작/운영에디터 모집\n2026-03-20",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22223",
             "date": "2026-03-20"
-        },
-        {
-            "title": "채용\n\n서울국제여성영화제\n28회 서울국제여성영화제 사무국 스태프(운영팀,프로그램팀 팀원) 모집\n2026-03-16",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22212",
-            "date": "2026-03-16"
-        },
-        {
-            "title": "채용\n\n인천영상위원회\n[인천영상위원회] 제14회 디아스포라영화제 자원활동가 '디아이즈' 모집\n2026-03-16",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22210",
-            "date": "2026-03-16"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-02-13"
         }
     ],
-    "last_updated": "2026-03-30 10:49:11"
+    "last_updated": "2026-03-31 05:58:25"
 }
