@@ -1,6 +1,21 @@
 {
     "kofic": [
         {
+            "title": "[구인] [DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(2차)(~4.13.)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-13"
+        },
+        {
+            "title": "[구인] [(사)한국영화프로듀서조합] 2026년 콘텐츠 창의인재동반사업 '후속지원 프로젝트' 모집 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-15"
+        },
+        {
+            "title": "[구인] [(사)한국영화프로듀서조합] 2026년 콘텐츠 창의인재동반사업  ‘창의교육생(멘티)’ 모집 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-15"
+        },
+        {
             "title": "[구인] 제31회 부산국제영화제 2차 계약직 직원 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-12"
@@ -11,7 +26,7 @@
             "date": "2026-04-15"
         },
         {
-            "title": "[구인] 2026년 콘텐츠 창의인재동반사업  [다큐멘터리] 창의교육생(멘티) 모집 공고",
+            "title": "[구인] [다큐멘터리 신진 창작자 모집] 2026년 콘텐츠 창의인재동반사업 (창작지원금 월 150만원)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-15"
         },
@@ -34,21 +49,6 @@
             "title": "[구인] ◆ AI 시대의 최종 승자는 작가! 4월 무료 공개 강의! (4월 6일/7일) ◆",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-07"
-        },
-        {
-            "title": "[구인] [로카] <현장연출팀 취업준비과정 3기> 오픈 확정! 모집 기간 연장 (~4/3)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-03"
-        },
-        {
-            "title": "[구인] [BIFAN] 환상영화학교: 글로벌 과정 멘티 모집 중! (~4.7 17시까지)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-07"
-        },
-        {
-            "title": "[구인] 서울아트시네마 회계팀 채용 공고 (서류 기간 연장 3.31까지)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-03-31"
         }
     ],
     "cine21": [
@@ -266,5 +266,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-02 05:52:54"
+    "last_updated": "2026-04-02 10:15:30"
 }
