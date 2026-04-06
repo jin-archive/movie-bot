@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [로카] <영화사 취업 설명회 In 전주> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-01"
+        },
+        {
             "title": "[구인] 2026년 부산국제영화제 회계팀원(정규직) 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-12"
@@ -44,14 +49,19 @@
             "title": "[구인] 제31회 부산국제영화제 2차 계약직 직원 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-12"
-        },
-        {
-            "title": "[구인] [서울독립영화제] 2026년 콘텐츠 창의인재동반사업 '창의교육생(멘티)' 모집 공고(~4/15 14:00)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-15"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 청각장애인용 한국어 자막 감수자 채용(내근직, 정규직)\n2026-04-06",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22268",
+            "date": "2026-04-06"
+        },
+        {
+            "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 우리말 더빙 프로젝트 매니저 채용(내근직, 정규직)\n2026-04-06",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22267",
+            "date": "2026-04-06"
+        },
         {
             "title": "채용\n\n(사)부천국제판타스틱영화\n부천국제판타스틱영화제 단기 스태프 채용 6차(기획운영팀, 마켓운영팀, 창작지원팀, AI교육팀)\n2026-04-03",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22262",
@@ -90,16 +100,6 @@
         {
             "title": "채용\n\n콘텐츠하이브\n영화 마케팅사 [콘텐츠하이브] 2026 신입/경력 채용공고\n2026-03-24",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22234",
-            "date": "2026-03-24"
-        },
-        {
-            "title": "채용\n\n절찬상영중\n[절찬상영중] 2026년 상반기 신입 모집\n2026-03-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22233",
-            "date": "2026-03-24"
-        },
-        {
-            "title": "채용\n\n더블유서비시즈\n채용 [Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다\n2026-03-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22232",
             "date": "2026-03-24"
         }
     ],
@@ -266,5 +266,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-06 06:20:05"
+    "last_updated": "2026-04-06 10:40:56"
 }
