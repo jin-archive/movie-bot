@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] 28회 서울국제여성영화제 사무국 스태프(운영팀,프로그램팀 팀원) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
             "title": "[구인] [로카] <영화사 취업 설명회 In 전주> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-01"
@@ -41,24 +46,19 @@
             "date": "2026-04-15"
         },
         {
-            "title": "[구인] [(사)한국영화프로듀서조합] 2026년 콘텐츠 창의인재동반사업  ‘창의교육생(멘티)’ 모집 공고",
+            "title": "[구인] [(사)한국영화프로듀서조합] (수정) 2026년 콘텐츠 창의인재동반사업  ‘창의교육생(멘티)’ 모집 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-15"
-        },
-        {
-            "title": "[구인] 제31회 부산국제영화제 2차 계약직 직원 채용",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-12"
         }
     ],
     "cine21": [
         {
-            "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 청각장애인용 한국어 자막 감수자 채용(내근직, 정규직)\n2026-04-06",
+            "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 청각장애인용 한국어 자막 감수자 채용\n2026-04-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22268",
             "date": "2026-04-06"
         },
         {
-            "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 우리말 더빙 프로젝트 매니저 채용(내근직, 정규직)\n2026-04-06",
+            "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 우리말 더빙 프로젝트 매니저 채용\n2026-04-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22267",
             "date": "2026-04-06"
         },
@@ -266,5 +266,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-06 10:40:56"
+    "last_updated": "2026-04-07 06:05:46"
 }
