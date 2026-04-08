@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] 2026 제5회 하나뿐인지구영상제 출품공모전",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-30"
+        },
+        {
             "title": "[구인] 차기작을 함께할 영화감독님을 찾습니다",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-30"
@@ -44,11 +49,6 @@
             "title": "[구인] [DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(2차)(~4.13.)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-13"
-        },
-        {
-            "title": "[구인] [(사)한국영화프로듀서조합] 2026년 콘텐츠 창의인재동반사업 '후속지원 프로젝트' 모집 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-15"
         }
     ],
     "cine21": [
@@ -156,6 +156,11 @@
         }
     ],
     "kofa": [
+        {
+            "title": "[채용/최종] 한국영상자료원 2026년 제1차 채용 최종 결과 발표",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-04-02"
+        },
         {
             "title": "한국영상자료원 2026년 제1차 채용 공고(체험형청년인턴 2명, 기간제계약직 8명)",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
@@ -266,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-08 06:07:09"
+    "last_updated": "2026-04-08 10:42:47"
 }
