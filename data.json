@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] ◆톡톡드라마아카데미 <김지영 기초반 53기> 수강생 모집! (4월 25일)◆",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-25"
+        },
+        {
             "title": "[구인] 2026 제5회 하나뿐인지구영상제 출품공모전",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-30"
@@ -44,14 +49,14 @@
             "title": "[구인] 부천국제판타스틱영화제 단기 스태프 채용 6차(기획운영팀, 마켓운영팀, 창작지원팀, AI교육팀)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-19"
-        },
-        {
-            "title": "[구인] [DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(2차)(~4.13.)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-13"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] 제14회 서울국제어린이영화제 프로그램팀 채용(팀장/팀원)\n2026-04-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22277",
+            "date": "2026-04-09"
+        },
         {
             "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 청각장애인용 한국어 자막 감수자 채용\n2026-04-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22268",
@@ -96,11 +101,6 @@
             "title": "채용\n\n제천국제음악영화제\n2026년 제22회 제천국제음악영화제 3차 스태프 모집 공고\n2026-03-26",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22235",
             "date": "2026-03-26"
-        },
-        {
-            "title": "채용\n\n콘텐츠하이브\n영화 마케팅사 [콘텐츠하이브] 2026 신입/경력 채용공고\n2026-03-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22234",
-            "date": "2026-03-24"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-08 10:42:47"
+    "last_updated": "2026-04-09 06:07:39"
 }
