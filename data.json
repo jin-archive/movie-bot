@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [KT&G 상상마당 시네마] 2026 상상 스위트 공간 체험단 모집(~4/30)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-30"
+        },
+        {
             "title": "[구인] ◆톡톡드라마아카데미 <김지영 기초반 53기> 수강생 모집! (4월 25일)◆",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-25"
@@ -11,7 +16,7 @@
             "date": "2026-04-30"
         },
         {
-            "title": "[구인] 차기작을 함께할 영화감독님을 찾습니다",
+            "title": "[구인] WILL STUDIOS 감독 공개 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-30"
         },
@@ -44,11 +49,6 @@
             "title": "[구인] [로카] <현장연출팀 취업준비과정 4기> 공고 오픈! (얼리버드 ~4/10)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-01"
-        },
-        {
-            "title": "[구인] 부천국제판타스틱영화제 단기 스태프 채용 6차(기획운영팀, 마켓운영팀, 창작지원팀, AI교육팀)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-19"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-10 10:35:50"
+    "last_updated": "2026-04-11 05:23:12"
 }
