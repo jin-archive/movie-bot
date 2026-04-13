@@ -1,6 +1,21 @@
 {
     "kofic": [
         {
+            "title": "[구인] [BIFAN] 2026 환상영화학교: 유니브 과정 참가자 모집 (~5/22)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-22"
+        },
+        {
+            "title": "[구인] [영화제] [제30회 부천국제판타스틱영화제] 자원활동가 '비판 히어로즈' 모집! (~5/5)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-05"
+        },
+        {
+            "title": "[구인] 심산스쿨 시나리오 워크샵 심산반 55기 수강생 모집 중입니다~",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-06"
+        },
+        {
             "title": "[구인] [KT&G 상상마당 시네마] 2026 상상 스위트 공간 체험단 모집(~4/30)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-30"
@@ -34,21 +49,6 @@
             "title": "[구인] 2026년 부산국제영화제 회계팀원(정규직) 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-12"
-        },
-        {
-            "title": "[구인] 제23회 서울국제환경영화제 관객심사단 모집(~4/15)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-15"
-        },
-        {
-            "title": "[구인] 1960~1990년대 영화 스틸사진, 영화인 인물사진, 포스터 등을 보고 정보입력 하실 분 구합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-09"
-        },
-        {
-            "title": "[구인] [로카] <현장연출팀 취업준비과정 4기> 공고 오픈! (얼리버드 ~4/10)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-01"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-12 09:33:23"
+    "last_updated": "2026-04-13 07:27:49"
 }
