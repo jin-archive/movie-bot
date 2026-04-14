@@ -1,16 +1,6 @@
 {
     "kofic": [
         {
-            "title": "[공지] 2026년 대체인력(일반사무)-2 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-03-26"
-        },
-        {
-            "title": "[공지] 2026년 대체인력(일반사무)-1 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-03-26"
-        },
-        {
             "title": "[구인] [로카] <영화사 취업 설명회 In 전주> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-01"
@@ -47,6 +37,16 @@
         },
         {
             "title": "[구인] [KT&G 상상마당 시네마] 2026 상상 스위트 공간 체험단 모집(~4/30)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-30"
+        },
+        {
+            "title": "[구인] ◆톡톡드라마아카데미 <김지영 기초반 53기> 수강생 모집! (4월 25일)◆",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-25"
+        },
+        {
+            "title": "[구인] 2026 제5회 하나뿐인지구영상제 출품공모전",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-30"
         }
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-14 08:48:14"
+    "last_updated": "2026-04-14 10:21:43"
 }
