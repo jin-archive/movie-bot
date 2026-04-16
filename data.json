@@ -16,7 +16,12 @@
             "date": "2026-03-26"
         },
         {
-            "title": "[구인] (영화) 탄응안 - 뮤직비디오 45개 ~ 47개 노래 영화",
+            "title": "[구인] [SFA] 5월 연출/피디/영상/사진/촬영/장편(신설)/숏폼/배우/온라인 배우 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-08"
+        },
+        {
+            "title": "[구인] [촬영/조명/장비] (영화) 탄응안 OST 프로젝트 / 뮤직비디오 제작팀 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
         },
@@ -44,14 +49,14 @@
             "title": "[구인] [모집] 2026년 인천씨네스쿨 <단편 시나리오 입문 6기>,<영화분석 입문6기>,<슈퍼에이트 9기> 교육 수강생 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-04-26"
-        },
-        {
-            "title": "[구인] [BIFAN] 2026 환상영화학교: 유니브 과정 참가자 모집 (~5/22)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-22"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n영화사 백두대간\n아트하우스 모모 현장 직원 모집 (~4/30)\n2026-04-15",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22294",
+            "date": "2026-04-15"
+        },
         {
             "title": "채용\n\n제천국제음악영화제\n2026년 제22회 제천국제음악영화제 3차 추가 스태프 모집 공고\n2026-04-14",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22293",
@@ -96,11 +101,6 @@
             "title": "채용\n\n(사)부천국제판타스틱영화\n부천국제판타스틱영화제 단기 스태프 채용 6차(기획운영팀, 마켓운영팀, 창작지원팀, AI교육팀)\n2026-04-03",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22262",
             "date": "2026-04-03"
-        },
-        {
-            "title": "채용\n\n사단법인 DMZ국제다큐멘터리영화제\n[DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고 (2차) (~4.13.)\n2026-04-02",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22259",
-            "date": "2026-04-02"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-15 10:22:44"
+    "last_updated": "2026-04-16 03:35:22"
 }
