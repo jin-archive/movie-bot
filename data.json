@@ -16,6 +16,11 @@
             "date": "2026-03-26"
         },
         {
+            "title": "[구인] ﻿[채용] 영화사 시월(Siwol Pictures) 조감독 모집 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-15"
+        },
+        {
             "title": "[구인] 2026년 제22회 제천국제음악영화제 4차 스태프 모집 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-03"
@@ -44,11 +49,6 @@
             "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-15"
-        },
-        {
-            "title": "[구인] [로카] <영화사 취업 설명회 In 전주> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-01"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-21 03:31:58"
+    "last_updated": "2026-04-21 07:00:17"
 }
