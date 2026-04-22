@@ -16,6 +16,11 @@
             "date": "2026-03-26"
         },
         {
+            "title": "[구인] [더핑크퐁컴퍼니] 3D 콘텐츠 기획자",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-12"
+        },
+        {
             "title": "[구인] ﻿[채용] 영화사 시월(Siwol Pictures) 조감독 모집 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-15"
@@ -44,22 +49,12 @@
             "title": "[구인] [촬영/조명/장비] (영화) 탄응안 OST 프로젝트 / 뮤직비디오 제작팀 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-15"
         }
     ],
     "cine21": [
         {
             "title": "채용\n\n제천국제음악영화제\n2026년 제22회 제천국제음악영화제 4차 스태프 모집 공고\n2026-04-20",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22313",
-            "date": "2026-04-20"
-        },
-        {
-            "title": "채용\n\n(주)뱅가드\n[영화사 뱅가드] 마케팅팀 직원을 모집합니다 ( ~ 4/30 (목) 오후6시 )\n2026-04-20",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22312",
             "date": "2026-04-20"
         },
         {
@@ -100,6 +95,11 @@
         {
             "title": "채용\n\n루믹스미디어\n[루믹스미디어] 해외팀 영화 드라마 수입 담당자 채용 합니다\n2026-04-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22281",
+            "date": "2026-04-09"
+        },
+        {
+            "title": "채용\n\n딜라이트\n영화 및 OTT 컨텐츠 홍보사 [딜라이트] 신입/경력 모집\n2026-04-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22280",
             "date": "2026-04-09"
         }
     ],
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-22 06:59:21"
+    "last_updated": "2026-04-22 08:54:39"
 }
