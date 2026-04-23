@@ -16,6 +16,16 @@
             "date": "2026-03-26"
         },
         {
+            "title": "[구인] [SFA] 5월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-08"
+        },
+        {
+            "title": "[구인] \"영화, 환상을 버리고 현장을 만나라\"… 제228회 독립영화워크숍 참여 회원 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-04-30"
+        },
+        {
             "title": "[구인] [더핑크퐁컴퍼니] 3D 콘텐츠 기획자",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-12"
@@ -39,16 +49,6 @@
             "title": "[구인] 부천국제판타스틱영화제 단기 스태프 채용 7차(프로그램팀, 초청팀, 기술팀, 온라인팀)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-05"
-        },
-        {
-            "title": "[구인] [SFA] 5월 연출/피디/영상/사진/촬영/장편(신설)/숏폼/배우/온라인 배우 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-08"
-        },
-        {
-            "title": "[구인] [촬영/조명/장비] (영화) 탄응안 OST 프로젝트 / 뮤직비디오 제작팀 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
         }
     ],
     "cine21": [
@@ -157,6 +157,16 @@
     ],
     "kofa": [
         {
+            "title": "한국영상자료원 2026년 제3차 채용 공고(명예의전당·영상박물관 통합운영 분야 기간제계약직 7명)",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-04-23"
+        },
+        {
+            "title": "한국영상자료원 2026년 제2차 채용 공고(정규직 1명, 체험형청년인턴 2명, 기간제계약직 5명)",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-04-23"
+        },
+        {
             "title": "[채용/최종] 한국영상자료원 2026년 제1차 채용 최종 결과 발표",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-04-02"
@@ -185,16 +195,6 @@
             "title": "[채용/필기] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인 필기전형 결과 및 면접전형 안내",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-06-25"
-        },
-        {
-            "title": "[채용/서류] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인, 기간제계약직 1인 채용 서류전형 결과 및 필기전형/면접전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-06-17"
-        },
-        {
-            "title": "한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인, 기간제계약직 1인 공개경쟁 채용 공고",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-05-21"
         }
     ],
     "dureraum": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-23 03:33:43"
+    "last_updated": "2026-04-23 07:03:27"
 }
