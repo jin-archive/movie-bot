@@ -16,6 +16,11 @@
             "date": "2026-03-26"
         },
         {
+            "title": "[구인] <제14회 무주산골영화제> 현장 단기 스태프 채용공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-10"
+        },
+        {
             "title": "[구인] [서울영상위원회] 직원 공개 채용 공고(영상사업팀 단기계약직)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-07"
@@ -44,14 +49,14 @@
             "title": "[구인] 2026년 제22회 제천국제음악영화제 4차 스태프 모집 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-03"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업준비과정 49기> 공고 오픈!(얼리버드~4/24)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-25"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n(재)무주산골문화재단\n<제14회 무주산골영화제> 현장 단기 스태프 채용공고\n2026-04-27",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22326",
+            "date": "2026-04-27"
+        },
         {
             "title": "채용\n\n(사)울주세계산악영화제\n제11회 울산울주세계산악영화제 4차 스태프 채용(~05.08)\n2026-04-24",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22324",
@@ -96,11 +101,6 @@
             "title": "채용\n\n영화사 백두대간\n아트하우스 모모 현장 직원 모집 (~4/30)\n2026-04-15",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22294",
             "date": "2026-04-15"
-        },
-        {
-            "title": "채용\n\n제천국제음악영화제\n2026년 제22회 제천국제음악영화제 3차 추가 스태프 모집 공고\n2026-04-14",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22293",
-            "date": "2026-04-14"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-26 09:59:58"
+    "last_updated": "2026-04-27 03:48:26"
 }
