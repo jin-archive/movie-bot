@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n(사)부천국제판타스틱영화제 조직위원\n부천국제판타스틱영화제 티켓/상영관 매니저 채용 공고\n2026-04-28",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22331",
+            "date": "2026-04-28"
+        },
+        {
             "title": "채용\n\n(재)무주산골문화재단\n<제14회 무주산골영화제> 현장 단기 스태프 채용공고\n2026-04-27",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22326",
             "date": "2026-04-27"
@@ -96,14 +101,14 @@
             "title": "채용\n\n영화사 백두대간\n아트하우스 모모 현장 직원 모집 (~4/30)\n2026-04-15",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22294",
             "date": "2026-04-15"
-        },
-        {
-            "title": "채용\n\n제천국제음악영화제\n2026년 제22회 제천국제음악영화제 3차 추가 스태프 모집 공고\n2026-04-14",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22293",
-            "date": "2026-04-14"
         }
     ],
     "krmedia": [
+        {
+            "title": "2026-2학기 협력종합예술활동 영화 영역 예술강사 모집공고(~5/25)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11082&page=1",
+            "date": "2026-04-28"
+        },
         {
             "title": "(4/15~4/16) 2026년 제 1차 서산문화원(서산시영상미디어센터) 직원 채용",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11078&page=1",
@@ -148,11 +153,6 @@
             "title": "[구인]구립은평뉴타운도서관(은평뉴타운미디어라이브러리센터) 행정(정규직) 채용(6.4~6.15)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11046&page=1",
             "date": "2025-06-04"
-        },
-        {
-            "title": "2025-2학기 협력종합예술활동 영화 영역 예술강사 모집공고(~6/1 기한연장)",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11044&page=1",
-            "date": "2025-05-16"
         }
     ],
     "kofa": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-28 03:53:05"
+    "last_updated": "2026-04-28 07:34:26"
 }
