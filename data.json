@@ -16,6 +16,16 @@
             "date": "2026-03-26"
         },
         {
+            "title": "[구인] [로카] <영화 비즈니스 입문 63기> 수강생 모집! (얼리버드 ~5/7)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-03"
+        },
+        {
+            "title": "[구인] 한국영상자료원 2026년 제2차, 제3차 채용 안내(정규직, 체험형청년인턴, 기간제계약직 등 15명)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-08"
+        },
+        {
             "title": "[구인] [비에이엔터테인먼트] 신입(계약직) 채용 (~ 5/22)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-22"
@@ -39,16 +49,6 @@
             "title": "[구인] [SFA] 5월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-08"
-        },
-        {
-            "title": "[구인] \"영화, 환상을 버리고 현장을 만나라\"… 제228회 독립영화워크숍 참여 회원 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-04-30"
-        },
-        {
-            "title": "[구인] [더핑크퐁컴퍼니] 3D 콘텐츠 기획자",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-12"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-04-29 11:01:35"
+    "last_updated": "2026-04-30 03:51:10"
 }
