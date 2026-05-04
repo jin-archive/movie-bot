@@ -53,11 +53,6 @@
     ],
     "cine21": [
         {
-            "title": "채용\n\n(주)하이브미디어코프\n하이브미디어코프 마케팅팀 경력 채용\n2026-04-30",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22341",
-            "date": "2026-04-30"
-        },
-        {
             "title": "채용\n\n부천국제판타스틱영화\n부천국제판타스틱영화제 단기 스태프 채용 8차(마케팅팀, 프로그램팀, 기술팀, 후원회팀)\n2026-04-30",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22338",
             "date": "2026-04-30"
@@ -101,6 +96,11 @@
             "title": "채용\n\n(주)스토리제이\n콘텐츠 부가 유통 담당(경력) 모집\n2026-04-20",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22308",
             "date": "2026-04-20"
+        },
+        {
+            "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 우리말 더빙 프로젝트 매니저\n2026-04-17",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22302",
+            "date": "2026-04-17"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-04 03:54:54"
+    "last_updated": "2026-05-04 07:50:21"
 }
