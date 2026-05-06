@@ -11,11 +11,6 @@
             "date": "2026-03-26"
         },
         {
-            "title": "[공지] 2026년 대체인력(일반사무)-1 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-03-26"
-        },
-        {
             "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-30"
@@ -49,9 +44,24 @@
             "title": "[구인] 온라인 강좌 / 한국영화의 르네상스 (1997–2008) – 세기말에서 세기초로, 감각과 시대의 전환 / 5.12일 개강",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-12"
+        },
+        {
+            "title": "[구인] 5월 6일(수), 독립영화워크숍 입문과정의 공개설명회에 의한 참여회원 추가모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-06"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n한국예술종합학교 산학협력단\n2026-2학기 협력종합예술활동 예술강사 모집공고(~5/25)\n2026-05-06",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22356",
+            "date": "2026-05-06"
+        },
+        {
+            "title": "채용\n\n수려한합천영화제 집행위원회\n제7회 수려한합천영화제 사무국장 채용\n2026-05-06",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22354",
+            "date": "2026-05-06"
+        },
         {
             "title": "채용\n\n한국영상자료원\n한국영상자료원 2026년 제2차, 제3차 채용 안내(정규직, 체험형청년인턴, 기간제계약직 등 15명)(~5.8.까지)\n2026-05-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22353",
@@ -91,16 +101,6 @@
             "title": "채용\n\n(사)울주세계산악영화제\n제11회 울산울주세계산악영화제 4차 스태프 채용(~05.08)\n2026-04-24",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22324",
             "date": "2026-04-24"
-        },
-        {
-            "title": "채용\n\n서울영상위원회\n서울영상위원회 직원 채용 공고(영상사업팀)\n2026-04-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22323",
-            "date": "2026-04-24"
-        },
-        {
-            "title": "채용\n\n㈜이놀미디어\n[이놀미디어] 영화 콘텐츠 수입 담당자를 모집합니다\n2026-04-22",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22317",
-            "date": "2026-04-22"
         }
     ],
     "krmedia": [
@@ -276,5 +276,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-06 07:38:54"
+    "last_updated": "2026-05-06 11:11:04"
 }
