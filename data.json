@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n씨네21\n씨네21 사업기획팀 단기계약직 채용 (콘텐츠 수급 및 홍보 담당)\n2026-05-07",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22357",
+            "date": "2026-05-07"
+        },
+        {
             "title": "채용\n\n한국예술종합학교 산학협력단\n2026-2학기 협력종합예술활동 예술강사 모집공고(~5/25)\n2026-05-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22356",
             "date": "2026-05-06"
@@ -96,11 +101,6 @@
             "title": "채용\n\n(재)무주산골문화재단\n<제14회 무주산골영화제> 현장 단기 스태프 채용공고\n2026-04-27",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22326",
             "date": "2026-04-27"
-        },
-        {
-            "title": "채용\n\n(사)울주세계산악영화제\n제11회 울산울주세계산악영화제 4차 스태프 채용(~05.08)\n2026-04-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22324",
-            "date": "2026-04-24"
         }
     ],
     "krmedia": [
@@ -276,5 +276,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-06 11:11:04"
+    "last_updated": "2026-05-07 03:50:08"
 }
