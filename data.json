@@ -11,6 +11,11 @@
             "date": "2026-04-15"
         },
         {
+            "title": "[구인] [경력] 스튜디오타겟㈜ IP비즈니스본부 해외세일즈 경력직 채용",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
             "title": "[구인] 이창국 감독 제작 ㅡ 탄응안 ㅡ 단편영화 1탄 ㅡ 예고편",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-31"
@@ -44,11 +49,6 @@
             "title": "[구인] 제7회 수려한합천영화제 사무국장 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-15"
-        },
-        {
-            "title": "[구인] BIAF2026 단기 스탭 공개 채용의 건 (홍보,프로그램팀)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-02"
         }
     ],
     "cine21": [
@@ -276,5 +276,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-13 11:34:06"
+    "last_updated": "2026-05-14 04:01:26"
 }
