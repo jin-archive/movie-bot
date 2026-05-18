@@ -16,6 +16,16 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] 제31회 부산국제영화제 3차 계약직 직원 채용",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-31"
+        },
+        {
+            "title": "[구인] [SFA] 6월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-31"
+        },
+        {
             "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 여성 프로듀서 모집 / 정기혁 감독 / 영진위·부산영상위·경기콘텐츠진흥원 제작지원작",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-05"
@@ -39,16 +49,6 @@
             "title": "[구인] [로카] <영화 비즈니스 취업준비과정 49기> 수강생 모집!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-25"
-        },
-        {
-            "title": "[구인] [DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(3차)(~5.18.)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-18"
-        },
-        {
-            "title": "[구인] [제30회 부천국제판타스틱영화제] 자원활동가 '비판 히어로즈' 모집 기간 연장!(~5/10)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-10"
         }
     ],
     "cine21": [
@@ -276,5 +276,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-18 04:18:51"
+    "last_updated": "2026-05-18 08:49:16"
 }
