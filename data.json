@@ -16,6 +16,11 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] [로카] <연출부 취업 가이드> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-23"
+        },
+        {
             "title": "[구인] 제31회 부산국제영화제 3차 계약직 직원 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-31"
@@ -44,11 +49,6 @@
             "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-15"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업준비과정 49기> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-05-25"
         }
     ],
     "cine21": [
@@ -276,5 +276,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-18 08:49:16"
+    "last_updated": "2026-05-18 12:40:31"
 }
