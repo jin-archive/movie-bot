@@ -53,6 +53,16 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n(주)이놀미디어\n[이놀미디어] 콘텐츠 유통 담당자를 모집합니다\n2026-05-19",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22390",
+            "date": "2026-05-19"
+        },
+        {
+            "title": "채용\n\n비스포크랩 주식회사\n영한 자막 감수자 정규직 채용\n2026-05-19",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22389",
+            "date": "2026-05-19"
+        },
+        {
             "title": "채용\n\n주식회사 더틱톡\n홍보대행사 <더틱톡> 2026년 상반기 경력/신입사원 모집\n2026-05-15",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22378",
             "date": "2026-05-15"
@@ -91,19 +101,24 @@
             "title": "채용\n\n씨네21\n씨네21 사업기획팀 단기계약직 채용 (콘텐츠 수급 및 홍보 담당)\n2026-05-07",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22357",
             "date": "2026-05-07"
-        },
-        {
-            "title": "채용\n\n한국예술종합학교 산학협력단\n2026-2학기 협력종합예술활동 예술강사 모집공고(~5/25)\n2026-05-06",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22356",
-            "date": "2026-05-06"
-        },
-        {
-            "title": "채용\n\n한국영상자료원\n한국영상자료원 2026년 제2차, 제3차 채용 안내(정규직, 체험형청년인턴, 기간제계약직 등 15명)(~5.8.까지)\n2026-05-06",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22353",
-            "date": "2026-05-06"
         }
     ],
     "krmedia": [
+        {
+            "title": "4회 [부산국제장애인인권영화제] 단편 영화 공모 안내",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11086&page=1",
+            "date": "2026-05-20"
+        },
+        {
+            "title": "[제천국제음악영화제] (장/단편)제천뮤직필름마켓 후반제작지원(영화음악) 프로젝트 공모 안내(~6/22)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11085&page=1",
+            "date": "2026-05-20"
+        },
+        {
+            "title": "[제천국제음악영화제] 단편영화 제작지원 프로젝트 공모(장르 불문) (~6/22)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11084&page=1",
+            "date": "2026-05-20"
+        },
         {
             "title": "2026-2학기 협력종합예술활동 영화 영역 예술강사 모집공고(~5/25)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11082&page=1",
@@ -138,21 +153,6 @@
             "title": "2025년 하반기 용인특례시 미디어센터 신규 직원 채용 공고",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11056&page=1",
             "date": "2025-09-12"
-        },
-        {
-            "title": "구립은평뉴타운도서관(은평뉴타운미디어라이브러리센터) 행정(정규직) 채용(7.28~8.8)",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11052&page=1",
-            "date": "2025-07-28"
-        },
-        {
-            "title": "2025년 2분기 용인특례시 미디어센터 신규 직원 채용 공고",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11048&page=1",
-            "date": "2025-06-20"
-        },
-        {
-            "title": "[구인]구립은평뉴타운도서관(은평뉴타운미디어라이브러리센터) 행정(정규직) 채용(6.4~6.15)",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11046&page=1",
-            "date": "2025-06-04"
         }
     ],
     "kofa": [
@@ -281,5 +281,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-19 12:16:55"
+    "last_updated": "2026-05-20 04:15:22"
 }
