@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n재단법인 순천문화재단\n2026년 제4회 (재)순천문화재단 기간제 근로자 채용 재공고_영상분야\n2026-05-20",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22391",
+            "date": "2026-05-20"
+        },
+        {
             "title": "채용\n\n(주)이놀미디어\n[이놀미디어] 콘텐츠 유통 담당자를 모집합니다\n2026-05-19",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22390",
             "date": "2026-05-19"
@@ -96,11 +101,6 @@
             "title": "채용\n\n사단법인 DMZ국제다큐멘터리영화제\n[DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(3차)(~5.18.)\n2026-05-08",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22364",
             "date": "2026-05-08"
-        },
-        {
-            "title": "채용\n\n씨네21\n씨네21 사업기획팀 단기계약직 채용 (콘텐츠 수급 및 홍보 담당)\n2026-05-07",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22357",
-            "date": "2026-05-07"
         }
     ],
     "krmedia": [
@@ -157,6 +157,16 @@
     ],
     "kofa": [
         {
+            "title": "[채용/서류] 한국영상자료원 2026년 제3차 채용 서류전형 결과 및 이후 전형 안내",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-05-20"
+        },
+        {
+            "title": "[채용/서류] 한국영상자료원 2026년 제2차 채용 서류전형 결과 및 이후 전형 안내",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-05-20"
+        },
+        {
             "title": "한국영상자료원 2026년 제3차 채용 공고(명예의전당·영상박물관 통합운영 분야 기간제계약직 7명)",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-04-23"
@@ -190,11 +200,6 @@
             "title": "한국영상자료원 NCS기반 제3차 채용형청년인턴 1인, 기간제계약직 1인 블라인드 채용 공고",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2025-07-18"
-        },
-        {
-            "title": "[채용/필기] 한국영상자료원 제2차 정규직(일반직) 2인, 정규직(공무직) 1인, 채용형청년인턴 2인 필기전형 결과 및 면접전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-06-25"
         }
     ],
     "dureraum": [
@@ -281,5 +286,5 @@
             "date": "2026-02-24"
         }
     ],
-    "last_updated": "2026-05-20 04:15:22"
+    "last_updated": "2026-05-20 08:31:59"
 }
