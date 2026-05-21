@@ -105,6 +105,11 @@
     ],
     "krmedia": [
         {
+            "title": "순천문화재단 영상미디어특화사업 인력 채용 안내",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11087&page=1",
+            "date": "2026-05-21"
+        },
+        {
             "title": "4회 [부산국제장애인인권영화제] 단편 영화 공모 안내",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11086&page=1",
             "date": "2026-05-20"
@@ -148,11 +153,6 @@
             "title": "2025년 익산공공영상미디어센터 직원 채용 공고",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11060&page=1",
             "date": "2025-11-12"
-        },
-        {
-            "title": "2025년 하반기 용인특례시 미디어센터 신규 직원 채용 공고",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11056&page=1",
-            "date": "2025-09-12"
         }
     ],
     "kofa": [
@@ -276,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-05-21 04:23:26"
+    "last_updated": "2026-05-21 08:39:12"
 }
