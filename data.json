@@ -16,6 +16,11 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] 제2회 인천가톨릭영화제 현장 단기 스태프 채용(~6/1)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-01"
+        },
+        {
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 49기 in 성수> (얼리버드~5/29)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-15"
@@ -44,11 +49,6 @@
             "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 여성 프로듀서 모집 / 정기혁 감독 / 영진위·부산영상위·경기콘텐츠진흥원 제작지원작",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-05"
-        },
-        {
-            "title": "[구인] [경력] 스튜디오타겟㈜ IP비즈니스본부 해외세일즈 경력직 채용",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
         }
     ],
     "cine21": [
@@ -276,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-05-22 11:50:32"
+    "last_updated": "2026-05-23 03:56:49"
 }
