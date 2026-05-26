@@ -16,6 +16,11 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] [SFA] 6월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-05-31"
+        },
+        {
             "title": "[구인] 제2회 인천가톨릭영화제 현장 단기 스태프 채용(~6/1)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-01"
@@ -44,14 +49,14 @@
             "title": "[구인] [SFA] 6월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-31"
-        },
-        {
-            "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 여성 프로듀서 모집 / 정기혁 감독 / 영진위·부산영상위·경기콘텐츠진흥원 제작지원작",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-05"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n인천가톨릭영화제\n제2회 인천가톨릭영화제 현장 단기 스태프 채용(~6/1)\n2026-05-23",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22398",
+            "date": "2026-05-23"
+        },
         {
             "title": "채용\n\n재단법인 순천문화재단\n2026년 제4회 (재)순천문화재단 기간제 근로자 채용 재공고_영상분야\n2026-05-20",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22391",
@@ -96,11 +101,6 @@
             "title": "채용\n\n웹스크리에이티브(주)\n영화/드라마 등의 옥외광고 운영/기획을 함께할 신입/경력 AE 를 채용합니다\n2026-05-11",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22370",
             "date": "2026-05-11"
-        },
-        {
-            "title": "채용\n\n사단법인 DMZ국제다큐멘터리영화제\n[DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(3차)(~5.18.)\n2026-05-08",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22364",
-            "date": "2026-05-08"
         }
     ],
     "krmedia": [
@@ -276,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-05-25 04:39:23"
+    "last_updated": "2026-05-26 04:14:11"
 }
