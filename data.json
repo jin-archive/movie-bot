@@ -16,6 +16,16 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] [서울영화센터] <스마트폰으로 만드는 나만의 영화 - Ⅰ.기획/개발> 교육 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-07"
+        },
+        {
+            "title": "[구인] (주)케이무비엔터테인먼트에서 영화 배급 업무를 담당할 경력 사원을 모집합니다.",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-10"
+        },
+        {
             "title": "[구인] [로카] <영화 비즈니스 입문 65기> 공고 오픈! (얼리버드~6/2)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-24"
@@ -39,19 +49,14 @@
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 49기 in 성수> (얼리버드~5/29)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-15"
-        },
-        {
-            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-30"
-        },
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-23"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n(주)케이무비엔터테인먼트\n(주)케이무비엔터테인먼트에서 영화 배급 업무를 담당할 경력 사원을 모집합니다.\n2026-05-26",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22404",
+            "date": "2026-05-26"
+        },
         {
             "title": "채용\n\n인천가톨릭영화제\n제2회 인천가톨릭영화제 현장 단기 스태프 채용(~6/1)\n2026-05-23",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22398",
@@ -61,11 +66,6 @@
             "title": "채용\n\n재단법인 순천문화재단\n2026년 제4회 (재)순천문화재단 기간제 근로자 채용 재공고_영상분야\n2026-05-20",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22391",
             "date": "2026-05-20"
-        },
-        {
-            "title": "채용\n\n(주)이놀미디어\n[이놀미디어] 콘텐츠 유통 담당자를 모집합니다\n2026-05-19",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22390",
-            "date": "2026-05-19"
         },
         {
             "title": "채용\n\n비스포크랩 주식회사\n영한 자막 감수자 정규직 채용\n2026-05-19",
@@ -204,6 +204,11 @@
     ],
     "dureraum": [
         {
+            "title": "(재)영화의전당 상반기 신규직원 채용 필기...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=352",
+            "date": ""
+        },
+        {
             "title": "(재)영화의전당 2026년 제2차 기간제 채용 ...",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=351",
             "date": ""
@@ -247,11 +252,6 @@
             "title": "2025년도 하반기 영화의전당 통합채용 공고",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=335",
             "date": "2025-09-19"
-        },
-        {
-            "title": "(재)영화의전당 2025년 제3차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=334",
-            "date": ""
         }
     ],
     "kmrb": [
@@ -269,12 +269,7 @@
             "title": "영상물등급위원회 2026년도 전문계약직(연구원) 채용 일정 변경 공고",
             "link": "https://www.kmrb.or.kr/main/na/ntt/selectNttInfo.do?mi=1111&bbsId=1009&nttSn=97508",
             "date": "2026-02-27"
-        },
-        {
-            "title": "영상물등급위원회 2026년도 제2차 기간제계약직(휴직대체) 채용 공고",
-            "link": "https://www.kmrb.or.kr/main/na/ntt/selectNttInfo.do?mi=1111&bbsId=1009&nttSn=97507",
-            "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-05-26 08:37:24"
+    "last_updated": "2026-05-27 04:27:31"
 }
