@@ -16,6 +16,11 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-30"
+        },
+        {
             "title": "[구인] [서울영화센터] <스마트폰으로 만드는 나만의 영화 - Ⅰ.기획/개발> 교육 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-07"
@@ -44,11 +49,6 @@
             "title": "[구인] 제2회 인천가톨릭영화제 현장 단기 스태프 채용(~6/1)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-01"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 49기 in 성수> (얼리버드~5/29)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-15"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-05-27 04:27:31"
+    "last_updated": "2026-05-27 08:42:47"
 }
