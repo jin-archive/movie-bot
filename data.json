@@ -16,6 +16,11 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] 2026년 제22회 제천국제음악영화제 5차 스태프 모집 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-10"
+        },
+        {
             "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-30"
@@ -44,11 +49,6 @@
             "title": "[구인] [SFA] 6월달 연출/피디/숏폼/ 과정 모집 공고 [서울필름아카데미]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-05-31"
-        },
-        {
-            "title": "[구인] 제2회 인천가톨릭영화제 현장 단기 스태프 채용(~6/1)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-01"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-05-28 04:17:22"
+    "last_updated": "2026-05-28 08:49:49"
 }
