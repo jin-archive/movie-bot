@@ -16,6 +16,11 @@
             "date": "2026-05-07"
         },
         {
+            "title": "[구인] (주)바른손이앤에이 해외사업팀 경력사원(과/차장급) 채용 [결원발생에 따른 채용]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-08"
+        },
+        {
             "title": "[구인] AI 크리에이터 쇼케이스 참가자 모집!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-07"
@@ -44,11 +49,6 @@
             "title": "[구인] (주)케이무비엔터테인먼트에서 영화 배급 업무를 담당할 경력 사원을 모집합니다.",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-10"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 입문 65기> 공고 오픈! (얼리버드~6/2)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-24"
         }
     ],
     "cine21": [
@@ -276,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-05-29 08:47:34"
+    "last_updated": "2026-05-29 12:22:48"
 }
