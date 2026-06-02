@@ -11,6 +11,11 @@
             "date": "2026-05-14"
         },
         {
+            "title": "[구인] ㈜화인컷 기획프로듀서 경력 사원 (4-5년차) 채용 공고 (~6/19마감)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-19"
+        },
+        {
             "title": "[구인] [로카] <촬영계획을 위한 시나리오 분석 실무 3기> 공고 오픈!(얼리버드~6/8)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-19"
@@ -44,11 +49,6 @@
             "title": "[구인] [서울영화센터] <스마트폰으로 만드는 나만의 영화 - Ⅰ.기획/개발> 교육 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-07"
-        },
-        {
-            "title": "[구인] (주)케이무비엔터테인먼트에서 영화 배급 업무를 담당할 경력 사원을 모집합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-10"
         }
     ],
     "cine21": [
@@ -105,6 +105,11 @@
     ],
     "krmedia": [
         {
+            "title": "기본정보 재단법인 관악문화재단 2026년 제2차 직원 채용공고 (미디어센터)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11088&page=1",
+            "date": "2026-06-02"
+        },
+        {
             "title": "순천문화재단 영상미디어특화사업 인력 채용 안내",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11087&page=1",
             "date": "2026-05-21"
@@ -148,11 +153,6 @@
             "title": "2026-1학기 협력종합예술활동 영화 영역 예술강사 모집공고(~12/28)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11066&page=1",
             "date": "2025-12-18"
-        },
-        {
-            "title": "2025년 익산공공영상미디어센터 직원 채용 공고",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11060&page=1",
-            "date": "2025-11-12"
         }
     ],
     "kofa": [
@@ -276,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-06-01 12:43:35"
+    "last_updated": "2026-06-02 04:48:16"
 }
