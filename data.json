@@ -53,11 +53,6 @@
     ],
     "cine21": [
         {
-            "title": "채용\n\n(주)누리픽쳐스\n(주)누리픽쳐스와 함께 할 콘텐츠사업팀 경력사원을 모집합니다.(2년이상)\n2026-06-02",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22428",
-            "date": "2026-06-02"
-        },
-        {
             "title": "채용\n\n(주) 화인컷\n㈜화인컷 기획프로듀서 경력 사원 (4-5년차) 채용 공고 (~06/19마감)\n2026-06-02",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22424",
             "date": "2026-06-02"
@@ -101,6 +96,11 @@
             "title": "채용\n\n(주)케이무비엔터테인먼트\n(주)케이무비엔터테인먼트에서 영화 배급 업무를 담당할 경력 사원을 모집합니다.\n2026-05-26",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22404",
             "date": "2026-05-26"
+        },
+        {
+            "title": "채용\n\n인천가톨릭영화제\n제2회 인천가톨릭영화제 현장 단기 스태프 채용(~6/1)\n2026-05-23",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22398",
+            "date": "2026-05-23"
         }
     ],
     "krmedia": [
@@ -276,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-06-02 09:15:05"
+    "last_updated": "2026-06-03 04:58:13"
 }
