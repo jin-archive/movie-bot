@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n&credit\n영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 사원을 모집합니다.\n2026-06-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22449",
+            "date": "2026-06-09"
+        },
+        {
             "title": "채용\n\n(주)엔케이컨텐츠\n[엔케이컨텐츠] 마케팅팀 직원을 모집합니다 ( ~ 6/19 (금) 오후6시 )\n2026-06-08",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22448",
             "date": "2026-06-08"
@@ -96,11 +101,6 @@
             "title": "채용\n\n(주)영화사 백두대간\n아트하우스 모모 영사 담당 직원 모집 (~6/15)\n2026-06-03",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22430",
             "date": "2026-06-03"
-        },
-        {
-            "title": "채용\n\n(주)바른손이앤에이\n2026년 (주)바른손이앤에이 해외사업본부 해외사업팀 경력사원 모집\n2026-05-29",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22422",
-            "date": "2026-05-29"
         }
     ],
     "krmedia": [
@@ -276,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-06-09 04:12:54"
+    "last_updated": "2026-06-09 08:35:48"
 }
