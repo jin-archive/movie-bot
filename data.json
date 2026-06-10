@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-30"
+        },
+        {
             "title": "[구인] [DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(4차)(~6.19.)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-19"
@@ -44,11 +49,6 @@
             "title": "[구인] ㈜화인컷 기획프로듀서 경력 사원 (4년차 이상) 채용 공고 (~6/12마감)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-12"
-        },
-        {
-            "title": "[구인] [로카] <촬영계획을 위한 시나리오 분석 실무 3기> 공고 오픈!(얼리버드~6/8)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-19"
         }
     ],
     "cine21": [
@@ -269,12 +269,7 @@
             "title": "영상물등급위원회  2026년도 제3차 기간제계약직[휴직대체 사무지원·정보화] 채용 공고",
             "link": "https://www.kmrb.or.kr/main/na/ntt/selectNttInfo.do?mi=1111&bbsId=1009&nttSn=97640",
             "date": "2026-05-04"
-        },
-        {
-            "title": "영상물등급위원회 2026년도 전문계약직(연구원) 채용 일정 변경 공고",
-            "link": "https://www.kmrb.or.kr/main/na/ntt/selectNttInfo.do?mi=1111&bbsId=1009&nttSn=97508",
-            "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-06-10 04:23:15"
+    "last_updated": "2026-06-10 08:55:47"
 }
