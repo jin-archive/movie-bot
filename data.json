@@ -1,6 +1,62 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[구인] [DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(4차)(~6.19.)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-19"
+        },
+        {
+            "title": "[구인] [SFA] 7월 연출/피디/영상/사진/촬영/장편/숏폼/배우 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-30"
+        },
+        {
+            "title": "[구인] 부천국제판타스틱영화제 FunFun오락실(게스트&관객 라운지) 총괄 매니저 채용",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-19"
+        },
+        {
+            "title": "[구인] 부천국제판타스틱영화제 뉴미디어 부문 Beyond Reality 현장 운영 매니저 채용",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[구인] 28회 서울국제여성영화제 사무국 스태프(초청 코디네이터) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-16"
+        },
+        {
+            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-30"
+        },
+        {
+            "title": "[구인] [서울영화센터] <마스터 클래스: 야스다 준이치 감독> 신청 오픈! (영화인, 예비영화인 대상)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-16"
+        },
+        {
+            "title": "[구인] [SFA] 7월 연출/피디/영상/사진/촬영/장편/숏폼/배우 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-30"
+        },
+        {
+            "title": "[구인] ㈜화인컷 기획프로듀서 경력 사원 (4년차 이상) 채용 공고 (~6/12마감)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-12"
+        },
+        {
+            "title": "[구인] [로카] <촬영계획을 위한 시나리오 분석 실무 3기> 공고 오픈!(얼리버드~6/8)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-19"
+        }
+    ],
     "cine21": [
+        {
+            "title": "채용\n\n사단법인 DMZ국제다큐멘터리영화제\n[DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(4차)(~6.19.)\n2026-06-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22453",
+            "date": "2026-06-09"
+        },
         {
             "title": "채용\n\n&credit\n영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 사원을 모집합니다.\n2026-06-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22449",
@@ -45,11 +101,6 @@
             "title": "채용\n\n서울국제여성영화제\n28회 서울국제여성영화제 사무국 스태프(초청 코디네이터) 모집\n2026-06-04",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22434",
             "date": "2026-06-04"
-        },
-        {
-            "title": "채용\n\n(주)영화사 백두대간\n아트하우스 모모 영사 담당 직원 모집 (~6/15)\n2026-06-03",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22430",
-            "date": "2026-06-03"
         }
     ],
     "krmedia": [
@@ -225,5 +276,5 @@
             "date": "2026-02-27"
         }
     ],
-    "last_updated": "2026-06-09 12:11:09"
+    "last_updated": "2026-06-10 04:23:15"
 }
