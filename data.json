@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [로카] <현장연출팀 취업준비과정 4기> 신청 오픈! (얼리버드~6/19)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-10"
+        },
+        {
             "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-30"
@@ -44,14 +49,14 @@
             "title": "[구인] [SFA] 7월 연출/피디/영상/사진/촬영/장편/숏폼/배우 과정 모집! [서울필름아카데미]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-06-30"
-        },
-        {
-            "title": "[구인] ㈜화인컷 기획프로듀서 경력 사원 (4년차 이상) 채용 공고 (~6/12마감)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-12"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n(사)울주세계산악영화제\n제11회 울산울주세계산악영화제 제6차 스태프 채용(~06.21.)\n2026-06-12",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22460",
+            "date": "2026-06-12"
+        },
         {
             "title": "채용\n\n사단법인 DMZ국제다큐멘터리영화제\n[DMZ Docs] 제18회 DMZ국제다큐멘터리영화제 스태프 채용 공고(4차)(~6.19.)\n2026-06-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22453",
@@ -96,11 +101,6 @@
             "title": "채용\n\n비스포크랩 주식회사\n[비스포크랩] 한국어 SDH 자막 감수자 채용 (6개월 계약직, 2명)\n2026-06-05",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22436",
             "date": "2026-06-05"
-        },
-        {
-            "title": "채용\n\n서울국제여성영화제\n28회 서울국제여성영화제 사무국 스태프(초청 코디네이터) 모집\n2026-06-04",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22434",
-            "date": "2026-06-04"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-12 04:48:35"
+    "last_updated": "2026-06-12 09:05:11"
 }
