@@ -16,6 +16,11 @@
             "date": "2026-06-15"
         },
         {
+            "title": "[구인] [로카] <연출부 취업 가이드> 개강 임박! (~6/23)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-23"
+        },
+        {
             "title": "[구인] [모집]28회 서울국제여성영화제 자원활동가 시우프렌즈 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-05"
@@ -44,11 +49,6 @@
             "title": "[구인] [서울영화센터] <AI 영상 포트폴리오 제작 과정> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-05"
-        },
-        {
-            "title": "[구인] [SFA] 7월 연출/피디/영상/사진/촬영/장편/숏폼/배우 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-30"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-18 04:47:30"
+    "last_updated": "2026-06-18 09:21:14"
 }
