@@ -1,21 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-06-15"
-        },
-        {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-06-15"
-        },
-        {
-            "title": "[공지] 2026년 공무직(시설관리(기계설비)) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-06-15"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] (사)서울국제어린이영화제 2026년 3차 기간제근로자 채용공고\n2026-06-17",
@@ -236,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-19 05:07:42"
+    "last_updated": "2026-06-19 11:39:48"
 }
