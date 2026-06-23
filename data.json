@@ -1,6 +1,16 @@
 {
     "kofic": [
         {
+            "title": "[구인] '삶을 위한 영화 에세이 쓰기 수업'(온라인) 3기 참여자를 모집합니다.",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-08"
+        },
+        {
+            "title": "[구인] [SFA] 7월 연출/피디/영상/사진/촬영/장편/숏폼/배우 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-30"
+        },
+        {
             "title": "[구인] 제23회 EBS국제다큐영화제 자원활동가(VEF) 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-12"
@@ -39,16 +49,6 @@
             "title": "[구인] *톡톡드라마아카데미 <김지영 시리즈 6기> 수강생 모집! (7월 8일)*",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-08"
-        },
-        {
-            "title": "[구인] 2026 독립영화 매칭 워크숍: 퍼스트링크 참여작 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-10"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 49기 in 성수> 공고 오픈! (7/6~8/9)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-29"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-23 08:32:57"
+    "last_updated": "2026-06-23 12:11:31"
 }
