@@ -1,5 +1,56 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 공무직(시설관리(기계설비)) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[구인] [한국예술종합학교] 국제공동제작 프로젝트의 한국 연출·프로듀서 모집 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-26"
+        },
+        {
+            "title": "[구인] [에무시네마] 프로그래머 채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-29"
+        },
+        {
+            "title": "[구인] [로카] <연출부 취업 가이드> 개강 임박! (~6/23)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-23"
+        },
+        {
+            "title": "[구인] [모집]28회 서울국제여성영화제 자원활동가 시우프렌즈 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-05"
+        },
+        {
+            "title": "[구인] BIAF2026 단기 스탭 공개 채용의 건",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] *톡톡드라마아카데미 <김지영 시리즈 6기> 수강생 모집! (7월 8일)*",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-08"
+        },
+        {
+            "title": "[구인] 2026 독립영화 매칭 워크숍: 퍼스트링크 참여작 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-10"
+        }
+    ],
     "cine21": [
         {
             "title": "채용\n\n(주)누리픽쳐스\n영화수입배급 및 제작사 (주)누리픽쳐스 신입/경력사원 모집(배급마케팅팀)\n2026-06-22",
@@ -106,6 +157,16 @@
     ],
     "kofa": [
         {
+            "title": "[채용/최종] 한국영상자료원 2026년 제3차 채용 최종 결과 발표",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-06-19"
+        },
+        {
+            "title": "[채용/최종] 한국영상자료원 2026년 제2차 채용 최종 결과 발표",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-06-19"
+        },
+        {
             "title": "[채용/면접] 한국영상자료원 2026년 제3차 채용 증빙서류 제출 및 면접전형 안내",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-05-27"
@@ -144,16 +205,6 @@
             "title": "한국영상자료원 2026년 제1차 채용 공고(체험형청년인턴 2명, 기간제계약직 8명)",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-02-25"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 NCS기반 제3차 채용형청년인턴 1인, 기간제계약직 1인 블라인드 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-09-03"
-        },
-        {
-            "title": "[채용/서류] 한국영상자료원 NCS기반 제3차 채용형청년인턴 1인, 기간제계약직 1인 블라인드 채용 서류전형 결과 및 필기전형(채용형청년인턴) / 면접전형(기간제계약직) 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2025-08-08"
         }
     ],
     "dureraum": [
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-22 12:54:13"
+    "last_updated": "2026-06-23 04:09:14"
 }
