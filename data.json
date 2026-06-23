@@ -1,19 +1,14 @@
 {
     "kofic": [
         {
-            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-06-15"
+            "title": "[구인] 제23회 EBS국제다큐영화제 자원활동가(VEF) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-12"
         },
         {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-06-15"
-        },
-        {
-            "title": "[공지] 2026년 공무직(시설관리(기계설비)) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-06-15"
+            "title": "[구인] 제23회 EBS국제다큐영화제 자원활동가(VEF) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-12"
         },
         {
             "title": "[구인] [한국예술종합학교] 국제공동제작 프로젝트의 한국 연출·프로듀서 모집 공고",
@@ -49,6 +44,11 @@
             "title": "[구인] 2026 독립영화 매칭 워크숍: 퍼스트링크 참여작 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-10"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 49기 in 성수> 공고 오픈! (7/6~8/9)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-29"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-23 04:09:14"
+    "last_updated": "2026-06-23 08:32:57"
 }
