@@ -1,6 +1,41 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 공무직(시설관리(기계설비)) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[구인] [기타]  [모집] [인천영상위원회] 인천영화아카데미 <영화비평> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
+            "title": "[구인] [모집] [인천영상위원회] 인천영화아카데미 <OTT 시리즈화> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
+            "title": "[구인] [모집] [인천영상위원회] 인천영화아카데미 <OTT 시리즈화> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
+            "title": "[구인] [모집] [인천영상위원회] 인천영화아카데미 <장편트리트먼트워크숍> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
             "title": "[구인] '삶을 위한 영화 에세이 쓰기 수업'(온라인) 3기 참여자를 모집합니다.",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-08"
@@ -14,41 +49,6 @@
             "title": "[구인] 제23회 EBS국제다큐영화제 자원활동가(VEF) 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-12"
-        },
-        {
-            "title": "[구인] 제23회 EBS국제다큐영화제 자원활동가(VEF) 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-12"
-        },
-        {
-            "title": "[구인] [한국예술종합학교] 국제공동제작 프로젝트의 한국 연출·프로듀서 모집 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-26"
-        },
-        {
-            "title": "[구인] [에무시네마] 프로그래머 채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-29"
-        },
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드> 개강 임박! (~6/23)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-06-23"
-        },
-        {
-            "title": "[구인] [모집]28회 서울국제여성영화제 자원활동가 시우프렌즈 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-05"
-        },
-        {
-            "title": "[구인] BIAF2026 단기 스탭 공개 채용의 건",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] *톡톡드라마아카데미 <김지영 시리즈 6기> 수강생 모집! (7월 8일)*",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-08"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-23 12:11:31"
+    "last_updated": "2026-06-24 04:12:33"
 }
