@@ -1,5 +1,21 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 공무직(시설관리(기계설비)) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        }
+    ],
     "cine21": [
         {
             "title": "채용\n\n판씨네마㈜\n[품(POOM)] 공간 운영 매니저 모집\n2026-06-25",
@@ -220,5 +236,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-25 11:45:32"
+    "last_updated": "2026-06-26 04:19:27"
 }
