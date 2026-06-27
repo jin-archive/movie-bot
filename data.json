@@ -1,5 +1,56 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 공무직(시설관리(기계설비)) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-24"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 입문 63기> 공고 오픈! (얼리버드 ~7/3)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-29"
+        },
+        {
+            "title": "[구인] [기타]  [모집] [인천영상위원회] 인천영화아카데미 <영화비평> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
+            "title": "[구인] [모집] [인천영상위원회] 인천영화아카데미 <OTT 시리즈화> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
+            "title": "[구인] [모집] [인천영상위원회] 인천영화아카데미 <OTT 시리즈화> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
+            "title": "[구인] [모집] [인천영상위원회] 인천영화아카데미 <장편트리트먼트워크숍> 수강생 모집 안내 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-06-28"
+        },
+        {
+            "title": "[구인] '삶을 위한 영화 에세이 쓰기 수업'(온라인) 3기 참여자를 모집합니다.",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-08"
+        }
+    ],
     "cine21": [
         {
             "title": "채용\n\n판씨네마㈜\n[품(POOM)] 공간 운영 매니저 모집\n2026-06-25",
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-26 11:48:29"
+    "last_updated": "2026-06-27 04:05:42"
 }
