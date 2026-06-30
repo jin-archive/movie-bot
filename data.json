@@ -105,6 +105,11 @@
     ],
     "krmedia": [
         {
+            "title": "[~7/7] 2026 안성미디어센터 사업 인력 (긴급) 채용 공고",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11091&page=1",
+            "date": "2026-06-30"
+        },
+        {
             "title": "2026 제6회 광명영화제 단편영화 작품공모 (-8/31,월)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11090&page=1",
             "date": "2026-06-29"
@@ -148,11 +153,6 @@
             "title": "(4/15~4/16) 2026년 제 1차 서산문화원(서산시영상미디어센터) 직원 채용",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11078&page=1",
             "date": "2026-04-01"
-        },
-        {
-            "title": "[~2/25] 2026 안성미디어센터 대체 직원 채용 공고",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11069&page=1",
-            "date": "2026-02-04"
         }
     ],
     "kofa": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-30 04:13:54"
+    "last_updated": "2026-06-30 08:33:16"
 }
