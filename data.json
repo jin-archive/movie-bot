@@ -1,6 +1,67 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 공무직(시설관리(기계설비)) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[구인] 제18회 서울국제건축영화제 자원활동가 '씨앗프렌즈' 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-21"
+        },
+        {
+            "title": "[구인] 2026년 특수효과 데몰리션 신입사원(정규)모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] ◆ HOT! AI시대의 공모전 당선 전략! 무료 공개 강의! (7월 13일/14일) ◆",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-14"
+        },
+        {
+            "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 스크립터 모집 / 정기혁 감독 / 영진위·부산영상위·경기콘텐츠진흥원 제작지원작",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-08"
+        },
+        {
+            "title": "[구인] 2026 제6회 광명영화제 단편영화 작품공모  (-8/31, 월)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-31"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 49기 in 성수> 오픈 확정! (7/5 까지 신청)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-05"
+        },
+        {
+            "title": "[구인] 57편의 명작으로 배우는 영화 인문학, 영화를 통해 인간과 시대를 읽다 / 온라인 줌 강의  / 3개월간 다시보기 가능",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-01"
+        }
+    ],
     "cine21": [
+        {
+            "title": "채용\n\n주식회사 더틱톡\n더틱톡 2026년 신입직원 구인 추가모집\n2026-07-01",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22503",
+            "date": "2026-07-01"
+        },
+        {
+            "title": "채용\n\n씬스틸러\n덕업일치를 이룰 영화 예고편 제작 팀원 모집!\n2026-07-01",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22502",
+            "date": "2026-07-01"
+        },
         {
             "title": "채용\n\n102Cinema / 오to1Cinema\n[장편 독립영화 〈럭키, 금순〉] 스크립터 모집 / 정기혁 감독 / 영진위·부산영상위·경기콘텐츠진흥원 제작지원작\n2026-06-29",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22495",
@@ -15,11 +76,6 @@
             "title": "채용\n\n(주)더콘텐츠온\nTCO(주)더콘텐츠온 극장배급/ 해외수입 채용 공고\n2026-06-22",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22479",
             "date": "2026-06-22"
-        },
-        {
-            "title": "채용\n\n에무시네마\n[에무시네마] 프로그래머 채용 공고\n2026-06-19",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22476",
-            "date": "2026-06-19"
         },
         {
             "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] (사)서울국제어린이영화제 2026년 3차 기간제근로자 채용공고\n2026-06-17",
@@ -45,11 +101,6 @@
             "title": "채용\n\n&credit\n영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입/경력 사원을 모집합니다.\n2026-06-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22449",
             "date": "2026-06-09"
-        },
-        {
-            "title": "채용\n\n(주)엔케이컨텐츠\n[엔케이컨텐츠] 마케팅팀 직원을 모집합니다 ( ~ 6/19 (금) 오후6시 )\n2026-06-08",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22448",
-            "date": "2026-06-08"
         }
     ],
     "krmedia": [
@@ -156,58 +207,7 @@
             "date": "2026-02-25"
         }
     ],
-    "dureraum": [
-        {
-            "title": "재)영화의전당 2026년 상반기 통합 채용 면...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=355",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 상반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=354",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 상반기 신규직원 채용 필기...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=352",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2026년 제2차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=351",
-            "date": ""
-        },
-        {
-            "title": "2026년도 상반기 영화의전당 통합채용 공고",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=348",
-            "date": "2026-04-15"
-        },
-        {
-            "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 하반기 신규직원 채용 필기...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=339",
-            "date": ""
-        }
-    ],
+    "dureraum": [],
     "kmrb": [
         {
             "title": "영상물등급위원회 2026년도 제3차 기간제계약직(휴직대체) 채용 일정 변경 공고",
@@ -220,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-06-30 11:47:56"
+    "last_updated": "2026-07-01 04:42:51"
 }
