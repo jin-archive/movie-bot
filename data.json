@@ -1,6 +1,16 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2026년 대체인력(사서) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-06-15"
+        },
+        {
             "title": "[구인] [2026 여름 모모 영화학교] 일본 영화의 황금기와 4인의 거장 (2026.7.14~8.27)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-27"
@@ -39,16 +49,6 @@
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 49기 in 성수> 오픈 확정! (7/5 까지 신청)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-05"
-        },
-        {
-            "title": "[구인] 57편의 명작으로 배우는 영화 인문학, 영화를 통해 인간과 시대를 읽다 / 온라인 줌 강의  / 3개월간 다시보기 가능",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
-        },
-        {
-            "title": "[구인] 57편의 명작으로 배우는 영화 인문학, 영화를 통해 인간과 시대를 읽다 / 온라인 줌 강의  / 3개월간 다시보기 가능",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-04 03:49:37"
+    "last_updated": "2026-07-04 07:51:43"
 }
