@@ -2,6 +2,11 @@
     "kofic": [],
     "cine21": [
         {
+            "title": "채용\n\n씨네21\n씨네21 콘텐츠팀 계약직 모집\n2026-07-07",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22514",
+            "date": "2026-07-07"
+        },
+        {
             "title": "채용\n\n프리엠컴퍼니\n문화 콘텐츠 마케팅사 [프리엠컴퍼니] 경력 팀원을 모집합니다.\n2026-07-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22509",
             "date": "2026-07-06"
@@ -44,11 +49,6 @@
         {
             "title": "채용\n\n그린나래미디어\n[그린나래미디어] 직원 채용 공고\n2026-06-12",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22462",
-            "date": "2026-06-12"
-        },
-        {
-            "title": "채용\n\n(사)울주세계산악영화제\n제11회 울산울주세계산악영화제 제6차 스태프 채용(~06.21.)\n2026-06-12",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22460",
             "date": "2026-06-12"
         }
     ],
@@ -156,7 +156,58 @@
             "date": "2026-02-25"
         }
     ],
-    "dureraum": [],
+    "dureraum": [
+        {
+            "title": "재)영화의전당 2026년 상반기 통합 채용 면...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=355",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 상반기 신규직원 채용 서류...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=354",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 상반기 신규직원 채용 필기...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=352",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2026년 제2차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=351",
+            "date": ""
+        },
+        {
+            "title": "2026년도 상반기 영화의전당 통합채용 공고",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=348",
+            "date": "2026-04-15"
+        },
+        {
+            "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 하반기 신규직원 채용 필기...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=339",
+            "date": ""
+        }
+    ],
     "kmrb": [
         {
             "title": "영상물등급위원회 2026년도 제3차 기간제계약직(휴직대체) 채용 일정 변경 공고",
@@ -169,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-07 04:05:32"
+    "last_updated": "2026-07-07 08:29:22"
 }
