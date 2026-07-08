@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [로카] <연출부 취업 가이드  : 원데이클래스> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-12"
+        },
+        {
             "title": "[구인] [서울영화센터] <스크린 뒤, 영화 이야기: 배우 엄정화 x 제작자 김윤미 무비 토크>",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-24"
@@ -44,11 +49,6 @@
             "title": "[구인] ◆ HOT! AI시대의 공모전 당선 전략! 무료 공개 강의! (7월 13일/14일) ◆",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-14"
-        },
-        {
-            "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 스크립터 모집 / 정기혁 감독 / 영진위·부산영상위·경기콘텐츠진흥원 제작지원작",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-08"
         }
     ],
     "cine21": [
@@ -220,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-08 03:30:55"
+    "last_updated": "2026-07-08 07:35:29"
 }
