@@ -2,6 +2,11 @@
     "kofic": [],
     "cine21": [
         {
+            "title": "채용\n\n씨네21\n씨네21 영상팀 PD 팀장급 채용\n2026-07-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22520",
+            "date": "2026-07-09"
+        },
+        {
             "title": "채용\n\n씨네21\n씨네21 콘텐츠팀 계약직 모집\n2026-07-07",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22514",
             "date": "2026-07-07"
@@ -45,11 +50,6 @@
             "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] (사)서울국제어린이영화제 2026년 3차 기간제근로자 채용공고\n2026-06-17",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22471",
             "date": "2026-06-17"
-        },
-        {
-            "title": "채용\n\n그린나래미디어\n[그린나래미디어] 직원 채용 공고\n2026-06-12",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22462",
-            "date": "2026-06-12"
         }
     ],
     "krmedia": [
@@ -104,58 +104,7 @@
             "date": "2026-04-28"
         }
     ],
-    "kofa": [
-        {
-            "title": "[채용/최종] 한국영상자료원 2026년 제3차 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-06-19"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 2026년 제2차 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-06-19"
-        },
-        {
-            "title": "[채용/면접] 한국영상자료원 2026년 제3차 채용 증빙서류 제출 및 면접전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-27"
-        },
-        {
-            "title": "[채용/필기 및 면접] 한국영상자료원 2026년 제2차 채용 필기전형 결과 및 면접전형 등 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-27"
-        },
-        {
-            "title": "[채용/서류] 한국영상자료원 2026년 제3차 채용 서류전형 결과 및 이후 전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-20"
-        },
-        {
-            "title": "[채용/서류] 한국영상자료원 2026년 제2차 채용 서류전형 결과 및 이후 전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-20"
-        },
-        {
-            "title": "한국영상자료원 2026년 제3차 채용 공고(명예의전당·영상박물관 통합운영 분야 기간제계약직 7명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-23"
-        },
-        {
-            "title": "한국영상자료원 2026년 제2차 채용 공고(정규직 1명, 체험형청년인턴 2명, 기간제계약직 5명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-23"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 2026년 제1차 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-02"
-        },
-        {
-            "title": "한국영상자료원 2026년 제1차 채용 공고(체험형청년인턴 2명, 기간제계약직 8명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-02-25"
-        }
-    ],
+    "kofa": [],
     "dureraum": [
         {
             "title": "재)영화의전당 2026년 상반기 통합 채용 면...",
@@ -220,5 +169,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-09 03:59:00"
+    "last_updated": "2026-07-09 08:33:57"
 }
