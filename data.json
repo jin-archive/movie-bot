@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드  : 원데이클래스> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-12"
-        },
-        {
-            "title": "[구인] [서울영화센터] <스크린 뒤, 영화 이야기: 배우 엄정화 x 제작자 김윤미 무비 토크>",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-24"
-        },
-        {
-            "title": "[구인] 2026 DFX 특수영상 프로젝트 피치 공모(대전특수영상영화제 인더스트리 프로그램)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-24"
-        },
-        {
-            "title": "[구인] [SFA] 8월 연출/피디/영상/사진/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-30"
-        },
-        {
-            "title": "[구인] 제 11회 울산울주세계산악영화제 자원봉사자 ‘움트리’ 모집 (~7/30)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-30"
-        },
-        {
-            "title": "[구인] [2026 여름 모모 영화학교] 일본 영화의 황금기와 4인의 거장 (2026.7.14~8.27)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-27"
-        },
-        {
-            "title": "[구인] [영화제] 제31회 부산국제영화제 4차 계약직 직원 채용",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-12"
-        },
-        {
-            "title": "[구인] 제18회 서울국제건축영화제 자원활동가 '씨앗프렌즈' 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-21"
-        },
-        {
-            "title": "[구인] 2026년 특수효과 데몰리션 신입사원(정규)모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] ◆ HOT! AI시대의 공모전 당선 전략! 무료 공개 강의! (7월 13일/14일) ◆",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-14"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n씨네21\n씨네21 콘텐츠팀 계약직 모집\n2026-07-07",
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-08 11:10:09"
+    "last_updated": "2026-07-09 03:59:00"
 }
