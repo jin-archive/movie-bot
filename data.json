@@ -53,6 +53,16 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n더블유서비시즈\n[Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다\n2026-07-13",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22534",
+            "date": "2026-07-13"
+        },
+        {
+            "title": "채용\n\nCJENM\nCJENM 해외배급팀 인턴 모집\n2026-07-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22521",
+            "date": "2026-07-09"
+        },
+        {
             "title": "채용\n\n씨네21\n씨네21 영상팀 PD 팀장급 채용\n2026-07-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22520",
             "date": "2026-07-09"
@@ -91,19 +101,14 @@
             "title": "채용\n\n판씨네마㈜\n[품(POOM)] 공간 운영 매니저 모집\n2026-06-25",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22488",
             "date": "2026-06-25"
-        },
-        {
-            "title": "채용\n\n(주)더콘텐츠온\nTCO(주)더콘텐츠온 극장배급/ 해외수입 채용 공고\n2026-06-22",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22479",
-            "date": "2026-06-22"
-        },
-        {
-            "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] (사)서울국제어린이영화제 2026년 3차 기간제근로자 채용공고\n2026-06-17",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22471",
-            "date": "2026-06-17"
         }
     ],
     "krmedia": [
+        {
+            "title": "용인특례시 미디어센터 신규 직원 채용 공고(~08/10)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11094&page=1",
+            "date": "2026-07-14"
+        },
         {
             "title": "[7.13~7.15]서울시 노원구 시간선택제임기제공무원(마을미디어센터 실무총괄 분야)채용 공고",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11093&page=1",
@@ -148,11 +153,6 @@
             "title": "[제천국제음악영화제] 단편영화 제작지원 프로젝트 공모(장르 불문) (~6/22)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11084&page=1",
             "date": "2026-05-20"
-        },
-        {
-            "title": "2026-2학기 협력종합예술활동 영화 영역 예술강사 모집공고(~5/31 기한연장)",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11082&page=1",
-            "date": "2026-04-28"
         }
     ],
     "kofa": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-13 12:13:15"
+    "last_updated": "2026-07-14 03:15:25"
 }
