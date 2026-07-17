@@ -207,7 +207,58 @@
             "date": "2026-02-25"
         }
     ],
-    "dureraum": [],
+    "dureraum": [
+        {
+            "title": "(재)영화의전당 2026년 제3차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=357",
+            "date": ""
+        },
+        {
+            "title": "재)영화의전당 2026년 상반기 통합 채용 면...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=355",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 상반기 신규직원 채용 서류...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=354",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 상반기 신규직원 채용 필기...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=352",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2026년 제2차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=351",
+            "date": ""
+        },
+        {
+            "title": "2026년도 상반기 영화의전당 통합채용 공고",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=348",
+            "date": "2026-04-15"
+        },
+        {
+            "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
+            "date": ""
+        }
+    ],
     "kmrb": [
         {
             "title": "영상물등급위원회 2026년도 제3차 기간제계약직(휴직대체) 채용 일정 변경 공고",
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-17 03:24:53"
+    "last_updated": "2026-07-17 07:22:57"
 }
