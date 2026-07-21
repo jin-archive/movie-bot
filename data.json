@@ -1,57 +1,11 @@
 {
-    "kofic": [
-        {
-            "title": "[구인] 제31회 부산국제영화제 계약직 직원 수시 채용",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] ◈ 공모전, 이번엔 반드시 당선된다! <기초반 56기> 수강생 모집! (8월 1일)◈",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
-        },
-        {
-            "title": "[구인] [SFA] 8월 연출/피디/영상/사진/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-30"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 입문 63기> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-29"
-        },
-        {
-            "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-24"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 50기 in 성수> 공고 오픈! (얼리버드~7/16)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-11"
-        },
-        {
-            "title": "[구인] [모집] [인천영상위원회] 씨네인천 그룹 특강 - <연기연출 특강> 형슬우 감독 *무료",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-17"
-        },
-        {
-            "title": "[구인] [무료특강] AI 시대의 승자는 작가! (7월 13일/14일)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-14"
-        },
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드  : 원데이클래스> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-12"
-        },
-        {
-            "title": "[구인] [서울영화센터] <스크린 뒤, 영화 이야기: 배우 엄정화 x 제작자 김윤미 무비 토크>",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-24"
-        }
-    ],
+    "kofic": [],
     "cine21": [
+        {
+            "title": "채용\n\n(주)도키엔터테인먼트\n[도키엔터테인먼트] 콘텐츠 부가판권 유통 직원을 모집합니다.\n2026-07-20",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22541",
+            "date": "2026-07-20"
+        },
         {
             "title": "채용\n\n더블유서비시즈\n[Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다\n2026-07-13",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22534",
@@ -96,14 +50,14 @@
             "title": "채용\n\n102Cinema / 오to1Cinema\n[장편 독립영화 〈럭키, 금순〉] 스크립터 모집 / 정기혁 감독 / 영진위·부산영상위·경기콘텐츠진흥원 제작지원작\n2026-06-29",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22495",
             "date": "2026-06-29"
-        },
-        {
-            "title": "채용\n\n판씨네마㈜\n[품(POOM)] 공간 운영 매니저 모집\n2026-06-25",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22488",
-            "date": "2026-06-25"
         }
     ],
     "krmedia": [
+        {
+            "title": "[7.23~2.27] 노원구 시간선택제 임기제공무원 채용 재공고(마을미디어지원센터 실무총괄 분야)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11096&page=1",
+            "date": "2026-07-21"
+        },
         {
             "title": "용인특례시 미디어센터 신규 직원 채용 공고(~08/10)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11094&page=1",
@@ -147,11 +101,6 @@
         {
             "title": "[제천국제음악영화제] (장/단편)제천뮤직필름마켓 후반제작지원(영화음악) 프로젝트 공모 안내(~6/22)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11085&page=1",
-            "date": "2026-05-20"
-        },
-        {
-            "title": "[제천국제음악영화제] 단편영화 제작지원 프로젝트 공모(장르 불문) (~6/22)",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11084&page=1",
             "date": "2026-05-20"
         }
     ],
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-20 11:51:52"
+    "last_updated": "2026-07-21 03:27:51"
 }
