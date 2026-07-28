@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [SFA] 8월 연출/피디/영상/사진/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-30"
+        },
+        {
             "title": "[구인] [넥스트러너스/온라인] 3D 그래픽스 엔지니어 교육 과정 현업 멘토 모집(~7/30)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-30"
@@ -44,14 +49,19 @@
             "title": "[구인] 제31회 부산국제영화제 계약직 직원 수시 채용",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] ◈ 공모전, 이번엔 반드시 당선된다! <기초반 56기> 수강생 모집! (8월 1일)◈",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n씨네21\n씨네21 영상팀 PD 팀원 채용\n2026-07-28",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22568",
+            "date": "2026-07-28"
+        },
+        {
+            "title": "채용\n\n㈜이놀미디어\n[이놀미디어] 콘텐츠 부가 유통 담당자를 모집합니다.\n2026-07-28",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22566",
+            "date": "2026-07-28"
+        },
         {
             "title": "채용\n\n(주)인디스토리\n(주)인디스토리 국내배급팀 신입/경력 모집공고 (~ 8/2)\n2026-07-27",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22561",
@@ -91,16 +101,6 @@
             "title": "채용\n\n프리엠컴퍼니\n문화 콘텐츠 마케팅사 [프리엠컴퍼니] 경력 팀원을 모집합니다.\n2026-07-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22509",
             "date": "2026-07-06"
-        },
-        {
-            "title": "채용\n\n\n2026 부산평화영화제 단기 스태프 채용\n2026-07-04",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22508",
-            "date": "2026-07-04"
-        },
-        {
-            "title": "채용\n\n주식회사 더틱톡\n더틱톡 2026년 신입직원 구인 추가모집\n2026-07-01",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22503",
-            "date": "2026-07-01"
         }
     ],
     "krmedia": [
@@ -207,58 +207,7 @@
             "date": "2026-02-25"
         }
     ],
-    "dureraum": [
-        {
-            "title": "(재)영화의전당 2026년 제3차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=357",
-            "date": ""
-        },
-        {
-            "title": "재)영화의전당 2026년 상반기 통합 채용 면...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=355",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 상반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=354",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 상반기 신규직원 채용 필기...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=352",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2026년 제2차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=351",
-            "date": ""
-        },
-        {
-            "title": "2026년도 상반기 영화의전당 통합채용 공고",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=348",
-            "date": "2026-04-15"
-        },
-        {
-            "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
-            "date": ""
-        }
-    ],
+    "dureraum": [],
     "kmrb": [
         {
             "title": "영상물등급위원회 2026년도 제3차 기간제계약직(휴직대체) 채용 일정 변경 공고",
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-28 03:18:53"
+    "last_updated": "2026-07-28 07:43:00"
 }
