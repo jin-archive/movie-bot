@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [넥스트러너스/온라인] 3D 그래픽스 엔지니어 교육 과정 현업 멘토 모집(~7/30)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-07-30"
+        },
+        {
             "title": "[구인] [채용] 영화사 시월(Siwol Pictures) 조감독 모집 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-02"
@@ -44,11 +49,6 @@
             "title": "[구인] ◈ 공모전, 이번엔 반드시 당선된다! <기초반 56기> 수강생 모집! (8월 1일)◈",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-01"
-        },
-        {
-            "title": "[구인] [SFA] 8월 연출/피디/영상/사진/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-30"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-27 12:32:06"
+    "last_updated": "2026-07-28 03:18:53"
 }
