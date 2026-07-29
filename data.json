@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 최종 결과 발표",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-07-29"
+        },
+        {
             "title": "[구인] [로카] <영화 비즈니스 입문 63기> 오픈 확정! (신청 기간~8/4)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-04"
@@ -44,11 +49,6 @@
             "title": "[구인] 제18회 DMZ국제다큐멘터리영화제 디자인 매니저 채용 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [SFA] 8월 연출/피디/영상/사진/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-30"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-29 07:48:00"
+    "last_updated": "2026-07-29 11:30:31"
 }
