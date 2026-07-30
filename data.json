@@ -6,6 +6,11 @@
             "date": "2026-07-29"
         },
         {
+            "title": "[구인] 부천국제애니메이션페스티벌(BIAF2026)  프로그램팀 공개 채용의 건",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
             "title": "[구인] [로카] <영화 비즈니스 입문 63기> 오픈 확정! (신청 기간~8/4)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-04"
@@ -44,11 +49,6 @@
             "title": "[구인] [한국예술종합학교] 국제 공동제작 프로젝트의 한국 파견 크루 모집 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-01"
-        },
-        {
-            "title": "[구인] 제18회 DMZ국제다큐멘터리영화제 디자인 매니저 채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-29 11:30:31"
+    "last_updated": "2026-07-30 02:54:09"
 }
