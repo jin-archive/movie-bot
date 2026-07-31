@@ -6,6 +6,11 @@
             "date": "2026-07-29"
         },
         {
+            "title": "[구인] [영진위·부영위·경콘진 지원작] 장편 <럭키, 금순> 제작실장 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
             "title": "[구인] 부천국제애니메이션페스티벌(BIAF2026)  프로그램팀 공개 채용의 건",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
@@ -44,19 +49,9 @@
             "title": "[구인] 제7회 수려한합천영화제 필름챌린지 모집 공모",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-31"
-        },
-        {
-            "title": "[구인] [한국예술종합학교] 국제 공동제작 프로젝트의 한국 파견 크루 모집 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
         }
     ],
     "cine21": [
-        {
-            "title": "채용\n\n102cinema\n[장편영화 럭키, 금순] 제작실장 모집\n2026-07-31",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22578",
-            "date": "2026-07-31"
-        },
         {
             "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] (사)서울국제어린이영화제 초단기스태프 공고\n2026-07-30",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22575",
@@ -101,6 +96,11 @@
             "title": "채용\n\n더블유서비시즈\n[Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다\n2026-07-13",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22534",
             "date": "2026-07-13"
+        },
+        {
+            "title": "채용\n\nCJENM\nCJENM 해외배급팀 인턴 모집\n2026-07-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22521",
+            "date": "2026-07-09"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-31 03:36:46"
+    "last_updated": "2026-07-31 07:55:45"
 }
