@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n102cinema\n[장편영화 럭키, 금순] 제작실장 모집\n2026-07-31",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22578",
+            "date": "2026-07-31"
+        },
+        {
             "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] (사)서울국제어린이영화제 초단기스태프 공고\n2026-07-30",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22575",
             "date": "2026-07-30"
@@ -96,11 +101,6 @@
             "title": "채용\n\n더블유서비시즈\n[Wservices(왓챠 자회사)] 검수 아르바이트를 모집합니다\n2026-07-13",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22534",
             "date": "2026-07-13"
-        },
-        {
-            "title": "채용\n\nCJENM\nCJENM 해외배급팀 인턴 모집\n2026-07-09",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22521",
-            "date": "2026-07-09"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-30 09:34:44"
+    "last_updated": "2026-07-31 03:36:46"
 }
