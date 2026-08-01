@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 최종 결과 발표",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-07-29"
-        },
-        {
-            "title": "[구인] [SFA] 9월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-31"
-        },
-        {
-            "title": "[구인] [영진위·부영위·경콘진 지원작] 장편 <럭키, 금순> 제작실장 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] 부천국제애니메이션페스티벌(BIAF2026)  프로그램팀 공개 채용의 건",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 입문 63기> 오픈 확정! (신청 기간~8/4)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-04"
-        },
-        {
-            "title": "[구인] [SFA] 8월 연출/피디/영상/사진/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-30"
-        },
-        {
-            "title": "[구인] [넥스트러너스/온라인] 3D 그래픽스 엔지니어 교육 과정 현업 멘토 모집(~7/30)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-07-30"
-        },
-        {
-            "title": "[구인] [채용] 영화사 시월(Siwol Pictures) 조감독 모집 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-02"
-        },
-        {
-            "title": "[구인] [SBS A&T] 2026 AI 미디어 크리에이터 양성과정 2·3기 모집 (~8/1)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
-        },
-        {
-            "title": "[구인] [SBS A&T] 2026 AI 미디어 크리에이터 양성과정 2·3기 모집 (~8/1)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n(사)서울국제어린이영화제\n[14th SICFF] (사)서울국제어린이영화제 초단기스태프 공고\n2026-07-30",
@@ -207,7 +156,58 @@
             "date": "2026-02-25"
         }
     ],
-    "dureraum": [],
+    "dureraum": [
+        {
+            "title": "(재)영화의전당 2026년 제3차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=357",
+            "date": ""
+        },
+        {
+            "title": "재)영화의전당 2026년 상반기 통합 채용 면...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=355",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 상반기 신규직원 채용 서류...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=354",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 상반기 신규직원 채용 필기...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=352",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2026년 제2차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=351",
+            "date": ""
+        },
+        {
+            "title": "2026년도 상반기 영화의전당 통합채용 공고",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=348",
+            "date": "2026-04-15"
+        },
+        {
+            "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
+            "date": ""
+        },
+        {
+            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
+            "date": ""
+        }
+    ],
     "kmrb": [
         {
             "title": "영상물등급위원회 2026년도 제3차 기간제계약직(휴직대체) 채용 일정 변경 공고",
@@ -220,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-07-31 11:32:54"
+    "last_updated": "2026-08-01 03:36:50"
 }
