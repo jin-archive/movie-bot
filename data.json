@@ -1,6 +1,16 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 최종 결과 발표",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-07-29"
+        },
+        {
+            "title": "[구인] [서울영화센터] <스마트폰으로 만드는 나만의 영화 - Ⅲ.포스트프로덕션> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-28"
+        },
+        {
             "title": "[구인] 2026 조치원 필름 로맨스 자원 활동가 모집 (-8/21)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-21"
@@ -39,16 +49,6 @@
             "title": "[구인] [넥스트러너스/온라인] 3D 그래픽스 엔지니어 교육 과정 현업 멘토 모집(~7/30)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-07-30"
-        },
-        {
-            "title": "[구인] [채용] 영화사 시월(Siwol Pictures) 조감독 모집 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-02"
-        },
-        {
-            "title": "[구인] [SBS A&T] 2026 AI 미디어 크리에이터 양성과정 2·3기 모집 (~8/1)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-01"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-03 03:38:55"
+    "last_updated": "2026-08-03 08:34:50"
 }
