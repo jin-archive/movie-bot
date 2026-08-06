@@ -1,6 +1,21 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 최종 결과 발표",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-07-29"
+        },
+        {
+            "title": "[구인] [비에이엔터테인먼트] 드라마 보조작가를 모집합니다",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-14"
+        },
+        {
+            "title": "[구인] [모집] [인천영상위원회] 씨네인천 그룹 특강 - <영화포스터 디자인 기획 특강> 한중수 디자이너 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-18"
+        },
+        {
             "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-30"
@@ -34,24 +49,19 @@
             "title": "[구인] 2026 조치원 필름 로맨스 자원 활동가 모집 (-8/21)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-21"
-        },
-        {
-            "title": "[구인] ◈ 공모전, 이번엔 반드시 당선된다! <기초반 56기> 수강생 모집! (8월 22일)◈",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-29"
-        },
-        {
-            "title": "[구인] [SFA] 9월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-31"
-        },
-        {
-            "title": "[구인] [영진위·부영위·경콘진 지원작] 장편 <럭키, 금순> 제작실장 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n모비\n[모비] 2026 하반기 영화 홍보 마케팅 담당자(신입/경력) 채용합니다.\n2026-08-06",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22592",
+            "date": "2026-08-06"
+        },
+        {
+            "title": "채용\n\n니우스엔\n[니우스엔] 스토리 작가 채용\n2026-08-05",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22591",
+            "date": "2026-08-05"
+        },
         {
             "title": "채용\n\n서울국제프라이드영화제\n2026 제16회 서울국제프라이드영화제 단기 스태프 채용공고(~8/17)\n2026-08-04",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22589",
@@ -90,16 +100,6 @@
         {
             "title": "채용\n\n(주)줌 ZOOM\n(주)줌 ZOOM 국내 외 영화/드라마 예고편 제작 채용 공고\n2026-07-28",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22571",
-            "date": "2026-07-28"
-        },
-        {
-            "title": "채용\n\n씨네21\n씨네21 영상팀 PD 팀원 채용\n2026-07-28",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22568",
-            "date": "2026-07-28"
-        },
-        {
-            "title": "채용\n\n㈜이놀미디어\n[이놀미디어] 콘텐츠 부가 유통 담당자를 모집합니다.\n2026-07-28",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22566",
             "date": "2026-07-28"
         }
     ],
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-05 11:25:31"
+    "last_updated": "2026-08-06 03:20:29"
 }
