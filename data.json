@@ -1,11 +1,6 @@
 {
     "kofic": [
         {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 최종 결과 발표",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-07-29"
-        },
-        {
             "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “홍콩 영화산업과 한국-홍콩 영화공동제작 노하우”",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-21"
@@ -47,6 +42,11 @@
         },
         {
             "title": "[구인] [서울영화센터] '영화제작 프로젝트 기획 컨설팅 데이' 참가자 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-17"
+        },
+        {
+            "title": "[구인] [서울영화센터] 영화인을 위한 웹드라마 기획,제작 가이드 특강 \"<좋좋소, 강계장> 이태동 감독이 말하는 웹드라마의 모든 것\"",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-17"
         }
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-10 08:44:37"
+    "last_updated": "2026-08-10 10:24:14"
 }
