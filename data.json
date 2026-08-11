@@ -6,6 +6,11 @@
             "date": "2026-07-29"
         },
         {
+            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 50기 in 성수> 수강생 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-18"
+        },
+        {
             "title": "[구인] 남도영화제 시즌3 장흥 프레, 남도 프로젝트 단편영화 제작지원 공모(~8/24, 17:00)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-24"
@@ -44,11 +49,6 @@
             "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-30"
-        },
-        {
-            "title": "[구인] 2026 제16회 서울국제프라이드영화제 단기 스태프 채용 공고(~8/17)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-17"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-11 08:12:27"
+    "last_updated": "2026-08-11 10:04:25"
 }
