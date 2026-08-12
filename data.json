@@ -1,11 +1,6 @@
 {
     "kofic": [
         {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 최종 결과 발표",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-07-29"
-        },
-        {
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 50기 in 성수> 수강생 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-18"
@@ -49,6 +44,11 @@
             "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-30"
+        },
+        {
+            "title": "[구인] 2026 제16회 서울국제프라이드영화제 단기 스태프 채용 공고(~8/17)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-17"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-12 02:29:30"
+    "last_updated": "2026-08-12 04:53:25"
 }
