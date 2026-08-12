@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 최종 결과 발표",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-07-29"
-        },
-        {
-            "title": "[구인] 제1회 BIFAN Ⅹ 더만타스토리 AI 숏폼 드라마 대본 공모전",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-15"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 50기 in 성수> 수강생 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-18"
-        },
-        {
-            "title": "[구인] 남도영화제 시즌3 장흥 프레, 남도 프로젝트 단편영화 제작지원 공모(~8/24, 17:00)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[구인] [SFA] 9월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-30"
-        },
-        {
-            "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “홍콩 영화산업과 한국-홍콩 영화공동제작 노하우”",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-21"
-        },
-        {
-            "title": "[구인] [서울영화센터] <대학영화동아리 시네마 랩> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-31"
-        },
-        {
-            "title": "[구인] [제15회 스웨덴영화제] 청년 앰버서더 모집 (~8/17(월))",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-17"
-        },
-        {
-            "title": "[구인] [비에이엔터테인먼트] 드라마 보조작가를 모집합니다",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-14"
-        },
-        {
-            "title": "[구인] [모집] [인천영상위원회] 씨네인천 그룹 특강 - <영화포스터 디자인 기획 특강> 한중수 디자이너 *무료",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-18"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n자명글로불\n[숏폼 드라마 작가 모집] 한·중 합작 판타지 로맨스 숏폼 드라마\n2026-08-09",
@@ -155,58 +104,7 @@
             "date": "2026-05-20"
         }
     ],
-    "kofa": [
-        {
-            "title": "[채용/최종] 한국영상자료원 2026년 제3차 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-06-19"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 2026년 제2차 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-06-19"
-        },
-        {
-            "title": "[채용/면접] 한국영상자료원 2026년 제3차 채용 증빙서류 제출 및 면접전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-27"
-        },
-        {
-            "title": "[채용/필기 및 면접] 한국영상자료원 2026년 제2차 채용 필기전형 결과 및 면접전형 등 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-27"
-        },
-        {
-            "title": "[채용/서류] 한국영상자료원 2026년 제3차 채용 서류전형 결과 및 이후 전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-20"
-        },
-        {
-            "title": "[채용/서류] 한국영상자료원 2026년 제2차 채용 서류전형 결과 및 이후 전형 안내",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-05-20"
-        },
-        {
-            "title": "한국영상자료원 2026년 제3차 채용 공고(명예의전당·영상박물관 통합운영 분야 기간제계약직 7명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-23"
-        },
-        {
-            "title": "한국영상자료원 2026년 제2차 채용 공고(정규직 1명, 체험형청년인턴 2명, 기간제계약직 5명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-23"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 2026년 제1차 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-02"
-        },
-        {
-            "title": "한국영상자료원 2026년 제1차 채용 공고(체험형청년인턴 2명, 기간제계약직 8명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-02-25"
-        }
-    ],
+    "kofa": [],
     "dureraum": [
         {
             "title": "(재)영화의전당 2026년 제3차 기간제 채용 ...",
@@ -271,5 +169,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-12 06:19:44"
+    "last_updated": "2026-08-12 08:24:05"
 }
