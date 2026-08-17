@@ -1,5 +1,56 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[구인] Angel Studios мҠ№мқё/Torch ( 15л¶„)м ңмһ‘м—җ л”°лҘё м—°м¶ң л°Ҹ к°җлҸ…мқ„ мҙҲл№ҷн•©лӢҲлӢӨ.",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-18"
+        },
+        {
+            "title": "[구인] [н•ңкөӯл¬ёнҷ”мҳҲмҲ мң„мӣҗнҡҢ] мҳҲмҲ кё°лЎқмӣҗ кіөм—°мҳҒмғҒнҷ”мӮ¬м—… м§Җмӣҗ мұ„мҡ©",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-26"
+        },
+        {
+            "title": "[구인] м ң1нҡҢ BIFAN в…© лҚ”л§ҢнғҖмҠӨнҶ лҰ¬ AI мҲҸнҸј л“ңлқјл§Ҳ лҢҖліё кіөлӘЁм „",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-15"
+        },
+        {
+            "title": "[구인] [лЎңм№ҙ] <мҳҒнҷ” л№„мҰҲлӢҲмҠӨ м·Ём—… мӨҖл№„ кіјм • 50кё° in м„ұмҲҳ> мҲҳк°•мғқ лӘЁм§‘",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-18"
+        },
+        {
+            "title": "[구인] лӮЁлҸ„мҳҒнҷ”м ң мӢңмҰҢ3 мһҘнқҘ н”„л Ҳ, лӮЁлҸ„ н”„лЎңм қнҠё лӢЁнҺёмҳҒнҷ” м ңмһ‘м§Җмӣҗ кіөлӘЁ(~8/24, 17:00)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "[구인] [SFA] 9мӣ” м—°м¶ң/н”јл””/мҳҒмғҒ/мҙ¬мҳҒ/мһҘнҺё/мҲҸнҸј кіјм • лӘЁм§‘! [м„ңмҡён•„лҰ„м•„м№ҙлҚ°лҜё]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-30"
+        },
+        {
+            "title": "[구인] [м„ңмҡёмҳҒнҷ”м„јн„°] мҳҒнҷ”мқёмқ„ мң„н•ң кёҖлЎңлІҢ м—ӯлҹүк°•нҷ” нҠ№к°• вҖңнҷҚмҪ© мҳҒнҷ”мӮ°м—…кіј н•ңкөӯ-нҷҚмҪ© мҳҒнҷ”кіөлҸҷм ңмһ‘ л…ён•ҳмҡ°вҖқ",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-21"
+        },
+        {
+            "title": "[구인] [м„ңмҡёмҳҒнҷ”м„јн„°] <лҢҖн•ҷмҳҒнҷ”лҸҷм•„лҰ¬ мӢңл„Өл§Ҳ лһ©> мҲҳк°•мғқ лӘЁм§‘!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-31"
+        },
+        {
+            "title": "[구인] [м ң15нҡҢ мҠӨмӣЁлҚҙмҳҒнҷ”м ң] мІӯл…„ м•°лІ„м„ңлҚ” лӘЁм§‘ (~8/17(мӣ”))",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-17"
+        },
+        {
+            "title": "[구인] [л№„м—җмқҙм—”н„°н…ҢмқёлЁјнҠё] л“ңлқјл§Ҳ ліҙмЎ°мһ‘к°ҖлҘј лӘЁм§‘н•©лӢҲлӢӨ",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-14"
+        }
+    ],
     "cine21": [
         {
             "title": "채용\n\nWOWPOINT\n글로벌 콘텐츠 제작사 WOWPOINT에서 프로듀서를 모집합니다.\n2026-08-14",
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-17 01:45:12"
+    "last_updated": "2026-08-17 03:55:24"
 }
