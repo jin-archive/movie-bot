@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n앤드크레딧\n영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입 사원을 모집합니다.\n2026-08-18",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22611",
+            "date": "2026-08-18"
+        },
+        {
             "title": "채용\n\nWOWPOINT\n글로벌 콘텐츠 제작사 WOWPOINT에서 프로듀서를 모집합니다.\n2026-08-14",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22609",
             "date": "2026-08-14"
@@ -96,11 +101,6 @@
             "title": "채용\n\n니우스엔\n[니우스엔] 스토리 작가 채용\n2026-08-05",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22591",
             "date": "2026-08-05"
-        },
-        {
-            "title": "채용\n\n서울국제프라이드영화제\n2026 제16회 서울국제프라이드영화제 단기 스태프 채용공고(~8/17)\n2026-08-04",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22589",
-            "date": "2026-08-04"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-18 07:44:09"
+    "last_updated": "2026-08-18 09:39:44"
 }
