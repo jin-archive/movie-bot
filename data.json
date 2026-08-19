@@ -105,6 +105,11 @@
     ],
     "krmedia": [
         {
+            "title": "2026년 제28회 부천국제애니메이션페스티벌 자원활동가 '비아띠' 모집",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11097&page=1",
+            "date": "2026-08-19"
+        },
+        {
             "title": "[7.23~2.27] 노원구 시간선택제 임기제공무원 채용 재공고(마을미디어지원센터 실무총괄 분야)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11096&page=1",
             "date": "2026-07-21"
@@ -147,11 +152,6 @@
         {
             "title": "4회 [부산국제장애인인권영화제] 단편 영화 공모 안내",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11086&page=1",
-            "date": "2026-05-20"
-        },
-        {
-            "title": "[제천국제음악영화제] (장/단편)제천뮤직필름마켓 후반제작지원(영화음악) 프로젝트 공모 안내(~6/22)",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11085&page=1",
             "date": "2026-05-20"
         }
     ],
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-19 03:51:32"
+    "last_updated": "2026-08-19 05:36:36"
 }
