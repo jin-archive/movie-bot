@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [티캐스트]씨네큐브 발권 계약직 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-31"
+        },
+        {
             "title": "[구인] [SFA] 9월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-31"
@@ -44,11 +49,6 @@
             "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “홍콩 영화산업과 한국-홍콩 영화공동제작 노하우”",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-21"
-        },
-        {
-            "title": "[구인] [서울영화센터] <대학영화동아리 시네마 랩> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-31"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-20 01:40:21"
+    "last_updated": "2026-08-20 03:51:59"
 }
