@@ -1,6 +1,21 @@
 {
     "kofic": [
         {
+            "title": "[구인] 제23회 EBS국제다큐영화제 포럼 [한국 다큐멘터리의 글로벌 진출] 신청자 모집(무료)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-26"
+        },
+        {
+            "title": "[구인] 제23회 EBS국제다큐영화제 포럼 [다큐멘터리 창작기-관계를 통한 창작과 실천: 공동체 안에서 발현되는 문화예술] 신청자 모집(무료)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-08-26"
+        },
+        {
+            "title": "[구인] [인천영상위원회] 씨네인천 그룹 특강 - <AI 기반 프로덕션 특강> 박성원 감독 *무료",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-05"
+        },
+        {
             "title": "[구인] [티캐스트]씨네큐브 발권 계약직 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-31"
@@ -34,21 +49,6 @@
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 50기 in 성수> 오픈 확정! (~8/24까지 신청)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-24"
-        },
-        {
-            "title": "[구인] 남도영화제 시즌3 장흥 프레, 남도 프로젝트 단편영화 제작지원 공모(~8/24, 17:00)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[구인] [SFA] 9월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-30"
-        },
-        {
-            "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “홍콩 영화산업과 한국-홍콩 영화공동제작 노하우”",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-21"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-21 01:45:42"
+    "last_updated": "2026-08-21 03:54:37"
 }
