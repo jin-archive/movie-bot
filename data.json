@@ -1,6 +1,21 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2026년 공무직(부산촬영소 경비) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "[공지] 2026년 공무직(부산촬영소 미화) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "[구인] 문화콘텐츠 마케팅사 S∙CON 스콘에서 2026년 하반기 경력/신입사원을 모집합니다.",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-03"
+        },
+        {
             "title": "[구인] [장편영화 〈럭키, 금순〉] 제작부 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
@@ -34,24 +49,24 @@
             "title": "[구인] 제23회 EBS국제다큐영화제 포럼 [한국 다큐멘터리의 글로벌 진출] 신청자 모집(무료)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-08-26"
-        },
-        {
-            "title": "[구인] 제23회 EBS국제다큐영화제 포럼 [다큐멘터리 창작기-관계를 통한 창작과 실천: 공동체 안에서 발현되는 문화예술] 신청자 모집(무료)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-26"
-        },
-        {
-            "title": "[구인] [인천영상위원회] 씨네인천 그룹 특강 - <AI 기반 프로덕션 특강> 박성원 감독 *무료",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-05"
-        },
-        {
-            "title": "[구인] [티캐스트]씨네큐브 발권 계약직 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-31"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n102Cinema\n[장편영화 〈럭키, 금순〉] 제작부 모집\n2026-08-24",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22627",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "채용\n\n절찬상영중\n신입/경력직 채용공고 [절찬상영중]\n2026-08-24",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22625",
+            "date": "2026-08-24"
+        },
+        {
+            "title": "채용\n\n로드쇼\n[로드쇼] 2026 경력/신입 채용공고\n2026-08-24",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22623",
+            "date": "2026-08-24"
+        },
         {
             "title": "채용\n\nTCO(주)더콘텐츠온\nTCO(주)더콘텐츠온 영화 정산 및 운영 담담자 채용 (계약직)\n2026-08-20",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22619",
@@ -86,21 +101,6 @@
             "title": "채용\n\n자명글로불\n[숏폼 드라마 작가 모집] 한·중 합작 판타지 로맨스 숏폼 드라마\n2026-08-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22601",
             "date": "2026-08-09"
-        },
-        {
-            "title": "채용\n\n펍시네마\n[펍시네마] 콘텐츠 마케팅 담당 채용\n2026-08-06",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22600",
-            "date": "2026-08-06"
-        },
-        {
-            "title": "채용\n\nINNO\n영화홍보마케팅사 '이노기획'에서 함께 일할 인재를 모집합니다!\n2026-08-06",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22597",
-            "date": "2026-08-06"
-        },
-        {
-            "title": "채용\n\n모비\n[모비] 2026 하반기 영화 홍보 마케팅 담당자(신입/경력) 채용합니다.\n2026-08-06",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22592",
-            "date": "2026-08-06"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-24 03:59:31"
+    "last_updated": "2026-08-24 05:43:19"
 }
