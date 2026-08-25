@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[공지] 2026년 공무직(시설관리) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 재공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "[공지] 2026년 공무직(부산촬영소 경비) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[공지] 2026년 공무직(부산촬영소 미화) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[구인] 문화콘텐츠 마케팅사 S∙CON 스콘에서 2026년 하반기 경력/신입사원을 모집합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-03"
-        },
-        {
-            "title": "[구인] [장편영화 〈럭키, 금순〉] 제작부 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [SFA] 9월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-08-31"
-        },
-        {
-            "title": "[구인] [서울영화센터] 마스터클래스 '코이데 마사키 프로듀서'",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-04"
-        },
-        {
-            "title": "[구인] [모집] [인천영상위원회] 인천영화아카데미 <AI 영화기획입문> 수강생 모집 안내 *무료",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-13"
-        },
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드> 공고 오픈!!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-29"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n(주)스콘\n문화콘텐츠 마케팅사 S∙CON 스콘에서 2026년 하반기 경력/신입사원을 모집합니다.\n2026-08-24",
@@ -207,58 +156,7 @@
             "date": "2026-02-25"
         }
     ],
-    "dureraum": [
-        {
-            "title": "(재)영화의전당 2026년 제3차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=357",
-            "date": ""
-        },
-        {
-            "title": "재)영화의전당 2026년 상반기 통합 채용 면...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=355",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 상반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=354",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 상반기 신규직원 채용 필기...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=352",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2026년 제2차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=351",
-            "date": ""
-        },
-        {
-            "title": "2026년도 상반기 영화의전당 통합채용 공고",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=348",
-            "date": "2026-04-15"
-        },
-        {
-            "title": "(재)영화의전당 2026년 제1차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=346",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
-            "date": ""
-        },
-        {
-            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
-            "date": ""
-        }
-    ],
+    "dureraum": [],
     "kmrb": [
         {
             "title": "영상물등급위원회 2026년도 제3차 기간제계약직(휴직대체) 채용 일정 변경 공고",
@@ -271,5 +169,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-25 05:37:14"
+    "last_updated": "2026-08-25 07:50:32"
 }
