@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[공지] 2026년 공무직(시설관리) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 재공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "[공지] 2026년 공무직(부산촬영소 경비) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[공지] 2026년 공무직(부산촬영소 미화) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[구인] [서울영화센터] <영화동아리 시네마 랩> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-04"
-        },
-        {
-            "title": "[구인] [장편영화 〈럭키, 금순〉] PD(프로듀서) 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [에무시네마 프로그래머 채용 공고] 2026년 8월",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-04"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 입문 64기> 공고 오픈!(얼리버드~9/2)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-14"
-        },
-        {
-            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-30"
-        },
-        {
-            "title": "[구인] [장편영화 〈럭키, 금순〉] 조감독 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n102Cinema\n[제작] [장편영화 〈럭키, 금순〉] PD(프로듀서) 모집\n2026-08-27",
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-27 08:50:18"
+    "last_updated": "2026-08-27 19:46:42"
 }
