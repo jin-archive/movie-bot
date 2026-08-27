@@ -21,6 +21,21 @@
             "date": "2026-08-24"
         },
         {
+            "title": "[구인] [서울영화센터] <영화동아리 시네마 랩> 수강생 모집!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-04"
+        },
+        {
+            "title": "[구인] [장편영화 〈럭키, 금순〉] PD(프로듀서) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] [에무시네마 프로그래머 채용 공고] 2026년 8월",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-04"
+        },
+        {
             "title": "[구인] [로카] <영화 비즈니스 입문 64기> 공고 오픈!(얼리버드~9/2)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-14"
@@ -34,24 +49,24 @@
             "title": "[구인] [장편영화 〈럭키, 금순〉] 조감독 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 51기 in 성수> 공고 오픈! (얼리버드 ~9/1)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-05"
-        },
-        {
-            "title": "[구인] 문화콘텐츠 마케팅사 S∙CON 스콘에서 2026년 하반기 경력/신입사원을 모집합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-03"
-        },
-        {
-            "title": "[구인] [장편영화 〈럭키, 금순〉] 제작부 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n102Cinema\n[제작] [장편영화 〈럭키, 금순〉] PD(프로듀서) 모집\n2026-08-27",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22640",
+            "date": "2026-08-27"
+        },
+        {
+            "title": "채용\n\n에무시네마\n[에무시네마 프로그래머 채용 공고] 2026년 8월\n2026-08-26",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22638",
+            "date": "2026-08-26"
+        },
+        {
+            "title": "채용\n\n(주)더타이틀\n영화 배급/홍보, 마케팅 경력직 채용공고\n2026-08-26",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22637",
+            "date": "2026-08-26"
+        },
         {
             "title": "채용\n\n(주)이놀미디어\n[이놀미디어] 콘텐츠 기획팀 팀원을 모집합니다 (유통/수입 파트)\n2026-08-26",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22634",
@@ -86,21 +101,6 @@
             "title": "채용\n\n로드쇼\n[로드쇼] 2026 경력/신입 채용공고\n2026-08-24",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22623",
             "date": "2026-08-24"
-        },
-        {
-            "title": "채용\n\nTCO(주)더콘텐츠온\nTCO(주)더콘텐츠온 영화 정산 및 운영 담담자 채용 (계약직)\n2026-08-20",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22619",
-            "date": "2026-08-20"
-        },
-        {
-            "title": "채용\n\n티캐스트\n[티캐스트] 씨네큐브 발권 계약직 모집\n2026-08-20",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22618",
-            "date": "2026-08-20"
-        },
-        {
-            "title": "채용\n\n앤드크레딧\n영화 마케팅&넷플릭스 콘텐츠 홍보 대행사 [앤드크레딧] 신입 사원을 모집합니다.\n2026-08-18",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22611",
-            "date": "2026-08-18"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-26 09:50:11"
+    "last_updated": "2026-08-27 08:50:18"
 }
