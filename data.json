@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n주식회사 더틱톡\n방송홍보대행사 더틱톡 신입 직원 모집\n2026-08-27",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22642",
+            "date": "2026-08-27"
+        },
+        {
             "title": "채용\n\n102Cinema\n[제작] [장편영화 〈럭키, 금순〉] PD(프로듀서) 모집\n2026-08-27",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22640",
             "date": "2026-08-27"
@@ -95,11 +100,6 @@
         {
             "title": "채용\n\n절찬상영중\n신입/경력직 채용공고 [절찬상영중]\n2026-08-24",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22625",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "채용\n\n로드쇼\n[로드쇼] 2026 경력/신입 채용공고\n2026-08-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22623",
             "date": "2026-08-24"
         }
     ],
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-30 12:44:18"
+    "last_updated": "2026-08-31 05:08:04"
 }
