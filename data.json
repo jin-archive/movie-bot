@@ -21,6 +21,11 @@
             "date": "2026-08-24"
         },
         {
+            "title": "[구인] 17회 광주여성영화제 자원활동가 ‘귀니’ 모집 (~9/21)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-21"
+        },
+        {
             "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-31"
@@ -44,11 +49,6 @@
             "title": "[구인] [에무시네마 프로그래머 채용 공고] 2026년 8월",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-04"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 입문 64기> 공고 오픈!(얼리버드~9/2)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-14"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-08-31 14:59:27"
+    "last_updated": "2026-09-01 04:44:48"
 }
