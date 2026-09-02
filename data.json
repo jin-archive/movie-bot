@@ -31,6 +31,11 @@
             "date": "2026-08-24"
         },
         {
+            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-25"
+        },
+        {
             "title": "[구인] 17회 광주여성영화제 자원활동가 ‘귀니’ 모집 (~9/21)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-21"
@@ -44,11 +49,6 @@
             "title": "[구인] [서울영화센터] 독립/예술영화 창작자의 영화제작 소품을 무료 대여지원 합니다. '씬-메이커 매칭 프로젝트' 참가자 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [서울영화센터] <영화동아리 시네마 랩> 수강생 모집!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-04"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-02 04:06:22"
+    "last_updated": "2026-09-02 09:25:01"
 }
