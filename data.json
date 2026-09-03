@@ -31,6 +31,11 @@
             "date": "2026-08-24"
         },
         {
+            "title": "[구인] [서울영화센터] <AI 시대, 영화 제작은 어떻게 달라지고 있나> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-20"
+        },
+        {
             "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-25"
@@ -44,14 +49,14 @@
             "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-31"
-        },
-        {
-            "title": "[구인] [서울영화센터] 독립/예술영화 창작자의 영화제작 소품을 무료 대여지원 합니다. '씬-메이커 매칭 프로젝트' 참가자 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n명필름랩\n영화사 명필름랩과 함께할 인재를 찾습니다\n2026-09-02",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22650",
+            "date": "2026-09-02"
+        },
         {
             "title": "채용\n\n주식회사 더틱톡\n방송홍보대행사 더틱톡 신입 직원 모집\n2026-08-27",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22642",
@@ -95,11 +100,6 @@
         {
             "title": "채용\n\n102Cinema\n[장편영화 〈럭키, 금순〉] 제작부 모집\n2026-08-24",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22627",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "채용\n\n절찬상영중\n신입/경력직 채용공고 [절찬상영중]\n2026-08-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22625",
             "date": "2026-08-24"
         }
     ],
@@ -209,6 +209,11 @@
     ],
     "dureraum": [
         {
+            "title": "2026년도 하반기 영화의전당 통합채용 공고",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=360",
+            "date": "2026-09-17"
+        },
+        {
             "title": "(재)영화의전당 2026년 제3차 기간제 채용 ...",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=357",
             "date": ""
@@ -252,11 +257,6 @@
             "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
             "date": ""
-        },
-        {
-            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=340",
-            "date": ""
         }
     ],
     "kmrb": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-03 04:03:40"
+    "last_updated": "2026-09-03 09:34:59"
 }
