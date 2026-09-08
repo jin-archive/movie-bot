@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[공지] 2026년 대체인력(일반사무)-2 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-09-02"
-        },
-        {
-            "title": "[공지] 2026년 대체인력(일반사무)-1 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-09-02"
-        },
-        {
-            "title": "[공지] 2026년 공무직(시설관리) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 재공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "[공지] 2026년 공무직(부산촬영소 경비) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[공지] 2026년 공무직(부산촬영소 미화) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-24"
-        },
-        {
-            "title": "[구인] [서울영화센터] <AI 시대, 영화 제작은 어떻게 달라지고 있나> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-20"
-        },
-        {
-            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-25"
-        },
-        {
-            "title": "[구인] 17회 광주여성영화제 자원활동가 ‘귀니’ 모집 (~9/21)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-21"
-        },
-        {
-            "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-31"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n주식회사 모팩스튜디오\n기획PD 채용(경력 10년 이상)\n2026-09-07",
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-08 04:12:31"
+    "last_updated": "2026-09-08 09:30:24"
 }
