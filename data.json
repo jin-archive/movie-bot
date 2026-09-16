@@ -1,26 +1,6 @@
 {
     "kofic": [
         {
-            "title": "[공지] 2026년 대체인력(일반사무)-2 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-09-02"
-        },
-        {
-            "title": "[공지] 2026년 대체인력(일반사무)-1 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-09-02"
-        },
-        {
-            "title": "[공지] 2026년 공무직(시설관리) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "[공지] 2026년 건축직(일반계약직) 공개채용 재공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-08-25"
-        },
-        {
             "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-30"
@@ -49,9 +29,39 @@
             "title": "[구인] [서울영화센터] SFC 인사이트랩  ‘영화제작 프로젝트 투자 컨설팅 데이’ 참가자 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-09-23"
+        },
+        {
+            "title": "[구인] [로카] <현장연출팀 취업준비과정 4기> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-16"
+        },
+        {
+            "title": "[구인] [서울영화센터] <AI 시대, 영화 제작은 어떻게 달라지고 있나> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-20"
+        },
+        {
+            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-25"
+        },
+        {
+            "title": "[구인] 17회 광주여성영화제 자원활동가 ‘귀니’ 모집 (~9/21)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-21"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\nSFA\n[SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]\n2026-09-15",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22684",
+            "date": "2026-09-15"
+        },
+        {
+            "title": "채용\n\n전주국제영화제\n(재)전주국제영화제조직위원회 스태프(공용장비담당) 모집\n2026-09-15",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22683",
+            "date": "2026-09-15"
+        },
         {
             "title": "채용\n\n루믹스미디어\n[루믹스미디어] 디지털 콘텐츠 유통 담당자 채용 합니다\n2026-09-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22669",
@@ -91,16 +101,6 @@
             "title": "채용\n\n102Cinema\n[장편영화 〈럭키, 금순〉] 조감독 모집\n2026-08-25",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22632",
             "date": "2026-08-25"
-        },
-        {
-            "title": "채용\n\n(주)영화사 백두대간\n아트하우스 모모 영사 아르바이트 모집\n2026-08-25",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22631",
-            "date": "2026-08-25"
-        },
-        {
-            "title": "채용\n\n(주)스콘\n문화콘텐츠 마케팅사 S∙CON 스콘에서 2026년 하반기 경력/신입사원을 모집합니다.\n2026-08-24",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22628",
-            "date": "2026-08-24"
         }
     ],
     "krmedia": [
@@ -220,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-15 09:57:50"
+    "last_updated": "2026-09-16 04:29:18"
 }
