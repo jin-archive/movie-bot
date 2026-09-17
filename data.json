@@ -1,5 +1,56 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-30"
+        },
+        {
+            "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-30"
+        },
+        {
+            "title": "[구인] [인천영상위원회] 사무국장 채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-27"
+        },
+        {
+            "title": "[구인] [서울영화센터] <배급의 이해: 어떤 영화가 흥행하는가?> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-11"
+        },
+        {
+            "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-30"
+        },
+        {
+            "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “국제 공동제작과 글로벌 프로젝트 기획/제작 가이드”",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-25"
+        },
+        {
+            "title": "[구인] [서울영화센터] SFC 인사이트랩  ‘영화제작 프로젝트 투자 컨설팅 데이’ 참가자 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-23"
+        },
+        {
+            "title": "[구인] [로카] <현장연출팀 취업준비과정 4기> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-16"
+        },
+        {
+            "title": "[구인] [서울영화센터] <AI 시대, 영화 제작은 어떻게 달라지고 있나> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-20"
+        },
+        {
+            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-25"
+        }
+    ],
     "cine21": [
         {
             "title": "채용\n\nSFA\n[SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]\n2026-09-15",
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-16 09:48:19"
+    "last_updated": "2026-09-17 04:35:22"
 }
