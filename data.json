@@ -1,6 +1,62 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[구인] 단편영화 <For you>(가제)  스크립터 모집합니다.",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-27"
+        },
+        {
+            "title": "[구인] 콜로소 X 무비랩 배우 데뷔반 강의 오픈 안내 (실제 영화 오디션 기회 제공)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] [FVA x 21STUDIOS] 영화, 영상, AI 왕초보를 위한 BASIC CLASS",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-29"
+        },
+        {
+            "title": "[구인] [로카] <연출부 취업 가이드: 원데이 클래스> 오픈 확정!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-29"
+        },
+        {
+            "title": "[구인] [BIFAN] 제3차 영화인대상 AI 영상 제작 워크숍 참가자 모집 (~10/1)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-01"
+        },
+        {
+            "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-30"
+        },
+        {
+            "title": "[구인] [서울영화센터] <2026 AI 영화 쇼케이스> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-11"
+        },
+        {
+            "title": "[구인] [FVA x 21STUDIOS] 영화, 영상, AI 왕초보를 위한 BASIC CLASS",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-28"
+        },
+        {
+            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-30"
+        },
+        {
+            "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-09-30"
+        }
+    ],
     "cine21": [
+        {
+            "title": "채용\n\n엶엔터테인먼트\n단편영화 〈For you〉(가제) 연출부 스크립터 모집\n2026-09-23",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22700",
+            "date": "2026-09-23"
+        },
         {
             "title": "채용\n\n모비\n[모비] 2026 하반기 영화 홍보 마케팅 담당자(신입/경력) 채용합니다.\n2026-09-22",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22691",
@@ -44,11 +100,6 @@
         {
             "title": "채용\n\n에무시네마\n[에무시네마 프로그래머 채용 공고] 2026년 8월\n2026-08-26",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22638",
-            "date": "2026-08-26"
-        },
-        {
-            "title": "채용\n\n(주)더타이틀\n영화 배급/홍보, 마케팅 경력직 채용공고\n2026-08-26",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22637",
             "date": "2026-08-26"
         }
     ],
@@ -106,6 +157,11 @@
     ],
     "kofa": [
         {
+            "title": "[공고] 2026년 제4차 채용 공고",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-09-23"
+        },
+        {
             "title": "[채용/최종] 한국영상자료원 2026년 제3차 채용 최종 결과 발표",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-06-19"
@@ -149,11 +205,6 @@
             "title": "[채용/최종] 한국영상자료원 2026년 제1차 채용 최종 결과 발표",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-04-02"
-        },
-        {
-            "title": "한국영상자료원 2026년 제1차 채용 공고(체험형청년인턴 2명, 기간제계약직 8명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-02-25"
         }
     ],
     "dureraum": [
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-23 04:26:41"
+    "last_updated": "2026-09-23 09:51:27"
 }
