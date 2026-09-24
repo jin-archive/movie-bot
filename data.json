@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[구인] 단편영화 <For you>(가제)  스크립터 모집합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-27"
-        },
-        {
-            "title": "[구인] 콜로소 X 무비랩 배우 데뷔반 강의 오픈 안내 (실제 영화 오디션 기회 제공)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화, 영상, AI 왕초보를 위한 BASIC CLASS",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-29"
-        },
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드: 원데이 클래스> 오픈 확정!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-29"
-        },
-        {
-            "title": "[구인] [BIFAN] 제3차 영화인대상 AI 영상 제작 워크숍 참가자 모집 (~10/1)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-01"
-        },
-        {
-            "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-30"
-        },
-        {
-            "title": "[구인] [서울영화센터] <2026 AI 영화 쇼케이스> 공고 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-11"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화, 영상, AI 왕초보를 위한 BASIC CLASS",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-28"
-        },
-        {
-            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-30"
-        },
-        {
-            "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-30"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n엶엔터테인먼트\n단편영화 〈For you〉(가제) 연출부 스크립터 모집\n2026-09-23",
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-24 04:23:16"
+    "last_updated": "2026-09-24 09:51:07"
 }
