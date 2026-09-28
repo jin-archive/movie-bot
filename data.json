@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] 한국영상자료원 2026년 제4차 채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-07"
+        },
+        {
             "title": "[구인] [FVA x 21STUDIOS] 영화 영상 왕초보 BASIC CLASS 수강생 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
@@ -44,11 +49,6 @@
             "title": "[구인] [BIFAN] 제3차 영화인대상 AI 영상 제작 워크숍 참가자 모집 (~10/1)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-01"
-        },
-        {
-            "title": "[구인] [SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-30"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-28 05:00:16"
+    "last_updated": "2026-09-28 11:38:15"
 }
