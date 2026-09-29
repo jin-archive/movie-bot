@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[구인] 한국영상자료원 2026년 제4차 채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-07"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화 영상 왕초보 BASIC CLASS 수강생 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] 2027년도 <제15회 무주산골영화제> 사무국 스태프 1차 채용공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-20"
-        },
-        {
-            "title": "[구인] H&N Production | 장편 상업영화 시나리오 작가 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-27"
-        },
-        {
-            "title": "[구인] [우상번역] 영화 자막 번역사 모집 (영한, 한영, 일본어, 프리랜서 재택)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-25"
-        },
-        {
-            "title": "[구인] 단편영화 <For you>(가제)  스크립터 모집합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-27"
-        },
-        {
-            "title": "[구인] 콜로소 X 무비랩 배우 데뷔반 강의 오픈 안내 (실제 영화 오디션 기회 제공)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화, 영상, AI 왕초보를 위한 BASIC CLASS",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-29"
-        },
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드: 원데이 클래스> 오픈 확정!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-29"
-        },
-        {
-            "title": "[구인] [BIFAN] 제3차 영화인대상 AI 영상 제작 워크숍 참가자 모집 (~10/1)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-01"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n(재)무주산골문화재단\n2027년도 <제15회 무주산골영화제> 사무국 스태프 1차 채용공고\n2026-09-28",
@@ -66,11 +15,6 @@
             "title": "채용\n\n엶엔터테인먼트\n단편영화 〈For you〉(가제) 연출부 스크립터 모집\n2026-09-23",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22700",
             "date": "2026-09-23"
-        },
-        {
-            "title": "채용\n\n모비\n[모비] 2026 하반기 영화 홍보 마케팅 담당자(신입/경력) 채용합니다.\n2026-09-22",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22691",
-            "date": "2026-09-22"
         },
         {
             "title": "채용\n\nSFA\n[SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]\n2026-09-21",
@@ -100,6 +44,11 @@
         {
             "title": "채용\n\n주식회사 더틱톡\n방송홍보대행사 더틱톡 신입 직원 모집\n2026-08-27",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22642",
+            "date": "2026-08-27"
+        },
+        {
+            "title": "채용\n\n102Cinema\n[제작] [장편영화 〈럭키, 금순〉] PD(프로듀서) 모집\n2026-08-27",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22640",
             "date": "2026-08-27"
         }
     ],
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-28 11:38:15"
+    "last_updated": "2026-09-29 05:25:17"
 }
