@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[구인] '삶을 위한 영화 에세이 쓰기 수업'(온라인) 4기 참여자를 모집합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-14"
-        },
-        {
-            "title": "[구인] 한국영상자료원 2026년 제4차 채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-07"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화 영상 왕초보 BASIC CLASS 수강생 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] 2027년도 <제15회 무주산골영화제> 사무국 스태프 1차 채용공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-20"
-        },
-        {
-            "title": "[구인] H&N Production | 장편 상업영화 시나리오 작가 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-27"
-        },
-        {
-            "title": "[구인] [우상번역] 영화 자막 번역사 모집 (영한, 한영, 일본어, 프리랜서 재택)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-25"
-        },
-        {
-            "title": "[구인] 단편영화 <For you>(가제)  스크립터 모집합니다.",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-27"
-        },
-        {
-            "title": "[구인] 콜로소 X 무비랩 배우 데뷔반 강의 오픈 안내 (실제 영화 오디션 기회 제공)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화, 영상, AI 왕초보를 위한 BASIC CLASS",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-29"
-        },
-        {
-            "title": "[구인] [로카] <연출부 취업 가이드: 원데이 클래스> 오픈 확정!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-09-29"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n(재)무주산골문화재단\n2027년도 <제15회 무주산골영화제> 사무국 스태프 1차 채용공고\n2026-09-28",
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-09-29 13:55:54"
+    "last_updated": "2026-09-30 05:12:58"
 }
