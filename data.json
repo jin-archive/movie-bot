@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [로카] <영화 비즈니스 입문 64기> 공고 오픈! (얼리버드~10/14)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-28"
+        },
+        {
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 51기 in 성수> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-19"
@@ -44,14 +49,14 @@
             "title": "[구인] H&N Production | 장편 상업영화 시나리오 작가 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-27"
-        },
-        {
-            "title": "[구인] [우상번역] 영화 자막 번역사 모집 (영한, 한영, 일본어, 프리랜서 재택)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-25"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n주식회사 앨리캣\n[앨리캣] 영화 디지털 마케팅 신입/경력사원 채용합니다.\n2026-10-06",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22726",
+            "date": "2026-10-06"
+        },
         {
             "title": "채용\n\nWservices\n채용 [Wservices(왓챠 자회사)] 콘텐츠 이미지 운영 아르바이트를 모집합니다\n2026-10-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22723",
@@ -96,11 +101,6 @@
             "title": "채용\n\n루믹스미디어\n[루믹스미디어] 디지털 콘텐츠 유통 담당자 채용 합니다\n2026-09-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22669",
             "date": "2026-09-09"
-        },
-        {
-            "title": "채용\n\n주식회사 모팩스튜디오\n기획PD 채용(경력 10년 이상)\n2026-09-07",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22664",
-            "date": "2026-09-07"
         }
     ],
     "krmedia": [
@@ -155,7 +155,58 @@
             "date": "2026-06-18"
         }
     ],
-    "kofa": [],
+    "kofa": [
+        {
+            "title": "[공고] 2026년 제4차 채용 공고",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-09-23"
+        },
+        {
+            "title": "[채용/최종] 한국영상자료원 2026년 제3차 채용 최종 결과 발표",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-06-19"
+        },
+        {
+            "title": "[채용/최종] 한국영상자료원 2026년 제2차 채용 최종 결과 발표",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-06-19"
+        },
+        {
+            "title": "[채용/면접] 한국영상자료원 2026년 제3차 채용 증빙서류 제출 및 면접전형 안내",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-05-27"
+        },
+        {
+            "title": "[채용/필기 및 면접] 한국영상자료원 2026년 제2차 채용 필기전형 결과 및 면접전형 등 안내",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-05-27"
+        },
+        {
+            "title": "[채용/서류] 한국영상자료원 2026년 제3차 채용 서류전형 결과 및 이후 전형 안내",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-05-20"
+        },
+        {
+            "title": "[채용/서류] 한국영상자료원 2026년 제2차 채용 서류전형 결과 및 이후 전형 안내",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-05-20"
+        },
+        {
+            "title": "한국영상자료원 2026년 제3차 채용 공고(명예의전당·영상박물관 통합운영 분야 기간제계약직 7명)",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-04-23"
+        },
+        {
+            "title": "한국영상자료원 2026년 제2차 채용 공고(정규직 1명, 체험형청년인턴 2명, 기간제계약직 5명)",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-04-23"
+        },
+        {
+            "title": "[채용/최종] 한국영상자료원 2026년 제1차 채용 최종 결과 발표",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-04-02"
+        }
+    ],
     "dureraum": [
         {
             "title": "2026년도 하반기 영화의전당 통합채용 공고",
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-06 14:05:35"
+    "last_updated": "2026-10-07 05:33:19"
 }
