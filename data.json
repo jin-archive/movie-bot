@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] 간첩 이재명 새끼 간첩 신고자 이창국 대표 ㅡ 영화 간첩 대통령 (제작 예정)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
             "title": "[구인] [로카] <영화 비즈니스 입문 64기> 공고 오픈! (얼리버드~10/14)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-28"
@@ -44,11 +49,6 @@
             "title": "[구인] 2027년도 <제15회 무주산골영화제> 사무국 스태프 1차 채용공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-20"
-        },
-        {
-            "title": "[구인] H&N Production | 장편 상업영화 시나리오 작가 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-27"
         }
     ],
     "cine21": [
@@ -145,14 +145,14 @@
             "date": "2026-06-30"
         },
         {
-            "title": "2026 제6회 광명영화제 단편영화 작품공모 (-8/31,월)",
-            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11090&page=1",
-            "date": "2026-06-29"
-        },
-        {
             "title": "[2026JIMFF]  제21기 제천영화음악아카데미 수강생 모집!(7/1~선착순 모집마감)",
             "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11089&page=1",
             "date": "2026-06-18"
+        },
+        {
+            "title": "재단법인 관악문화재단 2026년 제2차 직원 채용공고 (미디어센터)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11088&page=1",
+            "date": "2026-06-02"
         }
     ],
     "kofa": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-07 05:33:19"
+    "last_updated": "2026-10-07 14:22:31"
 }
