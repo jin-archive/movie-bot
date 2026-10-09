@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 현장편집팀(2인 1팀) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-23"
+        },
+        {
             "title": "[구인] [SFA] 11월 연출/피디/영상/촬영/장편 과정 모집! [서울필름아카데미]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-31"
@@ -44,11 +49,6 @@
             "title": "[구인] 한국영상자료원 2026년 제4차 채용 공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-07"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화 영상 왕초보 BASIC CLASS 수강생 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
         }
     ],
     "cine21": [
@@ -103,7 +103,58 @@
             "date": "2026-09-09"
         }
     ],
-    "krmedia": [],
+    "krmedia": [
+        {
+            "title": "구립은평뉴타운도서관(은평뉴타운미디어라이브러리센터) 기간제 직원(육아휴직 대체) 채용 공고",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11103&page=1",
+            "date": "2026-10-06"
+        },
+        {
+            "title": "2026년 제6차 김포문화재단 직원채용 공고(임기직6급 1명, 임기직7급 1명)-영상미디어",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11101&page=1",
+            "date": "2026-09-15"
+        },
+        {
+            "title": "제28회 부천국제애니메이션페스티벌(BIAF2026) 관객심사단 '애니비(AniB)' 모집",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11100&page=1",
+            "date": "2026-09-06"
+        },
+        {
+            "title": "2026년 제28회 부천국제애니메이션페스티벌 자원활동가 '비아띠' 모집",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11097&page=1",
+            "date": "2026-08-19"
+        },
+        {
+            "title": "[7.23~2.27] 노원구 시간선택제 임기제공무원 채용 재공고(마을미디어지원센터 실무총괄 분야)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11096&page=1",
+            "date": "2026-07-21"
+        },
+        {
+            "title": "용인특례시 미디어센터 신규 직원 채용 공고(~08/10)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11094&page=1",
+            "date": "2026-07-14"
+        },
+        {
+            "title": "[7.13~7.15]서울시 노원구 시간선택제임기제공무원(마을미디어센터 실무총괄 분야)채용 공고",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11093&page=1",
+            "date": "2026-07-03"
+        },
+        {
+            "title": "[~7/7] 2026 안성미디어센터 사업 인력 (긴급) 채용 공고",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11091&page=1",
+            "date": "2026-06-30"
+        },
+        {
+            "title": "[2026JIMFF]  제21기 제천영화음악아카데미 수강생 모집!(7/1~선착순 모집마감)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11089&page=1",
+            "date": "2026-06-18"
+        },
+        {
+            "title": "재단법인 관악문화재단 2026년 제2차 직원 채용공고 (미디어센터)",
+            "link": "http://www.krmedia.org/pages/page_100.php?act_module=board_board_2&category=1&act_type=read&sn=11088&page=1",
+            "date": "2026-06-02"
+        }
+    ],
     "kofa": [
         {
             "title": "[공고] 2026년 제4차 채용 공고",
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-08 14:30:08"
+    "last_updated": "2026-10-09 05:46:02"
 }
