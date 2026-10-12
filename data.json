@@ -53,6 +53,11 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n102cinema\n[장편 독립영화 〈럭키, 금순〉] 현장편집팀(2인 1팀) 모집\n2026-10-09",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22734",
+            "date": "2026-10-09"
+        },
+        {
             "title": "채용\n\n주식회사 앨리캣\n[앨리캣] 영화 디지털 마케팅 신입/경력사원 채용합니다.\n2026-10-06",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22726",
             "date": "2026-10-06"
@@ -96,11 +101,6 @@
             "title": "채용\n\n전주국제영화제\n(재)전주국제영화제조직위원회 스태프(공용장비담당) 모집\n2026-09-15",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22683",
             "date": "2026-09-15"
-        },
-        {
-            "title": "채용\n\n루믹스미디어\n[루믹스미디어] 디지털 콘텐츠 유통 담당자 채용 합니다\n2026-09-09",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22669",
-            "date": "2026-09-09"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-11 13:53:57"
+    "last_updated": "2026-10-12 05:35:06"
 }
