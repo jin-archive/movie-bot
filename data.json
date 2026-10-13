@@ -1,6 +1,62 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[구인] 영화사 제작·배급 및 사무·행정 담당자",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-31"
+        },
+        {
+            "title": "[구인] [KT&G 상상마당 시네마] 소규모 상영회 공간지원 '상상 스위트 온스크린' 모집 안내(~10/25)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-25"
+        },
+        {
+            "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 현장편집팀(2인 1팀) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-23"
+        },
+        {
+            "title": "[구인] [SFA] 11월 연출/피디/영상/촬영/장편 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-31"
+        },
+        {
+            "title": "[구인] 간첩 이재명 새끼 간첩 신고자 이창국 대표 ㅡ 영화 간첩 대통령 (제작 예정)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 입문 64기> 공고 오픈! (얼리버드~10/14)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-28"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 51기 in 성수> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-19"
+        },
+        {
+            "title": "[구인] [로카] <촬영계획을 위한 시나리오 분석 실무 3기> 공고 오픈!(얼리버드~10/13)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-30"
+        },
+        {
+            "title": "[구인] 웰메이드 AI 영화 / 단편영화 제작을 위한 시나리오·컨티뉴이티 무료 zoom특강 수강생을 모집합니다.",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-14"
+        },
+        {
+            "title": "[구인] 부천국제판타스틱영화제 프로그램팀장 채용",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-11"
+        }
+    ],
     "cine21": [
+        {
+            "title": "채용\n\n딜라이트\n마케팅 및 PR 에이전시 딜라이트에서 경력 및 신입직원을 채용합니다.\n2026-10-12",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22739",
+            "date": "2026-10-12"
+        },
         {
             "title": "채용\n\n102cinema\n[장편 독립영화 〈럭키, 금순〉] 현장편집팀(2인 1팀) 모집\n2026-10-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22734",
@@ -44,11 +100,6 @@
         {
             "title": "채용\n\nSFA\n[SFA] 10월 연출/피디/영상/촬영/장편/숏폼 과정 모집! [서울필름아카데미]\n2026-09-15",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22684",
-            "date": "2026-09-15"
-        },
-        {
-            "title": "채용\n\n전주국제영화제\n(재)전주국제영화제조직위원회 스태프(공용장비담당) 모집\n2026-09-15",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22683",
             "date": "2026-09-15"
         }
     ],
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-12 16:39:07"
+    "last_updated": "2026-10-13 06:31:38"
 }
