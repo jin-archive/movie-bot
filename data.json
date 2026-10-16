@@ -31,11 +31,6 @@
             "date": "2026-10-23"
         },
         {
-            "title": "[구인] [SFA] 11월 연출/피디/영상/촬영/장편 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-10-31"
-        },
-        {
             "title": "[구인] 간첩 이재명 새끼 간첩 신고자 이창국 대표 ㅡ 영화 간첩 대통령 (제작 예정)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
@@ -49,6 +44,11 @@
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 51기 in 성수> 공고 오픈!",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-10-19"
+        },
+        {
+            "title": "[구인] [로카] <촬영계획을 위한 시나리오 분석 실무 3기> 공고 오픈!(얼리버드~10/13)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-30"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-16 04:11:12"
+    "last_updated": "2026-10-16 09:36:49"
 }
