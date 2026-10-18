@@ -1,5 +1,56 @@
 {
-    "kofic": [],
+    "kofic": [
+        {
+            "title": "[공지] 2026년 대체인력(일반사무) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-10-15"
+        },
+        {
+            "title": "[구인] [무료특강] 2027년 공모전! 당선으로 가는 길! (11월 2일/3일)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-03"
+        },
+        {
+            "title": "[구인] [SFA] 11월 연출/피디/영상/촬영/장편 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-31"
+        },
+        {
+            "title": "[구인] 영화사 제작·배급 및 사무·행정 담당자",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-31"
+        },
+        {
+            "title": "[구인] [KT&G 상상마당 시네마] 소규모 상영회 공간지원 '상상 스위트 온스크린' 모집 안내(~10/25)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-25"
+        },
+        {
+            "title": "[구인] [장편 독립영화 〈럭키, 금순〉] 현장편집팀(2인 1팀) 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-23"
+        },
+        {
+            "title": "[구인] 간첩 이재명 새끼 간첩 신고자 이창국 대표 ㅡ 영화 간첩 대통령 (제작 예정)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 입문 64기> 공고 오픈! (얼리버드~10/14)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-28"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 51기 in 성수> 공고 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-19"
+        },
+        {
+            "title": "[구인] [로카] <촬영계획을 위한 시나리오 분석 실무 3기> 공고 오픈!(얼리버드~10/13)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-30"
+        }
+    ],
     "cine21": [
         {
             "title": "채용\n\n위티\n[위티] 2026년 하반기 영화&OTT 마케팅 대행 경력직 채용공고\n2026-10-13",
@@ -220,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-17 09:08:27"
+    "last_updated": "2026-10-18 04:08:20"
 }
