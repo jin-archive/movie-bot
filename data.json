@@ -1,6 +1,11 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2026년 하반기 영화진흥위원회 정규직 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-10-22"
+        },
+        {
             "title": "[공지] 2026년 공무직(본사 미화) 공개채용 공고",
             "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
             "date": "2026-10-21"
@@ -9,6 +14,41 @@
             "title": "[공지] 2026년 대체인력(일반사무) 공개채용 공고",
             "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
             "date": "2026-10-15"
+        },
+        {
+            "title": "[구인] [서울영화센터] ‘영화제작 프로젝트 해외 세일즈 컨설팅 데이’  참가자 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “콘텐츠 저작권과 작가 계약”",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-09"
+        },
+        {
+            "title": "[구인] [㈜브로콜리픽쳐스] 영화·드라마 콘텐츠 기획개발 인턴 채용공고 (2026 우수인재 연계 기업인턴십)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-26"
+        },
+        {
+            "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 51기 in 성수> 올해 마지막 과정 신청 오픈!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-02"
+        },
+        {
+            "title": "[구인] [무료특강] 2027년 공모전! 당선으로 가는 길! (11월 2일/3일)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-03"
+        },
+        {
+            "title": "[구인] [SFA] 11월 연출/피디/영상/촬영/장편 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-31"
+        },
+        {
+            "title": "[구인] 영화사 제작·배급 및 사무·행정 담당자",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-31"
         }
     ],
     "cine21": [
@@ -231,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-22 04:20:10"
+    "last_updated": "2026-10-22 09:58:26"
 }
