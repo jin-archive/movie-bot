@@ -16,6 +16,11 @@
             "date": "2026-10-15"
         },
         {
+            "title": "[구인] 2027 제44회 부산국제단편영화제 스태프 1차 모집 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-11"
+        },
+        {
             "title": "[구인] [특강] AI가 작가를 대신한다? 틀린 말입니다! ​11월 무료 공개 강의! (11월 2일/3일)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-11-03"
@@ -44,11 +49,6 @@
             "title": "[구인] [서울영화센터] ‘영화제작 프로젝트 해외 세일즈 컨설팅 데이’  참가자 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “콘텐츠 저작권과 작가 계약”",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-09"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-29 05:25:25"
+    "last_updated": "2026-10-29 14:03:48"
 }
