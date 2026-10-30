@@ -1,19 +1,9 @@
 {
     "kofic": [
         {
-            "title": "[공지] 2026년 하반기 영화진흥위원회 정규직 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-10-22"
-        },
-        {
-            "title": "[공지] 2026년 공무직(본사 미화) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-10-21"
-        },
-        {
-            "title": "[공지] 2026년 대체인력(일반사무) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-10-15"
+            "title": "[구인] [FVA x 21STUDIOS] 영화 영상 왕초보, BASIC CLASS 수강생 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
         },
         {
             "title": "[구인] 2027 제44회 부산국제단편영화제 스태프 1차 모집 공고",
@@ -49,6 +39,16 @@
             "title": "[구인] [서울영화센터] ‘영화제작 프로젝트 해외 세일즈 컨설팅 데이’  참가자 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
+        },
+        {
+            "title": "[구인] [서울영화센터] 영화인을 위한 글로벌 역량강화 특강 “콘텐츠 저작권과 작가 계약”",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-09"
+        },
+        {
+            "title": "[구인] [㈜브로콜리픽쳐스] 영화·드라마 콘텐츠 기획개발 인턴 채용공고 (2026 우수인재 연계 기업인턴십)",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-10-26"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-10-29 14:03:48"
+    "last_updated": "2026-10-30 05:25:22"
 }
