@@ -1,56 +1,5 @@
 {
-    "kofic": [
-        {
-            "title": "[공지] 2026년 하반기 영화진흥위원회 정규직 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-10-22"
-        },
-        {
-            "title": "[공지] 2026년 공무직(본사 미화) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-10-21"
-        },
-        {
-            "title": "[공지] 2026년 대체인력(일반사무) 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-10-15"
-        },
-        {
-            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 교육생 20명 모집! [기획, 제작, 홍보마케팅, 투자, 배급, 수입, 포스터, 예고편 등]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-30"
-        },
-        {
-            "title": "[구인] [SFA] 12월 연출/피디/영상/촬영/장편 과정 모집! [서울필름아카데미]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-30"
-        },
-        {
-            "title": "[구인] [FVA x 21STUDIOS] 영화 영상 왕초보, BASIC CLASS 수강생 모집",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-31"
-        },
-        {
-            "title": "[구인] 2027 제44회 부산국제단편영화제 스태프 1차 모집 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-11"
-        },
-        {
-            "title": "[구인] [특강] AI가 작가를 대신한다? 틀린 말입니다! ​11월 무료 공개 강의! (11월 2일/3일)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-03"
-        },
-        {
-            "title": "[구인] [로카] <영화 비즈니스 입문 64기> 오픈 확정! 모집기간 연장(~11/3)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-03"
-        },
-        {
-            "title": "[구인] [무료특강] 감독이 되고 싶은데, 어디서부터 시작해야 할까? 🎬",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-07"
-        }
-    ],
+    "kofic": [],
     "cine21": [
         {
             "title": "채용\n\n(사)부산국제단편영화제\n제44회 부산국제단편영화제 스태프 1차 모집(팀장급) 공고\n2026-10-29",
@@ -271,5 +220,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-02 05:38:21"
+    "last_updated": "2026-11-02 16:57:52"
 }
