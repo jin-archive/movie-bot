@@ -16,6 +16,16 @@
             "date": "2026-10-15"
         },
         {
+            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 교육생 20명 모집! [기획, 제작, 홍보마케팅, 투자, 배급, 수입, 포스터, 예고편 등]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-30"
+        },
+        {
+            "title": "[구인] [SFA] 12월 연출/피디/영상/촬영/장편 과정 모집! [서울필름아카데미]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-30"
+        },
+        {
             "title": "[구인] [FVA x 21STUDIOS] 영화 영상 왕초보, BASIC CLASS 수강생 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
@@ -39,19 +49,24 @@
             "title": "[구인] [무료특강] 감독이 되고 싶은데, 어디서부터 시작해야 할까? 🎬",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-11-07"
-        },
-        {
-            "title": "[구인] [무료특강] 영화 투자·배급이 궁금하다면? NEW 서동욱 대표 마스터클래스 참가자 모집! 🎬",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-01"
-        },
-        {
-            "title": "[구인] 영화/OTT 마케팅홍보사 \"흥미진진\" 경력사원 채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-16"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n(사)부산국제단편영화제\n제44회 부산국제단편영화제 스태프 1차 모집(팀장급) 공고\n2026-10-29",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22773",
+            "date": "2026-10-29"
+        },
+        {
+            "title": "채용\n\n키노라이츠\nIP 콘텐츠 마케터(YouTube PD)를 모집합니다 (~11/15)\n2026-10-29",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22772",
+            "date": "2026-10-29"
+        },
+        {
+            "title": "채용\n\n딜라이트\n영화/OTT 홍보마케팅 에이전시 <딜라이트> 경력사원 채용공고\n2026-10-29",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22771",
+            "date": "2026-10-29"
+        },
         {
             "title": "채용\n\n흥미진진\n영화/OTT 마케팅홍보사 \"흥미진진\" 경력사원 채용 공고\n2026-10-26",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22765",
@@ -86,21 +101,6 @@
             "title": "채용\n\n위티\n[위티] 2026년 하반기 영화&OTT 마케팅 대행 경력직 채용공고\n2026-10-13",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22740",
             "date": "2026-10-13"
-        },
-        {
-            "title": "채용\n\n딜라이트\n[딜라이트] 마케팅 및 PR 에이전시 딜라이트에서 경력 및 신입직원을 채용합니다.\n2026-10-12",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22739",
-            "date": "2026-10-12"
-        },
-        {
-            "title": "채용\n\n102cinema\n[장편 독립영화 〈럭키, 금순〉] 현장편집팀(2인 1팀) 모집\n2026-10-09",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22734",
-            "date": "2026-10-09"
-        },
-        {
-            "title": "채용\n\nWservices\n채용 [Wservices(왓챠 자회사)] 콘텐츠 이미지 운영 아르바이트를 모집합니다\n2026-10-06",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22723",
-            "date": "2026-10-06"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-01 14:11:30"
+    "last_updated": "2026-11-02 05:38:21"
 }
