@@ -53,6 +53,21 @@
     ],
     "cine21": [
         {
+            "title": "채용\n\n씨네21\n씨네21 취재기자 채용 공고\n2026-11-05",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22789",
+            "date": "2026-11-05"
+        },
+        {
+            "title": "채용\n\n(주)이놀미디어\n[이놀미디어] 영상 번역 자막 프로젝트 매니저(PM)을 모집합니다.\n2026-11-04",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22788",
+            "date": "2026-11-04"
+        },
+        {
+            "title": "채용\n\n(주)영화사 백두대간\n아트하우스 모모 홍보 및 기획 코디네이터 (~11/30)\n2026-11-04",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22783",
+            "date": "2026-11-04"
+        },
+        {
             "title": "채용\n\ncjenm\n[CJENM] 해외배급팀 인턴사원 모집\n2026-11-03",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22781",
             "date": "2026-11-03"
@@ -86,21 +101,6 @@
             "title": "채용\n\n\n단편영화 스크립터\n2026-10-22",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22762",
             "date": "2026-10-22"
-        },
-        {
-            "title": "채용\n\n(주)뱅가드\n[뱅가드] 홍보마케팅팀 직원을 모집합니다 ( ~ 10/31 (토) 오후6시 )\n2026-10-22",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22761",
-            "date": "2026-10-22"
-        },
-        {
-            "title": "채용\n\n(주)브로콜리픽쳐스\n[㈜브로콜리픽쳐스] 영화·드라마 콘텐츠 기획개발 인턴 채용공고「2026 우수인재 연계 기업인턴십」\n2026-10-19",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22755",
-            "date": "2026-10-19"
-        },
-        {
-            "title": "채용\n\n(주)스토리제이\n영화 홍보물 제작 및 후반작업 담당자 모집\n2026-10-16",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22752",
-            "date": "2026-10-16"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-04 15:17:47"
+    "last_updated": "2026-11-05 06:14:42"
 }
