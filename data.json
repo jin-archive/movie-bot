@@ -157,6 +157,11 @@
     ],
     "kofa": [
         {
+            "title": "[채용/서류] 한국영상자료원 2026년 제4차 채용 서류전형 결과 및 이후 전형 안내",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-10-23"
+        },
+        {
             "title": "[공고] 2026년 제4차 채용 공고",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-09-23"
@@ -200,11 +205,6 @@
             "title": "한국영상자료원 2026년 제2차 채용 공고(정규직 1명, 체험형청년인턴 2명, 기간제계약직 5명)",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-04-23"
-        },
-        {
-            "title": "[채용/최종] 한국영상자료원 2026년 제1차 채용 최종 결과 발표",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-02"
         }
     ],
     "dureraum": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-05 06:14:42"
+    "last_updated": "2026-11-05 15:18:42"
 }
