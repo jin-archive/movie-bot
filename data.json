@@ -157,6 +157,11 @@
     ],
     "kofa": [
         {
+            "title": "[채용/최종] 한국영상자료원 2026년 제4차 채용 최종 결과 발표(체험형청년인턴 및 기간제계약직)",
+            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
+            "date": "2026-11-05"
+        },
+        {
             "title": "[채용/서류] 한국영상자료원 2026년 제4차 채용 서류전형 결과 및 이후 전형 안내",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-10-23"
@@ -198,11 +203,6 @@
         },
         {
             "title": "한국영상자료원 2026년 제3차 채용 공고(명예의전당·영상박물관 통합운영 분야 기간제계약직 7명)",
-            "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
-            "date": "2026-04-23"
-        },
-        {
-            "title": "한국영상자료원 2026년 제2차 채용 공고(정규직 1명, 체험형청년인턴 2명, 기간제계약직 5명)",
             "link": "https://www.koreafilm.or.kr/kofa/news/recruit#none",
             "date": "2026-04-23"
         }
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-10 06:56:45"
+    "last_updated": "2026-11-10 15:30:41"
 }
