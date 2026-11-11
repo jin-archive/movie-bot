@@ -16,6 +16,11 @@
             "date": "2026-10-15"
         },
         {
+            "title": "[구인] [MBC아카데미] 영화 홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 실무교육생 모집!!",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-31"
+        },
+        {
             "title": "[구인] [로카] 국내 유일의 영화 비즈니스 전문 아카데미 로카에서 신입/경력직원을 모집합니다.",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
@@ -44,14 +49,24 @@
             "title": "[구인] [서울영화센터] 영화인을 위한 역량강화 특강 “세계 영화의 흐름과 한국영화의 오늘 – 칸 국제영화제를 중심으로”",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-11-25"
-        },
-        {
-            "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 교육생 20명 모집! [기획, 제작, 홍보마케팅, 투자, 배급, 수입, 포스터, 예고편 등]",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-30"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n미디어캐슬\n영화수입/배급사 [미디어캐슬] 홍보마케팅 경력 사원 채용\n2026-11-10",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22800",
+            "date": "2026-11-10"
+        },
+        {
+            "title": "채용\n\nLOCA\n[로카] 국내 유일의 영화 비즈니스 전문 아카데미 로카에서 신입/경력직원을 모집합니다.\n2026-11-10",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22799",
+            "date": "2026-11-10"
+        },
+        {
+            "title": "채용\n\n전주국제영화제조직위원회\n제28회 전주국제영화제 단기스태프 모집_1차\n2026-11-10",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22798",
+            "date": "2026-11-10"
+        },
         {
             "title": "채용\n\n주식회사 더타이틀\n배급/홍보, 마케팅 경력직 채용(!명)\n2026-11-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22797",
@@ -86,21 +101,6 @@
             "title": "채용\n\n주식회사 영화인\n[주식회사 영화인] 영화 홍보 마케팅사 영화인 신입/경력사원 채용공고 (~11/11)\n2026-11-03",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22780",
             "date": "2026-11-03"
-        },
-        {
-            "title": "채용\n\n(사)부산국제단편영화제\n제44회 부산국제단편영화제 스태프 1차 모집(팀장급) 공고\n2026-10-29",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22773",
-            "date": "2026-10-29"
-        },
-        {
-            "title": "채용\n\n키노라이츠\nIP 콘텐츠 마케터(YouTube PD)를 모집합니다 (~11/15)\n2026-10-29",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22772",
-            "date": "2026-10-29"
-        },
-        {
-            "title": "채용\n\n딜라이트\n영화/OTT 홍보마케팅 에이전시 <딜라이트> 경력사원 채용공고\n2026-10-29",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22771",
-            "date": "2026-10-29"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-10 15:30:41"
+    "last_updated": "2026-11-11 05:47:07"
 }
