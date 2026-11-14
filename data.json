@@ -11,6 +11,11 @@
             "date": "2026-10-21"
         },
         {
+            "title": "[구인] 서울영화센터 SFC 인사이트랩  ‘영화제작 프로젝트 마케팅 컨설팅 데이’  참가자 모집",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-30"
+        },
+        {
             "title": "[구인] 하이컨셉픽쳐스(주) 배우 지망생 모의 오디션 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-11-15"
@@ -44,11 +49,6 @@
             "title": "[구인] 2027년도 제15회 무주산골영화제 사무국 스태프 2차 채용공고",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-11-10"
-        },
-        {
-            "title": "[구인] [서울영화센터] 영화인을 위한 역량강화 특강 “세계 영화의 흐름과 한국영화의 오늘 – 칸 국제영화제를 중심으로”",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-25"
         }
     ],
     "cine21": [
@@ -70,11 +70,6 @@
         {
             "title": "채용\n\n주식회사 더타이틀\n배급/홍보, 마케팅 경력직 채용(!명)\n2026-11-09",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22797",
-            "date": "2026-11-09"
-        },
-        {
-            "title": "채용\n\n딜라이트\n[딜라이트] 영화 및 OTT 홍보마케팅 경력자 모집(~11/13)\n2026-11-09",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22796",
             "date": "2026-11-09"
         },
         {
@@ -101,6 +96,11 @@
             "title": "채용\n\n주식회사 영화인\n[주식회사 영화인] 영화 홍보 마케팅사 영화인 신입/경력사원 채용공고 (~11/11)\n2026-11-03",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22780",
             "date": "2026-11-03"
+        },
+        {
+            "title": "채용\n\n(사)부산국제단편영화제\n제44회 부산국제단편영화제 스태프 1차 모집(팀장급) 공고\n2026-10-29",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22773",
+            "date": "2026-10-29"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-13 15:15:37"
+    "last_updated": "2026-11-14 05:57:03"
 }
