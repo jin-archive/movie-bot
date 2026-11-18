@@ -1,6 +1,16 @@
 {
     "kofic": [
         {
+            "title": "[공지] 2027년 상반기 청년 체험형 인턴(일반) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-11-18"
+        },
+        {
+            "title": "[공지] 2027년 상반기 청년 체험형 인턴(장애인제한경쟁/단시간근로제) 공개채용 공고",
+            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
+            "date": "2026-11-18"
+        },
+        {
             "title": "[공지] 2026년 하반기 영화진흥위원회 정규직 공개채용 공고",
             "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
             "date": "2026-10-22"
@@ -39,19 +49,19 @@
             "title": "[구인] 제28회 전주국제영화제 1차 단기 스태프 모집",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-11-23"
-        },
-        {
-            "title": "[구인] [로카] <영화사 취업 설명회 by LOCA> 올해 마지막 강의 오픈!",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-12-11"
-        },
-        {
-            "title": "[구인] 제23회 미쟝센단편영화제 채용공고 (프로그램팀장)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-18"
         }
     ],
     "cine21": [
+        {
+            "title": "채용\n\n씨네21\n씨네21 사업기획1팀장 채용 공고\n2026-11-18",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22811",
+            "date": "2026-11-18"
+        },
+        {
+            "title": "채용\n\n트리플픽쳐스\n[㈜트리플픽쳐스] 배급/마케팅 경력을 모집합니다. (~ 11/29)\n2026-11-17",
+            "link": "https://cine21.com/community/recruit/view/?wr_id=22810",
+            "date": "2026-11-17"
+        },
         {
             "title": "채용\n\n딜라이트\n영화/OTT 홍보마케팅 에이전시 [딜라이트] 경력사원 공고 (~채용시)\n2026-11-14",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22805",
@@ -91,16 +101,6 @@
             "title": "채용\n\n(주)영화사 백두대간\n아트하우스 모모 홍보 및 기획 코디네이터 (~11/30)\n2026-11-04",
             "link": "https://cine21.com/community/recruit/view/?wr_id=22783",
             "date": "2026-11-04"
-        },
-        {
-            "title": "채용\n\ncjenm\n[CJENM] 해외배급팀 인턴사원 모집\n2026-11-03",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22781",
-            "date": "2026-11-03"
-        },
-        {
-            "title": "채용\n\n주식회사 영화인\n[주식회사 영화인] 영화 홍보 마케팅사 영화인 신입/경력사원 채용공고 (~11/11)\n2026-11-03",
-            "link": "https://cine21.com/community/recruit/view/?wr_id=22780",
-            "date": "2026-11-03"
         }
     ],
     "krmedia": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-17 18:21:59"
+    "last_updated": "2026-11-18 06:58:40"
 }
