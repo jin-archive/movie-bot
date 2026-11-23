@@ -16,6 +16,11 @@
             "date": "2026-10-22"
         },
         {
+            "title": "[구인] [아트하우스 모모] 알랭 레네 <지난 해 마리앙바드에서> 특별상영 강연 프로그램 (12/14(목), 12/24(목))",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-12-24"
+        },
+        {
             "title": "[구인] [MBC아카데미] 영화홍보마케팅&프로듀서 실무교육생 20명 모집! [홍보마케팅, 프로듀서, 기획, 제작, 예고편, 수입, 투자, 배급 등]",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-31"
@@ -44,11 +49,6 @@
             "title": "[구인] [로카] <영화 비즈니스 취업 준비 과정 52기 in 성수> 27년 첫 강의 오픈! (얼리버드~11/26)",
             "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
             "date": "2026-12-28"
-        },
-        {
-            "title": "[구인] [㈜트리플픽쳐스] 마케팅/배급 업무 담당 경력직 직원 모집(~11/29)",
-            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
-            "date": "2026-11-29"
         }
     ],
     "cine21": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-23 07:08:16"
+    "last_updated": "2026-11-23 21:07:16"
 }
