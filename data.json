@@ -11,9 +11,9 @@
             "date": "2026-11-18"
         },
         {
-            "title": "[공지] 2026년 하반기 영화진흥위원회 정규직 공개채용 공고",
-            "link": "https://www.kofic.or.kr/kofic/business/board/selectBoardList.do?boardNumber=4#none",
-            "date": "2026-10-22"
+            "title": "[구인] [HCP] 12월 감독/피디/영상/배우 과정 모집! [하이컨셉픽쳐스]",
+            "link": "https://www.kofic.or.kr/kofic/business/infm/findJobList.do#none",
+            "date": "2026-11-30"
         },
         {
             "title": "[구인] [아트하우스 모모] 알랭 레네 <지난 해 마리앙바드에서> 특별상영 강연 프로그램 (12/14(목), 12/24(목))",
@@ -209,6 +209,11 @@
     ],
     "dureraum": [
         {
+            "title": "(재)영화의전당 하반기 신규직원 채용 서류...",
+            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=363",
+            "date": ""
+        },
+        {
             "title": "2026년도 하반기 영화의전당 통합채용 공고",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=360",
             "date": "2026-09-17"
@@ -252,11 +257,6 @@
             "title": "(재)영화의전당 2025년 하반기 통합 채용 ...",
             "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=342",
             "date": ""
-        },
-        {
-            "title": "(재)영화의전당 2025년 제4차 기간제 채용 ...",
-            "link": "https://www.dureraum.org/bcc/board/view.do?rbsIdx=64&idx=341",
-            "date": ""
         }
     ],
     "kmrb": [
@@ -271,5 +271,5 @@
             "date": "2026-05-04"
         }
     ],
-    "last_updated": "2026-11-23 21:07:16"
+    "last_updated": "2026-11-24 09:32:22"
 }
